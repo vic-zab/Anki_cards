@@ -8,7 +8,7 @@ div.front, div.back {
     text-align: center;
     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
                  "Helvetica Neue", "Segoe UI", sans-serif;
-    background: linear-gradient(160deg, #12101e 0%, #1a1530 50%, #151225 100%);
+    background: linear-gradient(160deg, #141414 0%, #1a1a1a 50%, #161616 100%);
     margin: 0;
     padding: 48px 32px;
     box-sizing: border-box;
@@ -61,15 +61,21 @@ ruby rt {
 
 .front .meaning {
     font-size: 52px;
-    font-weight: 700;
+    font-weight: 500;
     color: #BC0055;
     letter-spacing: -0.02em;
     line-height: 1.2;
     animation: fadeIn 0.5s ease-out both;
 }
 
+.front .meaning-en {
+    margin-top: 10px;
+    font-size: 40px;
+    animation: fadeIn 0.5s ease-out 0.1s both;
+}
+
 .divider {
-    width: 420px;
+    width: 450px;
     height: 3px;
     background: rgba(255, 255, 255, 0.15);
     margin: 32px 0;
@@ -111,43 +117,6 @@ ruby rt {
    BACK CARD
    ═══════════════════════════════════════════ */
 
-/* ── Ambient Orbs (animated) ── */
-
-.orb {
-    position: absolute;
-    border-radius: 50%;
-    filter: blur(50px);
-    z-index: 0;
-    pointer-events: none;
-}
-
-.orb-1 {
-    width: 200px;
-    height: 200px;
-    background: rgba(188, 0, 85, 0.20);
-    top: -40px;
-    left: -50px;
-    animation: orbDrift1 7s ease-in-out infinite alternate;
-}
-
-.orb-2 {
-    width: 170px;
-    height: 170px;
-    background: rgba(90, 60, 220, 0.18);
-    top: 0px;
-    right: -40px;
-    animation: orbDrift2 8s ease-in-out 0.5s infinite alternate-reverse;
-}
-
-.orb-3 {
-    width: 140px;
-    height: 140px;
-    background: rgba(60, 180, 255, 0.12);
-    bottom: 30px;
-    left: 10px;
-    animation: orbDrift3 6s ease-in-out 1s infinite alternate;
-}
-
 /* ── Liquid Glass Card ── */
 
 .glass-card {
@@ -162,37 +131,13 @@ ruby rt {
     );
     -webkit-backdrop-filter: blur(28px) saturate(180%);
     backdrop-filter: blur(28px) saturate(180%);
-    border: 1px solid rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.14);
     box-shadow:
         0 16px 48px rgba(0, 0, 0, 0.25),
         0 4px 12px rgba(0, 0, 0, 0.15),
-        inset 0 1px 0 rgba(255, 255, 255, 0.15);
+        inset 0 1px 0 rgba(255, 255, 255, 0.25),
+        inset 0 -1px 0 rgba(255, 255, 255, 0.05);
     animation: glassReveal 0.65s cubic-bezier(0.16, 1, 0.3, 1) both;
-}
-
-/* specular edge highlight */
-.glass-card::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    border-radius: 28px;
-    padding: 1px;
-    background: linear-gradient(
-        160deg,
-        rgba(255, 255, 255, 0.25) 0%,
-        transparent 35%,
-        transparent 65%,
-        rgba(255, 255, 255, 0.06) 100%
-    );
-    -webkit-mask:
-        linear-gradient(#fff 0 0) content-box,
-        linear-gradient(#fff 0 0);
-    mask:
-        linear-gradient(#fff 0 0) content-box,
-        linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask-composite: exclude;
-    pointer-events: none;
 }
 
 /* ── Expression (Kanji) ── */
@@ -307,21 +252,6 @@ ruby rt {
     }
 }
 
-@keyframes orbDrift1 {
-    from { transform: translate(0, 0) scale(1); }
-    to { transform: translate(15px, -12px) scale(1.05); }
-}
-
-@keyframes orbDrift2 {
-    from { transform: translate(0, 0) scale(1); }
-    to { transform: translate(-12px, 10px) scale(1.08); }
-}
-
-@keyframes orbDrift3 {
-    from { transform: translate(0, 0) scale(1); }
-    to { transform: translate(10px, -15px) scale(1.04); }
-}
-
 
 /* ═══════════════════════════════════════════
    MOBILE OVERRIDES
@@ -334,6 +264,10 @@ ruby rt {
 
 .mobile .front .meaning {
     font-size: 40px;
+}
+
+.mobile .front .meaning-en {
+    font-size: 30px;
 }
 
 .mobile .front .hint {
@@ -370,21 +304,6 @@ ruby rt {
 .mobile .hint-back {
     font-size: 44px;
     max-width: 340px;
-}
-
-.mobile .orb-1 {
-    width: 160px;
-    height: 160px;
-}
-
-.mobile .orb-2 {
-    width: 130px;
-    height: 130px;
-}
-
-.mobile .orb-3 {
-    width: 110px;
-    height: 110px;
 }
 
 /* ── Mobile Japanese Fonts ── */

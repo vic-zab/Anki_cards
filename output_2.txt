@@ -1,0 +1,2204 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:9
+hU/J~}D]=B	1	一	uno	one	○[いち]度[ど]<br>同[どう]○[いつ]<br><br>○[ひと]息[いき]<br>○[ひと]つ	一		
+ui]||Wx,Jj	2	二	dos	two	○[に]分[ぶん]<br><br>○[ふた]人[り]	二		
+e*D6YW`J5E	3	三	tres	three	○[さん]角[かく]<br><br>○[みっ]つ<br>○[みっ]日[か]	三		
+Ix;2,-Fa^g	4	四	cuatro	four	○[し]角[かく]<br><br>○[よっ]日[か]	四		
+xIhzN>.>p-	5	五	cinco	five	○[ご]<br><br>○[いつ]日[か]	五		
+l7s~M3W^m|	6	六	seis	six	○[ろく]<br><br>○[むっ]つ<br>○[むい]日[か]	六		
+"u#Qdu.}*SH"	7	七	siete	seven	○[しち]月[がつ]<br><br>○[なな]つ<br>○[なの]日[か]	七		
+z^7yW:V?=?	8	八	ocho	eight	○[はち]月[がつ]<br><br>○[やっ]つ<br>○[よう]日[か]	八		
+bP9UfR3f<&	9	九	nueve	nine	○[く]月[がつ]<br><br>○[ここの]つ<br>○[ここの]日[か]	九		
+"b4.@1NuF#5"	10	十	diez	ten	○[じゅう]字[じ]架[か]<br>○[じゅう]月[がつ]<br><br><br>○[とお]日[か]	十		
+i)Uu8f:Lpv	11	口	boca	mouth	人[じん]○[こう]<br>○[く]調[ちょう]<br><br>○[くち]<br>入[いり]○[ぐち]	口[くち]		
+bhRCXt,eNf	12	日	día	day	毎[まい]○[にち]<br>休[きゅう]○[じつ]<br><br>○[ひ]	日[ひ]		
+NPwm`@EGs;	13	月	mes	month	今[こん]○[げつ]<br>正[しょう]○[がつ]<br><br>○[つき]	月[つき]		
+AoeArTY[rN	14	田	campo de arroz	rice field	水[すい]○[でん]<br><br>○[たん]んぼ	田[た]		
+HP^-$oB~{p	15	目	ojo	eye	○[もく]的[てき]<br>面[めん]○[ぼく]<br><br>○[め]立[だ]つ	目[め]		
+LJyOEz7S{m	16	古	viejo	old	○[こ]典[てん]<br><br>○[ふる]い	古[こ]		
+GH?o44IduS	17	吾	yo	I	○[あ]妻[ずま]	吾[われ]		
+h;4GWct,<+	18	冒	riesgo	risk	○[ぼう]険[けん]<br><br>○[おか]す	冒		
+zmngYYo$WK	19	朋	compañera	companion	○[ほう]友[ゆう]<br><br>○[とも]	朋[とも]		
+PU_<M9^j*,	20	明	claro	bright	説[せつ]○[めい]<br><br>○[あ]かり<br>○[あき]らか	明[あきら]		
+sW+`QkgQzd	21	唱	canto	chant	合[がっ]○[しょう]<br><br>○[とな]える	唱		
+d[:]~hsVX0	22	晶	destello	sparkle	結[けっ]○[しょう]	晶[あきら]		
+"Mn#0q1)Q8S"	23	品	mercancías	goods	作[さく]○[ひん]<br><br>○[しな]物[もの]	品[しな]		
+O/zJKpIK`s	24	呂	espina dorsal	spine	風[ふ]○[ろ]	呂[りょ]		
+J_[NjRPmQA	25	昌	próspero	prospeous	○[しょう]泰[たい]	昌[あきら]		
+fP`+9AqBPS	26	早	temprano	early	○[かっ]速[そく]<br><br>○[はや]い	早[はや]		
+GaLe.J6_qi	27	旭	sol naciente	rising sun	○[きょく]日[じつ]<br><br>○[あさひ]	旭[あさひ]		
+DPMS-tZ-rt	28	世	generación	generation	○[せい]紀[き]<br>○[せ]界[かい]<br><br>○[よ]の 中[なか]	世[よ]		
+eGTO_!X<Ds	29	胃	estómago	stomach	○[い]	胃[い]		
+"H<c5~9:#1C"	30	旦	amanecer	nightbreak	○[いっ]旦[たん]<br><br>○[だん]那[な]	旦[だん]		leech
+Ev`o^Q`,:o	31	胆	vesícula biliar	gall bladder	大[だい]○[たん]	胆[きも]		
+GG)UPIppKS	32	亘	atravesar	span	○[わた]る	亘[わたる]		leech
+wl:V%+B-J]	33	凹	cóncavo	concave	凸[でこ]○[ぼこ]	凹[おう]		
+l.F1PYjJ0P	34	凸	convexo	convex	○[でこ]凹[ぼこ]	凸[とつ]		
+EWgw^nZ8;~	35	旧	antigüedad	olden times	○[きゅう]字[じ]体[たい]	旧[きゅう]		
+rR(bn1R.=O	36	自	uno mismo	oneself	○[じ]分[ぶん]<br>○[し]然[ぜん]<br><br>○[みずか]ら	自[じ]		
+mrUX6}!lLt	37	白	blanco	white	○髪[しらが]<br>明[めい]○[はく]<br><br>○[しろ]<br>○[しろ]い	白[しろ]		
+EL`4Y,`pW_	38	百	cien	hundred	○[ひゃく]<br><br>八[や]○[お]屋[や]	百[ひゃく]		
+c}Q%)kW+5)	39	中	en	in	～ ○[ちゅう]<br>○[ちゅう]央[おう]<br><br>○[なか]	中[なか]		
+Y<k(~u@K}	40	千	mil	thousand	○[せん]<br><br>○[ち]切[ぎ]る	千[せん]		
+Qb^)eG/>)w	41	舌	lengua	tongue	毒[どく]○[ぜつ]<br><br>○[した]	舌[した]		
+qL0oCej1MO	42	升	caja para medir	measuring box	○[ます]	升[ます]		
+y.=7ysAJ*V	43	昇	elevarse	rise up	○[しょう]進[しん]	昇[のぼり]		
+kU;3&}mX%}	44	丸	redondo	round	弾[だん]○[がん]<br><br>○[まる]い	丸[まる]		
+xtiRzc4g,k	45	寸	medida	measurement	○[すん]法[ぽう]	寸[すん]		
+"B&g-5C{^#>"	46	肘	codo	elbow	○[ひじ]	肘[ひじ]		
+"dMAN,a#_O!"	47	専	especialidad	specialty	○[せん]攻[こう]	専[せん]		leech
+O}Oa(yQ:w	48	博	Dr.	Dr.	○[はく]物[ぶつ]館[かん]	博[ひろし]		
+p2_&@yUy,G	49	占	adivinación	fortune-telling	独[どく]○[せん]<br><br>○[し]める<br>○[うらな]う	占[うらない]		
+"gLtG$#460}"	50	上	arriba	above	○[じょう]旬[じゅん]<br><br>目[め]○[うえ]<br>○[あ]げる<br>○[なぼ]る	上[うえ]		
+QX1:[2bON&	51	下	abajo	below	地[ち]○[か]鉄[てつ]<br>○[げ]車[しゃ]<br><br>○[した]<br>足[あし]○[もと]<br>○[さ]がる<br>○[さ]げる<br>○[お]りる	下[した]		
+4`=ka^~/i	52	卓	eminente	eminent	食[しょく]○[たく]	卓[たく]		
+m*ozL3wS%V	53	朝	mañana	morning	早[そ]○[ちょう]<br><br>毎[まい]○[あさ]	朝[あさ]		
+y|/<A&wKtd	54	嘲	escarnio	derision	自[じ]○[ちょう]<br><br>○[あざけ]る	嘲[あざけ]		
+jxH;O:Kx[(	55	只	único	only	○[ただ]	只[ただ]		
+n-}V}BwkO(	56	貝	almeja	shellfish	○[かい]殻[がら]	貝[かい]		
+J1D>75P`k5	57	唄	canción pop	pop song	○[うた]	唄[うた]		leech
+GGr.C|]q@@	58	貞	recto	upright	不[ふ]○[てい]	貞[さだ]		
+v)cQ.Or]$=	59	員	empleado	employee	社[しゃ]○[いん]	員[いん]		
+An0hPq,~p|	60	貼	fijar	post a bill	○[は]る	貼[は]		
+ui{K=c^2Ol	61	見	ver	see	意[い]○[けん]<br><br>○[み]る<br>○[み]える	見[み]		
+"og%l#K?!~Q"	62	児	recién nacido	newborn babe	幼[よう]○[じ]<br><br>小[しょう]○[に]科[か]	児[こ]		
+"yBd)#G:*#:"	63	元	principio	beginning	○[げん]素[そ]<br><br>地[じ]○[もと]	元[もと]		
+td*P.._ZWE	64	頁	página	page	○[ページ]	頁[ぺーじ]		
+BO[7mi_j>l	65	頑	tozudo	stubborn	○[がん]固[こ]<br>○[がん]張[ば]る	頑[かたくな]		
+HmlEc_~1--	66	凡	mediocre	mediocre	平[へい]○[ぼん]<br><br>○[およ]そ	凡[ぼん]		
+FjWd2G]!E~	67	負	derrota	defeat	○[ふ]担[たん]<br><br>○[ま]ける	負[まけ]		
+ioye(fs@+	68	万	diez mil	ten thousand	○[まん]	万[ばん]		
+c)MAm=Zg[m	69	句	frase	phrase	○[く]	句[く]		
+"A#Av92dGR2"	70	肌	piel	texture	○[はだ]	肌[はだ]		leech
+"mi#?I|vlc&"	71	旬	decamerón	decameron	上[じょう]○[じゅん]<br><br>○[しゅん]	旬[しゅん]		
+"eQ#1?KhLyT"	72	勺	cucharón	ladle	○[しゃく]	勺[しゃく]		
+Qc&khv{Dd2	73	的	diana	bull's eye	目[もく]○[てき]<br><br>○[まと]	的[てき]		
+ru6f6P1)%e	74	首	cuello	neck	○[しゅ]相[しょう]<br><br>○[くび]	首[くび]		
+bR`,f17DIY	75	乙	entrañas de pescado	fish guts	○[おつ]	乙[おつ]		
+k(%v3U+/{X	76	乱	tumulto	riot	混[こん]○[らん]	乱[らん]		
+bezNMFq6$1	77	直	directamente	straightway	○[ちょく]接[せつ]<br><br>正[しょう]○[じき]	直[ただし]		
+5oQ&|dQxj	78	具	herramienta	tool	道[どう]○[ぐ]	具[ぐ]		
+r|nf:Vr|jc	79	真	verdad	true	写[しゃ]○[しん]<br><br>○[ま]っ 直[す]ぐ	真[しん]		
+iA{fTB^U@!	80	工	técnica	craft	○[こう]場[じょう]<br><br>大[だい]○[く]	工[こう]		leech
+zWjXuA/dZ<	81	左	izquierda	left	○[さ]右[ゆう]<br><br>○[ひだり]	左[ひだり]		
+C?>*4fSTKJ	82	右	derecha	right	左[さ]○[ゆう]<br><br>○[みぎ]	右[みぎ]		
+gLz?=L0;fP	83	有	posesión	possess	○[ゆう]名[めい]<br>○[ゆう]利[り]<br><br>○[あ]る・ 在[あ]る	有[ゆう]		
+PG5V*S_99Y	84	賄	soborno	bribe	収[しゅう]○[わい]<br>○[わい]賂[ろ]<br><br>○[まかな]う	賄[まかない]		
+s+:W65~,TJ	85	貢	tributo	tribute	○[こう]献[けん]	貢[みつぎ]		
+w`r!*jRjj;	86	項	párrafo	paragraph	○[こう]目[もく]	項[こう]		
+q{1RudZ^B|	87	刀	espada	sword	短[たん]○[とう]<br><br>○[かたな]	刀[かたな]		
+b4=jpanU0z	88	刃	filo	blade	白[はく]○[じん]<br><br>○[は]物[もの]	刃[は]		
+PKq8Yr,kM,	89	切	cortar	cut	大[たい]○[せつ]<br>一[いっ]○[さい]<br><br>○[き]る	切[せつ]		
+)fS$;5F(v	90	召	seducir	seduce	○[しょう]集[しゅう]<br><br>○[め]す	召		
+AJGWx8;AaB	91	昭	brillante	shining	○[しょう]和[わ]	昭[あきら]		leech
+t:/;2hn^0j	92	則	norma	rule	規[き]○[そく]<br>法[ほう]○[そく]	則[のり]		
+QMkc5UoPRI	93	副	vice-	vice	○[ふく]業[ぎょう]	副[ふく]		
+eX?sVJq_{0	94	別	separar	separate	特[とく]○[べつ]<br><br>○[わか]れる	別[べつ]		
+tbl3d^&,bp	95	丁	calle	street	○[ちょう]度[ど]	丁[ちょう]		
+FT8}PT-9fV	96	町	barrio	village	下[した]○[まち]<br><br>市[し]○[ちょう]村[そん]	町[まち]		
+CsM5LBgQ(B	97	可	posible	can	許[きょ]○[か]	可[か]		
+z?mfdK&:-?	98	頂	cima	place on the head	○[ちょう]上[じょう]<br><br>○[いただ]く	頂[いただき]		
+sJ-9asQ9vG	99	子	niño	all	電[でん]○[し]<br><br>○[こ]供[ども]<br>女[おんな] の○[こ]	子[こ]		
+EQCWI3YkYO	100	孔	Confucio	cavity	鼻[び]○[こう]	孔[あな]		leech
+"v_/Zx1#0/,"	101	了	acabado	complete	完[かん]○[りょう]	了[りょう]		
+L>%!Of~-{N	102	女	mujer	woman	○[じょ]性[せい]<br>○[にょう]房[ぼう]<br><br>○[おんな]<br>○[め]神[がみ]	女[おんな]		
+Qvg[&:U7qX	103	好	gustar	fond	○[こう]意[い]<br><br>○[この]む<br>○[す]き	好[よしみ]		
+ndtIbp6_Ym	104	如	parecido	likeness	突[とつ]○[じょ]	如[こと]		
+CSC0s7%f*b	105	母	madre	mama	祖[そ]○[ぼ]<br><br>○[はは]親[おや]<br>お ○[かあ]さん	母[はは]		
+k.QG).!|j_	106	貫	traspasar	pierce	○[かん]通[つう]<br><br>○[つらぬ]く	貫[ぬき]		
+FU&v:ZaiYm	107	兄	hermano mayor	elder brother	○[きょう]弟[だい]<br><br>○[あに]<br>お ○[にい]さん	兄[あに]		
+w4|Qxbf6;8	108	呪	maldición	curse	○[のろ]う	呪[のろい]		leech
+ja%YZ4BWj_	109	克	superar	overcome	○[こく]服[ふく]	克[かつ]		
+GCD1&r.5@&	110	小	pequeño	little	○[しょう]学[がっ]校[こう]<br><br>○[ちい]さな<br>○[こ]鳥[とり]	小[しょう]		
+k)-h0NgN7E	111	少	poco	few	○[しょう]年[ねん]<br><br>○[すく]ない<br>○[すこ]し	少[すくな]		
+xh}zW*^8?6	112	大	grande	large	○[だい]学[がく]<br>○[たい]変[へん]<br><br>○[おお]きい	大[だい]		
+c8E=+~UBCQ	113	多	muchos	many	○[た]少[しょう]<br>○[た]分[ぶん]<br><br>○[おお]い	多[おお]		
+q[:9NYMq!&	114	夕	noche&nbsp;	evening	○[ゆう]方[がた]	夕[ゆう]		
+hRnmv<*@F0	115	汐	marea nocturna	eventide	○[しお]	汐[しお]		
+ja|:0V,ZOh	116	外	exterior	outside	海[かい]○[がい]<br>○[げ]科[か]<br><br>○[きと]<br>○[ほか]<br>○[はず]す	外[そと]		
+v_,,$8HrG.	117	名	nombre	name	有[ゆう]○[めい]<br><br><br>○[な]前[まえ]	名[な]		
+yucd)neD$0	118	石	piedra	stone	宝[ほう]○[せき]<br>磁[じ]○[しゃく]<br><br>○[こく]<br>○[いし]	石[いし]		
+na4[;m@P6K	119	肖	semejanza	resemblance	○[しょう]像[ぞう]	肖[あやか]		
+O!b`ynAIIv	120	硝	nitrato	nitrate	○[しょう]酸[さん]	硝		
+"q#:1$hps)g"	121	砕	aplastar	smash	粉[ふん]○[さい]<br><br>○[くだ]く	砕		
+pNpte&%D.&	122	砂	arena	sand	○[さ]糖[とう]<br><br>○[すな]	砂[すな]		
+Jkddo~asw}	123	妬	celoso	jealous	嫉[しっ]○[と]<br><br>○[ねた]む	妬		
+t/zUGnQCLy	124	削	cepillar	plane	○[さく]除[じょ]<br><br>○[はず]る	削[けず]		
+"r/)Qv#mOAq"	125	光	rayo	ray	観[かん]○[こう]<br><br>○[ひか]る<br><br>○[ひかり]	光[ひかり]		
+I=0)D/sR<?	126	太	gordo	plump	○[たい]陽[よう]<br><br>○[ふと]い<br>○[ふと]る	太[ふとし]		
+OfS]G*,H>A	127	器	utensilio&nbsp;	utensil	武[ぶ]○[き]<br><br>○[うつわ]	器[うつわ]		
+"m_<s#8$XX^"	128	臭	apestar	stink	悪[あく]○[しゅう]<br><br>○[くさ]い	臭[におい]		leech
+o7r_zXk@kA	129	嗅	olfatear	sniff	○[か]ぐ	嗅		leech
+igFS|jusp@	130	妙	exquisita	exquisite	○[き]妙[みょう]	妙[みょう]		
+xme-k@S+1l	131	省	reflexionar	focus	反[はん]○[せい]<br><br>○[はぶ]く	省[しょう]		
+"kTy_k#0=tX"	132	厚	grueso	thick	○[あつ]い	厚[あつ]		leech
+IxTwFS(oL&	133	奇	extraño	strange	○[き]数[すう]	奇[き]		leech
+N}biyi34T$	134	川	arroyo	stream	河[か]○[せん]<br><br>○[かわ]	川[かわ]		
+O>JS-j}DU}	135	州	estado	state	○[しゅう]	州[しゅう]		
+kRY*ho7RW!	136	順	obedecer	obey	○[じゅん]番[ばん]	順[じゅん]		
+lwylKGa{0]	137	水	agua	water	○[すい]道[どう]<br><br>○[みず]	水[みず]		
+A^RqSIu?Dc	138	氷	hielo	icicle	○[ひょう]山[ざん]<br><br>○[こおり]	氷[こおり]		
+hE*y@Z.^dA	139	永	eternidad	eternity	○[えい]遠[えん]<br><br>○[なが]い	永[えい]		
+yH7nQCXExx	140	泉	manantial	spring	温[おん]○[せん]<br><br>○[いずみ]	泉[いずみ]		
+e.H|5b`Qwp	141	腺	glándula	gland	〜 ○[せん]	腺[せん]		
+lwg4D%oW?*	142	原	prado	meadow	○[げん]因[いん]<br><br>○[はら]	原[はら]		
+uSyHgL{o~q	143	願	petición	petition	祈[き]○[がん]<br><br>○[ねが]う	願[ねがい]		
+dJYVH*H:E[	144	泳	nadar	swim	水[すい]○[えい]<br><br>○[およ]ぐ	泳		
+v4/.&)o.:r	145	沼	pantano	marsh	○[ぬま]	沼[ぬま]		
+Id8Mh|ho+3	146	沖	alta mar	open sea	○[おき]縄[なわ]	沖[おき]		
+t_NuV@NJ=	147	汎	pan- (inclusión)	pan-	○[はん]用[よう]	汎[ひろし]		
+xU<dUB8XpI	148	江	riachuelo	creek	○[え]戸[ど]	江[こう]		
+A`v@vkfO6)	149	汰	cribar // ensuciar	cleanse	沙[さ]○[た]	汰		
+K!z0i~wnMs	150	汁	sopa	soup	果[か]○[じゅう]<br><br>○[しる]	汁[しる]		
+O4J(5aiS-a	151	沙	granos de arena	grains of sand	無[む]○[さ]汰[た]	沙[いさご]		
+"qq=#PG>j)d"	152	潮	marea	tide	○[しお]	潮[しお]		
+JG<DH4&ls9	153	源	origen	source	資[し]○[げん]<br><br>○[みなもと]	源[みなもと]		
+g&$8li1m(	154	活	animado	lively	生[せい]○[かつ]	活[かつ]		
+I(Eur[JSGD	155	消	extinguir	extinguish	○[しょう]費[ひ]<br><br>○[き]える	消[しょう]		
+b$jEIdlFsD	156	況	por supuesto	but of course	状[じょう]○[きょう]	況		
+x6Vc9a!?be	157	河	río	river	○[か]川[せん]<br><br>○[かわ]	河[かわ]		
+"g-J#Z7J9z^"	158	泊	pernoctar	overnightv	宿[しゅく]○[はく]<br><br>○[と]まる<br>○[と]める	泊[とまり]		
+tbQw.i-lsY	159	湖	lago	lake	○[みずうみ]	湖[みずうみ]		leech
+p*u;iv90%.	160	測	sondear	fathom	推[すい]○[そく]<br><br>○[はか]る	測[はか]		
+"D4Y.H,z#<`"	161	土	tierra	soil	○[ど]曜[よう]日[び]<br>お ○産[みやげ]<br><br>○[つち]	土[ど]		
+O9|(PCORCu	162	吐	escupir	spit	○[は]く<br>○[は]き 気[け]	吐		
+N.-xWu-+9w	163	圧	presión	pressure	○[あつ]力[りょく]	圧[あつ]		
+c(tLPvW2hh	164	埼	cabo	cape	○[さい]玉[たま]	埼[さき]		
+L~XV;V/+h|	165	垣	valla	hedge	○[かき]根[ね]	垣[かき]		
+"n#~(tM@+j5"	166	填	embutir	inlay	古[こ]○[ふん]	填[はま]		
+"zT5mbSK#v="	167	圭	joya cuadrada	squared jewel	○[けい]壁[へき]	圭[けい]		
+yP:@feOKcx	168	封	sellar	seal	○[ふう]筒[とう]	封[ふう]		
+J:l`__WvF=	169	涯	horizonte	horizon	生[しょう]○[がい]	涯[はて]		
+MI(E;vJpS~	170	寺	templo budista	Buddhist temple	尼[あま]○[でら]	寺[てら]		
+Gw$}EomOfK	171	時	tiempo	time	○[じ]間[かん]<br><br>○[とき]<br><br>○計[とけい]	時[とき]		
+uUqs331FWT	172	均	anivelado	level	平[へい]○[きん]	均[ひとし]		
+j:VJ.eL5=,	173	火	fuego	fire	○[か]災[さい]<br><br>○[ひ]<br>○[ほ]影[かげ]	火[ひ]		
+E!n629XR3y	174	炎	inflamación	inflammation	○[ほのお]	炎[ほのお]		
+d,W!;aftYU	175	煩	angustia	anxiety	○[わずら]わしい	煩[はん]		leech
+o8<Eq=hIk&	176	淡	diluido	thin	冷[れい]○[たん]<br><br>○[あわ]い	淡[あわ]		
+BeVK<^=$Y{	177	灯	lámpara	lamp	電[でん]○[とう]<br><br>○[ひ]	灯[あかり]		
+CZi4.(9y7?	178	畑	plantación	farm	田[た]○[はた]<br>○[はたけ]	畑[はたけ]		
+cR~?-9,oJy	179	災	desastre	disaster	火[か]○[さい]<br><br>○[わざわ]い	災[わざわい]		
+AEx{4U628m	180	灰	ceniza	ashes	○[はい]皿[ざら]	灰[はい]		
+c(c}gMg%Zq	181	点	punto	spot	欠[けっ]○[てん]	点[てん]		
+"i?@#Lq=5?W"	182	照	iluminar	illuminate	対[たい]○[しょう]<br><br>○[て]らす<br>○[て]る	照[あきら]		
+w_E@<?*S[7	183	魚	pescado	fish	金[きん]○[ぎょ]<br><br>○[さかな]	魚[さかな]		
+"JcrO#TG3E."	184	漁	pescar	fishing	○[ぎょ]船[せん]<br><br>○[りょう]師[し]	漁[りょう]		
+kbj*TxI@W+	185	里	ri	ri	郷[きょう]○[り]<br><br>古[ふる]○[さと]	里[さと]		
+pFO<`+tM90	186	黒	negro	black	○[こく]板[ばん]<br><br>○[くろ]い	黒[くろ]		
+OYD<(@cPD.	187	墨	tinta china	black ink	入[い]れ ○[ずみ]	墨[すみ]		
+vXQ@K3UJ{1	188	鯉	carpa	carp	○[こい]	鯉[こい]		
+O4G/*:kC$8	189	量	cantidad	quantity	○[りょう]<br><br>○[はか]る	量[りょう]		leech
+x>RyBs}+Aw	190	厘	rin	rin	○[りん]	厘[りん]		
+o&_f]ue-yP	191	埋	enterrar	bury	○[まい]葬[そう]<br><br>○[う]める	埋[うま]		
+mx(+h?aoLg	192	同	el mismo	same	○[どう]情[じょう]<br><br>○[おな]じ	同[どう]		
+A!b=Zm6g+Q	193	洞	cueva	den	空[くう]○[どう]<br><br>○[ほら]	洞[ほら]		
+P=RBqIO!5u	194	胴	tronco (torso)	trunk	○[どう]	胴[どう]		
+F($EITQrHi	195	向	enfrente de	yonder	方[ほう]○[こう]<br><br>○[む]こう<br>○[む]かう	向[むかい]		
+8e5V^=|sE	196	尚	estimado	esteem	高[こう]○[しょう]	尚[なお]		leech
+wK$?,qQiFm	197	字	letra	character	○[じ]引[びき]<br><br>○[あざ]	字[じ]		
+zT0qkWd+yC	198	守	proteger	guard	○[まも]る	守[もり]		
+O.9X_9KdtQ	199	完	completo	perfect	○[かん]全[ぜん]	完[かん]		
+"f-bT5#=k!M"	200	宣	proclamar	proclaim	○[せん]言[げん]	宣[せん]		
+P-~FeuP0=G	201	宵	anochecer	wee hours	今○[こよい]	宵[よい]		
+Fe2o-kh5=q	202	安	relajación	relax	不[ふ]○[あん]<br><br>○[やす]い	安[やす]		
+ma*OC=z:XL	203	宴	banquete	banquet	○[えん]会[かい]	宴[うたげ]		
+PCRbs[P&(w	204	寄	acercarse	draw near	○[き]贈[ぞう]<br><br>○[よ]る	寄[やどりき]		
+tRuyTv<;,y	205	富	riqueza	wealth	豊[ほう]○[ふ]<br><br>○[と]む	富[とみ]		
+K!l,`EsncX	206	貯	ahorros	savings	○[ちょ]金[きん]<br><br>○[た]める	貯		
+I,ErAU]X%0	207	木	árbol	tree	大[たい]○[ぼく]<br>材[ざい]○[もく]<br><br>○[き]	木[き]		
+C;d^^vmVF7	208	林	arboleda	grove	森[しん]○[りん]<br><br>○[はやし]	林[はやし]		
+P.gOxL`Es~	209	森	bosque	forest	○[しん]林[りん]<br><br>○[もり]	森[もり]		
+Kfo~b1EvFA	210	桂	katsura	Japanese Judas-tree	○[かつら]	桂[かつら]		leech
+dQxUvw0E.L	211	柏	roble	oak	○[かしわ]	柏[かしわ]		
+Au3%73&!u;	212	枠	marco	frame	○[わく]	枠[わく]		
+w)Q)/qks,e	213	梢	copa del árbol	treetops	抹[まっ]○[しょう]<br><br>○[ごずえ]	梢[こずえ]		
+C8Fee%N)z0	214	棚	estantería	shelf	○[たな]<br>本[ほん]○[だな]	棚[たな]		
+pz/ko{r|@F	215	杏	albaricoque	apricot	○[あんず]	杏[あんず]		
+ghxAatWk%9	216	桐	paulonia	paulownia	○[きり]	桐[きり]		
+KJpq+oi:!r	217	植	plantar	plant	○[しょく]物[ぶつ]<br><br>○[う]える	植[うえ]		
+PR,t0o*R@j	218	椅	silla	chair	○[い]子[す]	椅		
+uX.c|odo;c	219	枯	marchitado	wither	○[こ]渇[かつ]<br><br>○[か]れる	枯		
+y-:?q|DAj3	220	朴	bruto	crude	素[そ]○[ばく]	朴[ぼく]		
+qTWo>Fy}CR	221	村	pueblo	town	○[むら]<br><br>農[のう]○[そん]	村[むら]		
+J:tfg[9S!K	222	相	inter-	inter-	○[そう]談[だん]<br>首[しゅ]○[しょう]<br><br>○[あい]手[て]	相[あい]		leech
+b$p~?^r02s	223	机	escritorio	desk	○[き]上[じょう]<br><br>○[つくえ]	机[つくえ]		
+LgA@78CenB	224	本	libro	book	○[ほん]当[とう]<br><br>○[もと]	本[ほん]		
+I!530xVg3@	225	札	etiqueta	tag	○[さっ]幌[ぽろ]<br><br>名[な]○[ふだ]	札[さつ]		
+OAYeDY~]_v	226	暦	calendario	calendar	西[せい]○[れき]<br><br>○[こよみ]	暦[こよみ]		
+g}n+W^I-Tc	227	案	plan	plan	提[てい]○[あん]	案[あん]		
+"Juz#hAW-CT"	228	燥	agostar	parch	乾[かん]○[そう]	燥		
+i}Fl~%OpZC	229	未	todavía	not yet	○[み]来[らい]<br><br>○[ま]だ	未[み]		
+LwjUrAciX/	230	末	extremo	extremity	粗[そ]○[まつ]<br><br>○[すえ]っ 子[こ]	末[すえ]		
+O7qV4jF-S]	231	昧	críptico	obscure	曖[あい]○[まい]	昧		leech
+JLx0(./IM^	232	沫	salpicadura	splash	飛[ひ]○[まつ]<br><br>○[あわ]	沫[あわ]		
+IV!-d(z>6I	233	味	sabor	flavor	意[い]○[み]<br><br>○[あじ]<br>○[あじ]わう	味[あじ]		
+rdHm[pA`I<	234	妹	hermana menor	younger sister	姉[し]○[まい]<br><br>○[いもうと]	妹[いもうと]		
+cjX-/>r4+I	235	朱	carmesí	vermilion	○[しゅ]肉[にく]	朱[しゅ]		
+xnM@*8p]LD	236	株	acciones de bolsa	stocks	○[かぶ]式[しき]	株[かぶ]		
+Lh,|$Lq`hl	237	若	juventud	young	○[じゃっ]干[かん]<br><br>○[わか]い	若[わか]		
+-98D[l[tR	238	草	hierba	grass	雑[ざっ]○[そう]<br><br>○[くさ]<br><br>○履[ぞうり]	草[くさ]		
+k9OLiGiEt8	239	苦	sufrimiento	suffering	○[く]労[ろう]<br><br>○[にが]い<br>○[にが]手[て]<br>○[くる]しむ	苦[く]		leech
+p*SFWHdmfS	240	苛	hostigar	bullying	○[か]烈[れつ]<br><br>○[いじ]める<br>苛[いら]々[いら]	苛		
+l1w;I>)D;k	241	寛	tolerancia	tolerant	○[かん]容[よう]	寛[ひろし]		
+tW,%|~IUm;	242	薄	desteñido	dilute	○[うす]い	薄[すすき]		leech
+J?xZ{B4c|W	243	葉	hoja	leaf	紅[こう]○[よう]<br><br>言[こと]○[ば]	葉[は]		
+QT)d{m<(Fk	244	模	imitación	imitation	○[も]型[けい]	模[も]		
+I&LBg*q,R7	245	漠	borroso	vague	砂[さ]○[ばく]	漠[ばく]		leech
+PI~JU&G@dZ	246	墓	tumba	grave	○[はか]	墓[はか]		leech
+Ly%/`+Mna~	247	暮	ganarse la vida	livelihood	○[く]らし	暮[くれ]		
+jhM..*,?cT	248	膜	membrana	membrane	○[まく]	膜[まく]		
+AK8O38(.zE	249	苗	plantón	seedling	○[なえ]	苗[なえ]		
+sJ$^:$QBBQ	250	兆	augurio	portent	○[ちょう]候[こう]<br><br>○[きざ]し	兆[ちょう]		
+r(=UqO+S)a	251	桃	melocotón	peach tree	○[もも]	桃[もも]		
+d~[WD}U(=z	252	眺	mirar fijamente	stare	○[なが]める	眺		
+wDL:z7@e&+	253	犬	perro	dog	盲[もう]導[どう]○[けん]<br><br>○[いぬ]	犬[いぬ]		
+q~2~!Kud1{	254	状	statu quo	status quo	○[じょう]態[たい]	状[じょう]		
+s`uH!^{klb	255	黙	silencio	silence	沈[ちん]○[もく]<br><br>○[だま]る	黙[だま]		
+gUh4)C$8r,	256	然	tal como es	sort of thing	自[し]○[ぜん]<br>全[ぜん]○[ぜん]	然[しか]		
+"MdZP&0eM#g"	257	荻	caña	reed	○[おぎ]	荻[おぎ]		
+ed;hYRorzM	258	狩	cazar	hunt	○[しゅ]猟[りょう]<br><br>○[か]り	狩[かり]		
+b;t/MX_VqU	259	猫	gato	cat	○[ねこ]	猫[ねこ]		
+ILklnf{w*w	260	牛	vaca	cow	○[ぎゅう]乳[にゅう]<br><br>○[うし]	牛[うし]		
+D&pdm|>[MA	261	特	especial	special	○[とく]別[べつ]	特[とく]		
+v={O$[e;J=	262	告	revelación	revelation	報[ほう]○[こく]<br><br>○[つ]げる	告[つげ]		
+o)9gw|VdJj	263	先	antes	before	○[せん]月[げつ]<br><br>○[さき]	先[さき]		
+xCvO(&SOa<	264	洗	lavar	wash	○[せん]剤[ざい]<br><br>○[あら]う	洗[あらい]		
+"vI!}($y|#8"	265	介	apretado	jammed in	紹[しょう]○[かい]	介[かい]		
+N%,sh:g.BD	266	界	mundo	world	世[せ]○[かい]	界[さかい]		
+un~/YmsFkO	267	茶	té	te	喫[きっ]○[さ]店[てん]<br>お ○[ちゃ]	茶[ちゃ]		
+"FqT*>&A4`#"	268	脊	columna vertebral	spinal column	○[せき]髄[ずい]	脊[せ]		
+uD%l05;@;u	269	合	encajar	fit	会[かい]○[ごう]<br><br><br>○[あ]う<br>場[ば]○[あい]	合[ごう]		
+i/}&ce+)dz	270	塔	pagoda	pagoda	〜 ○[とう]	塔[とう]		
+Amm9ZOjj44	271	王	rey	king	女[じょ]○[おう]<br>国[こく]○[おう]	王[おう]		
+eu%mUeMv}&	272	玉	joya	jewel	○[ぎょく]座[ざ]<br><br>○[たま]	玉[たま]		
+dLY}*m8g)!	273	宝	tesoro	treasure	○[ほう]石[せき]<br><br>○[たから]	宝[たから]		
+"fK[#ldpg3M"	274	珠	perla	pearl	真[しん]○[じゅ]	珠[たま]		
+"q^Y.P#><IN"	275	現	presente	present	○[げん]在[ざい]<br><br>○[あらわ]れる	現[げん]		
+m{UwX]`>pX	276	玩	juguete	toy	○具[おもちゃ]	玩		
+xGM,x~hfBI	277	狂	loco	lunatic	○[きょう]気[き]<br><br>○[くる]う	狂[きょう]		
+G&k(Lk!!T2	278	旺	refulgente	effulgent	○[おう]盛[せい]	旺		leech
+PK!;wb=2y8	279	皇	emperador	emperor	○[こう]居[きょ]<br><br>天○[てんのう]	皇[すめらぎ]		leech
+"q#}F[]9zo%"	280	呈	ofrenda	display	進[しん]○[てい]	呈[てい]		
+d+Rzjup|e=	281	全	todo	whole	○[ぜん]部[ぶ]<br><br>○[まった]く<br>○[すべ]て	全[ちょん]		
+o6n?gC]ta4	282	栓	tapón	plug	○[せん]	栓[せん]		
+qY(E2s)2w4	283	理	lógica	logic	○[げん]在[ざい]<br><br>○[あらわ]れる	理[り]		
+d*Z<S_TMn>	284	主	amo	lord	○[しゅ]人[じん]	主[あるじ]		
+C=yw$VQ`nq	285	注	verter	pour	○[ちゅう]意[い]<br><br>○[そそ]ぐ	注[ちゅう]		leech
+B6X`?g)N;%	286	柱	columna	pillar	○[はしら]	柱[はしら]		leech
+B)vzd1_iXG	287	金	oro	gold	○[きん]銭[せん]<br><br>針[はり]○[がね]<br>○[かな]	金[きむ]		
+l|SO+MhEnj	288	銑	lingote	pig iron	○[せん]鉄[てつ]	銑[ずく]		
+"uWE#,zR!04"	289	鉢	bol	bowl	○[はち]植[う]え	鉢[はち]		
+b?`6%Nv[Gl	290	銅	cobre	copper	○[どう]貨[か]	銅[どう]		
+v;@,A(h3Xz	291	釣	pescar con caña	angling	○[つ]る	釣[つり]		
+"D#&{j&H)p]"	292	針	aguja	needle	○[しん]路[ろ]<br><br>○[はり]	針[はり]		
+h>d{CbeYFg	293	銘	inscripción	inscription	感[かん]○[めい]	銘[めい]		
+Eot@]5$A+;	294	鎮	tranquilizar	tranquilize	○[ちん]静[せい]	鎮[しず]		leech
+"OII_#?Fwpr"	295	道	carretera	road-way	○[どう]路[ろ]<br><br>○[みち]	道[みち]		
+g<suDpW4o@	296	導	guiar	guidance	指[し]○[どう]<br><br>○[みちび]く	導[しるべ]		
+w:H.|<:YEj	297	辻	cruce	crossing	○[つじ]	辻[つじ]		leech
+N09Li+o/(n	298	迅	veloz	swift	○[じん]速[そく]	迅		leech
+cRSIcSKuEw	299	造	crear	create	製[せい]○[ぞう]<br><br>○[つく]る	造[みやつこ]		
+G(IhKmEh,i	300	迫	apremiar	urge	脅[きょう]○[はく]<br><br>○[せま]る	迫[さこ]		
+Q<??Afph+w	301	逃	escapar	escape	○[とう]走[そう]<br><br>○[に]げる	逃		
+ecSIg5%N1w	302	辺	inmediaciones	environs	周[しゅう]○[へん]<br><br>○[あた]り<br>海[うみ]○[べ]	辺[あたり]		
+RaISyW]-b^	303	巡	patrullar	patrol	○[じゅん]回[かい]<br><br>○[めぐ]る	巡[めぐ]		
+LNOp5I7:V)	304	車	carruaje	car	電[でん]○[しゃ]<br><br>○[くるま]	車[くるま]		
+u=[oAv8h:I	305	連	acompañar	take along	○[れん]絡[らく]<br><br>○[つ]れ	連[れん]		leech
+cHcDJJ)x`-	306	軌	carril	rut	○[き]道[どう]<br>○[き]跡[せき]	軌		
+MxHr[8|<,J	307	輸	transportar	transport	○[ゆ]出[しゅつ]	輸		
+CIHPA*+]/<	308	喩	metáfora	metaphor	比[ひ]○[ゆ]	喩		
+eQ2o`pdg~;	309	前	delante	in front	以[い]○[ぜん]<br><br>○[まえ]	前[まえ]		
+EtA|(-^Z={	310	煎	asar	roast	○[せん]餅[べい]	煎[い]		leech
+k/P<t5`7Ti	311	各	cada uno	each	○[かく]自[じ]	各[かく]		
+y@^U09aIMw	312	格	categoría	status	性[せい]○[かく]	格[かく]		leech
+pJz*O!Ui%|	313	賂	chanchullo	graft	賄[わい]○[ろ]	賂[まいない]		
+H7%4SukO{&	314	略	abreviatura	abbreviation	省[しょう]○[りゃく]	略[りゃく]		
+B4vmhZlz=P	315	客	invitado	guest	乗[じょう]○[きゃく]<br>旅[りょ]○[かく]	客[きゃく]		
+ppoo(WUV76	316	額	frente	forehead	○[ひたい]	額[がく]		leech
+cxe93]v2}t	317	夏	verano	summer	今[こん]○[か]<br><br>○[なつ]	夏[なつ]		
+JcjTu7X=^h	318	処	deshacerse de	dispose	○[しょ]罰[ばつ]<br><br>何[ど]○[こ]	処[しょ]		
+l}:+*PwR||	319	条	ramita (cláusula)	twig (article)	○[じょう]件[けん]	条[じょう]		leech
+Q;LA1$S{Np	320	落	caer	fall	○[らく]涙[るい]<br><br>○[お]ちる<br>○[お]とす	落[おち]		
+j1bM4xaB)9	321	冗	superfluo	superfluous	○[じょう]談[だん]	冗[じょう]		
+O(u}^<TiL%	322	冥	Hades	Hades	○[めい]福[ふく]	冥[めい]		
+"FJ(G#},|ax"	323	軍	ejército	army	○[ぐん]隊[たい]	軍[ぐん]		
+P(U**!!L<3	324	輝	radiante	radiance	○[かがや]く	輝[てる]		
+"f,ScIT#=+*"	325	運	llevar	carry	○[うん]動[どう]<br><br>○[はこ]ぶ	運[うん]		
+x!qzP2@/x3	326	冠	corona	crown	○[かん]	冠[かんむり]		
+o?*v)%U4*1	327	夢	sueño	dream	悪[あく]○[む]<br>○[む]中[ちゅう]<br><br>○[ゆめ]	夢[ゆめ]		
+ei.&*s]XIY	328	坑	foso	pit	○[こう]道[どう]	坑[あな]		
+"B3}#lA91$6"	329	高	alto	tall	最[さい]○[こう]<br><br>○[たか]い	高[こう]		
+B~2<S4p;<q	330	享	recibir	receive	○[きょう]受[じゅ]	享[とおる]		
+sDO;auk,G,	331	塾	academia de repaso	cram school	○[じゅく]	塾[じゅく]		
+Fieu(2DP]+	332	熟	madurar	mellow	○[じゅく]語[ご]<br><br>○[う]れる	熟[じゅく]		
+LDfdrv]yfg	333	亭	pabellón	pavilion	料[りょう]○[てい]	亭[ちん]		
+w,W.wG4-I>	334	京	capital	capital	東[とう]○[きょう]	京[きょう]		
+"G`!,{,!$##"	335	涼	refrescante	refreshing	○[すず]しい	涼[りょう]		leech
+Ml9F=U{wmJ	336	景	paisaje	scenery	光[こう]○[けい]	景[けい]		
+E2G?zo81H-	337	鯨	ballena	whale	○[くじら]	鯨[くじら]		
+Q,YsecO.M)	338	舎	casa de campo	cottage	田○[いなか]	舎[しゃ]		
+EGVkRn[]xg	339	周 c	circunferencia&nbsp;	circumference	○[しゅう]囲[い]<br><br>○[まわ]り	周[しゅう] c		
+c?>=vO)<bc	340	週	semana	week	今[こん]○[しゅう]<br>来[らい]○[しゅう]	週[しゅう]		
+"GW+.][+w#&"	341	士	hidalgo	gentleman	兵[へい]○[し]	士[し]		
+fSm-NKxNmV	342	吉	buena suerte	good luck	不[ふ]○[きつ]	吉[よし]		
+G3R.HKY))k	343	壮	robusto	robust	○[そう]大[だい]	壮[たけし]		
+I)!<OA[Y1Y	344	荘	chalet	villa	別[べっ]○[そう]	荘[そう]		
+g.4=3H]Dim	345	売	venta	sell	販[はん]○[ばい]<br><br>○[う]る	売[う]		
+"NnUv#F5n}i"	346	学	estudiar	study	大[だい]○[がく]<br><br>○[まな]ぶ	学[がく]		
+"IOFKC#dB6="	347	覚	memorizar	memorize	感[かん]○[かく]<br><br>○[おぼ]える	覚[さとし]		
+u:-~gDR.!N	348	栄	florecer	flourish	○[えい]養[よう]<br><br>○[さか]える	栄[さかえ]		
+hZ*lSL5mkq	349	書	escribir	write	図[と]○[しょ]館[かん]<br><br>○[か]く	書[しょ]		
+s_%K*k_/NT	350	津	ensenada	haven	○[つ]波[なみ]	津[つ]		
+"p#:)$f4o|4"	351	牧	criar	breed	○[ぼく]師[し]<br><br>○[まき]場[ば]	牧[まき]		
+ByjpLpRgDC	352	攻	agresión	aggresion	○[こう]撃[げき]<br><br>○[せ]める	攻[おさむ]		
+v.0u}bq5xG	353	敗	fracaso	failure	失[しっ]○[ぱい]	敗[はい]		
+K42sc?ygh!	354	枚	hojas de...	a sheet of	〜 ○[まい]	枚[まい]		
+lUp2[?A2UE	355	故	casualidad	happenstance	事[じ]○[こ]	故[こ]		leech
+ir[&!j%tMH	356	敬	respeto	awe	○[けい]意[い]	敬[けい]		leech
+n+_=&3t^`Q	357	言	decir	say	○[げ]]語[ご]<br>無[む]○[ごん]<br><br>○[い]う<br>○[こと]葉[ば]	言[げん]		
+QB.AUH/lYs	358	警	amonestar	admonish	○[けい]察[さつ]	警		
+Kd~1].A`d0	359	計	proyecto	plot	○[けい]画[かく]	計[けい]		leech
+JS{Vc!,78L	360	詮	dilucidar	eludicate	所[しょ]○[せん]	詮[せん]		leech
+p(/2@NM+eJ	361	獄	cárcel	prison	地[じ]○[ごく]	獄[ごく]		
+LIw&],Z/Oj	362	訂	revisión	revise	○[てい]正[せい]<br><br>○[ただ]す	訂[てい]		leech
+ITIFM`b]LY	363	訃	necrológica	obituary	○[ふ]報[ほう]	訃[ふ]		
+gn4V>oZ+5L	364	討	reprender	chastise	○[とう]論[ろん]	討		
+xilS9yaGV}	365	訓	instrucción	instruction	○[くん]練[れん]	訓[くん]		leech
+jliFX]Nj.t	366	詔	edicto imperial	imperial edict	○[しょう]書[しょ]<br>○[しょう]勅[ちょく] <br><br>○[みことのり]	詔[みことのり]		
+Fpc[!7`o)I	367	詰	atascado	packed	○[つ]める	詰[つめ]		
+Aa7p+zY5Zf	368	話	hablar	tale	会[かい]○[わ]<br><br>○[はな]す<br>○[はなし]	話[はなし]		
+k!R}/VE8$a	369	詠	recitar	recitation	○[よ]む	詠[えい]		
+Oe?8TmXz1q	370	詩	poesía	poem	○[し]人[じん]	詩[し]		
+y372=!b`GV	371	語	palabra	word	用[よう]○[ご]<br><br>○[かた]る<br>物[もの]○[がたり]	語[かたり]		
+ls}J-ADCHc	372	読	leer	read	○[どく]書[しょ]<br>句[く]○[とう]点[てん]<br><br>○[よ]む	読		
+Ba6vQjS>]j	373	調	afinar	tune	○[ちょう]査[さ]<br><br>○[しら]べる<br>○[ととの]える	調[ちょう]		
+gw.XvAy$-[	374	談	discusión	discuss	○[だん]判[ぱん]	談[だん]		
+gT=`@MC|]a	375	諾	consentimiento	consent	承[しょう]○[だく]	諾[だく]		
+f$KN8_b4sL	376	諭	reproche	rebuke	○[さと]す	諭[さとし]	"<img src=""paste-3ecd190ea0255d84a58d9e8de82252457d26ff0d.jpg"">"	leech
+c)_^dOKd]x	377	式	estilo	style	公[かう]○[しき]	式[しき]		
+dp<f0c]Gp|	378	試	exámen	test	○[し]験[けん]<br><br>○[こころ]みる<br>○[ため]す	試		
+F^DI<$h}Vt	379	弐	II (dos)	ii (two)	○[に]	弐[に]		
+u`E%gB5rg+	380	域	zona	range	地[ち]○[いき]	域[いき]		
+IisV`:;-`	381	賊	bandido	burglar	盗[とう]○[ぞく]	賊[ぞく]		
+DL`Lslq^Hy	382	栽	plantío	plantation	盆[ぼん]○[さい]	栽		
+rc=_J-))H3	383	載	cargar	load	記[き]○[さい]<br><br>○[の]る	載[の]		
+C_SXHac?8l	384	茂	exuberante	overgrown	○[しげ]る	茂[しげる]		leech
+L&JJ6TV52J	385	戚	pariente	relatives	親[しん]○[せき]	戚		leech
+q&d=1UOR&p	386	成	convertirse	turn into	完[かん]○[せい]<br><br>○[な]る	成[しげる]		
+f(%!u=z8E@	387	城	castillo	castle	○[じょう]下[か]町[まち]<br><br>○[しろ]	城[しろ]		
+L[-rW};)2*	388	誠	sincero	sincerity	○[せい]実[じつ]<br><br>○[まこと]に	誠[まこと]		
+gyq8Kqa.;a	389	威	intimidar	intimidate	権[けん]○[い]	威[たけし]		
+o50b3N~EB_	390	滅	destruir	destroy	絶[ぜつ]○[めつ]<br><br>○[ほろ]ぼす	滅[めつ]		leech
+fi@qA!31aG	391	減	menguar	dwindle	増[ぞう]○[げん]<br><br>○[へ]らす	減[げん]		
+pph,G@m-!1	392	蔑	vilipendiar	revile	軽[けい]○[べつ]<br><br>○[さげす]む	蔑		leech
+rM9[&hT_+?	393	桟	andamio	scaffold	○[さん]橋[ばし]	桟[えつり]		
+i3kFhH{;Ac	394	銭	moneda	coin	金[きん]○[せん]<br><br>小[こ]○[ぜに]	銭[せん]		
+uYA5H|s~NP	395	浅	poco profundo	shallow	○[あさ]い	浅[あさ]		
+ruLh]o^}^I	396	止	detenerse	stop	禁[きん]○[し]<br><br>○[と]まる	止[とめ]		
+r.|*KJ|^H{	397	歩	andar	walk	散[さん]○[ぽ]<br><br>○[ある]く	歩[ふ]		
+Dw>fo:WpJt	398	渉	vadear	ford	交[こう]○[しょう]	渉[わたる]		
+wM<3c$vOV.	399	頻	repetidamente	repeatedly	○[ひん]繁[ぱん]	頻[しき]		leech
+nE,/_40@l[	400	肯	acuerdo	agreement	○[こう]定[てい]	肯		leech
+o4=m0H{JXQ	401	企	emprender	undertake	○[き]業[ぎょう]<br><br>○[くわだ]てる	企		
+J9.9wQ/@!(	402	歴	currículum	curriculum	○[れき]史[し]	歴[れき]		
+i&&QpfqJOd	403	武	guerrero	warrior	○[ぶ]士[し]	武[たけ]		
+eOUW}k(>EA	404	賦	recaudación	levy	月[げっ]○[ぷ]	賦[ふ]		
+yfP$;}.J~@	405	正	correcto	correct	修[しゅう]○[せい]<br>○[しょう]午[ご]<br><br>○[ただ]しい<br>○[まさ]に	正[ただし]		
+ff6;|[=}TL	406	証	certificación	evidence	○[しょう]明[めい]	証[あかし]		
+b%x.|/M(}^	407	政	política	politics	○[せい]府[ふ]<br><br>○[まつりごと]	政[せい]		
+QN45nODe~I	408	定	determinación	determine	予[よ]○[てい]<br><br>○[さだ]める	定[じょう]		
+IqGrVPyY07	409	錠	cerradura	lock	手[て]○[じょう]	錠[じょう]		
+GXK|J5:Jey	410	走	correr	run	○[そう]行[こう]<br><br>○[はし]る	走[はし]		
+L,j{=pj%Ev	411	超	sobrepasar	transcend	○[ちょう]過[か]<br><br>○[こ]える	超[ちょう]		leech
+mIargjkb&v	412	赴	proceder	proceed	○[ふ]任[にん]	赴		
+fsQy?QR3U*	413	越	adelantar	surpass	○[こ]す	越[こし]		leech
+sb/TkV[oHE	414	是	debidamente	just so	○[ぜ]非[ひ]	是[ぜ]		leech
+esm[|G0(j8	415	題	tema	topic	問[もん]○[だい]<br>宿[しゅく]○[だい]	題[だい]		
+QSyee38G@5	416	堤	dique	dike	○[てい]防[ぼう]<br><br>○[つつみ]	堤[つつみ]		
+H,nThVyf?e	417	建	construir	build	○[けん]築[ちく]<br><br>○[た]てる / ○[たて]物[もの]<br><br>○[た]つ	建[けん]		
+rML}CkoTCU	418	鍵	llave	key	○[けん]盤[ばん]<br><br>○[かぎ]	鍵[かぎ]		
+v5&:<=62$X	419	延	prolongar	prolong	○[えん]期[き]<br><br>○[のべ]	延[のべ]		
+o)@&!1>Q<8	420	誕	natividad	nativity	○[たん]生[じょう]日[び]	誕		
+Ji]dOz/|Ty	421	礎	piedra angular	cornerstone	基[き]○[そ]	礎[いしずえ]		
+xY7gXdUv6$	422	婿	novio	bridgegroom	○[むこ]	婿[むこ]		leech
+H?rNZL[GJx	423	衣	ropa	garment	○[い]服[ふく]<br><br>○[ころも]	衣[ころも]		
+I/`ASxBXz^	424	裁	confeccionar	tailor	○[さい]判[ばん]	裁[さい]		leech
+m0Ey>&EX_x	425	装	atuendo	attire	○[そう]置[ち]<br>衣[い]○[しょう]<br><br>○[よそお]う	装[そう]		leech
+j1d`:}{k[8	426	裏	reverso	back	○[り]面[めん]<br><br>○[うら]切[ぎ]る	裏[うら]		
+O!ggdzWkKl	427	壊	demolición	demolition	破[は]○[かい]<br><br>○[こわ]す<br>○[こわ]れる	壊		
+Cq5J]pFGgu	428	哀	patético	pathetic	悲[ひ]○[あい]<br><br>○[あわ]れむ (物の○れ)	哀		
+M;;^en()&G	429	遠	distante	distant	永[えい]○[えん]<br><br>○[とお]く	遠[とお]		
+mn&oC4r)+{	430	猿	mono	monkey	○[さる]	猿[さる]		leech
+cTuNH*PeMN	431	初	primera vez	first time	最[さい]○[しょ]<br><br>○[はじ]め<br>○[はじ]めて<br>○[はつ]恋[こい]	初[はつ]		
+kXz>:XLk6L	432	巾	toalla	towel	雑[ぞう]○[きん]	巾[はば]		
+LN-=?4H]N6	433	布	tela	linen	財[さい]○[ふ]<br>○[ふ]団[とん]<br><br>○[ぬの]	布[ぬの]		
+t.{|db`_}W	434	帆	vela	sail	○[はん]船[せん]<br><br>○[ほ]	帆[ほ]		leech
+KNOl0|x)rU	435	幅	rollo colgante	hanging scroll	○[はば]	幅[はば]		
+"IwJ[|{t@/#"	436	帽	sombrero	cap	○[ぼう]子[し]	帽[ぼう]		
+ig>:b.xYqR	437	幕	cortina	curtain	○[まく]<br>○[ばく]府[ふ]	幕[まく]		
+l>NMxhjsoE	438	幌	baldaquín	canopy	札[さっ]○[ぽろ]	幌[ほろ]		leech
+oNh(%0Hc<K	439	錦	brocado	brocade	○[にしき]絵[え]	錦[にしき]		
+kUd*ySfis&	440	市	mercado	market	○[し]民[みん]<br><br>○[いち]<br>○[いち]場[ば]	市[し]		
+Ld*yZFm:UK	441	柿	caqui	persimmon	○[かき]	柿[かき]		
+N:x1Y,fVar	442	姉	hermana mayor	elder sister	○[し]妹[まい]<br><br>○[あね]<br>お ○[ねえ]さん	姉[あね]		
+sz@B_^z=%y	443	肺	pulmones	lungs	○[はい]	肺[はい]		
+y)tq,a$>Um	444	帯	faja	sash	包[ほう]○[たい]<br><br>○[おび]	帯[おび]		
+z56OW=6xLF	445	滞	estancado	stagnate	○[たい]在[ざい]<br><br>○[とどこお]る	滞[とどこお]		
+dk&v?M)Ak[	446	刺	espina	thorn	○[し]激[げき]<br><br>○[さ]す	刺[とげ]		
+LW%nJ7C`T(	447	制	sistema	system	○[せい]度[ど]	制[せい]		
+E_Qv02=</F	448	製	made in...	made in...	○[せい]造[ぞう]	製[せい]		
+p87F/pVvqR	449	転	girar	revolve	自[じ]○[てん]車[しゃ]<br><br>○[ころ]がる	転[てん]		
+"L0RId8#yDV"	450	芸	destreza	technique	○[げい]術[じゅつ]<br>○[げい]者[しゃ]	芸[げい]		
+gz(J%q.M${	451	雨	lluvia	rain	梅[つ]○[ゆ]<br><br>○[あめ]<br>○[あま]戸[ど]	雨[あめ]		
+H_L]Znkm3k	452	雲	nube	cloud	○[くも]	雲[くも]		
+va;g2-Ot)A	453	曇	nublado	cloudy weather	○[どん]天[てん]<br><br>○[くも]り	曇[くもり]		
+K2Hx4t,!wJ	454	雷	trueno	thunder	地[じ]○[らい]<br><br>○[かみなり]	雷[かみなり]		
+fx_!do6@.-	455	霜	escarcha	frost	○[しも]	霜[しも]		
+xIiPp[4g)S	456	冬	invierno	winter	○[とう]眠[みん]<br><br>○[ふゆ]	冬[ふゆ]		
+APyNFbp2Sc	457	天	cielo	heavens	○[てん]気[き]	天[てん]		
+b]lop8k)MH	458	妖	embrujado	bewitched	○[よう]怪[かい]	妖		
+zf)dr[-;io	459	沃	irrigar	irrigate	肥[ひ]○[よく]	沃		
+"LO%*#fS95@"	460	橋	puente	bridge	鉄[てっ]○[きょう]<br><br>○[はし]	橋[はし]		
+d@1+1uqUfS	461	嬌	atractiva	attractive	愛[あい]○[きょう]	嬌		
+fg8P)AxlpD	462	立	en pie	stand up	独[どく]○[りつ]<br><br>○[た]つ<br>○[た]てる	立[たつ]		
+"h3fHS7#Cpq"	463	泣	llorar	cry	感[かん]○[きゅう]<br><br>○[な]く	泣		
+OeZIrM>%^$	464	章	insignia	badge	文[ぶん]○[しょう]	章[あきら]		leech
+uv4awDeh0H	465	競	disputar	vie	○[きょう]争[そう]	競[けい]		
+n8K<kBH.}w	466	帝	soberano	sovereign	○[てい]国[こく]<br>皇[こう]○[てい]	帝[みかど]		
+h/3v,HWbyJ	467	諦	resignación	renunciation	○[あきら]める	諦[たい]		
+Q1GmFS))uq	468	童	juvenil	juvenile	○[どう]話[わ]<br><br>○[わらべ]	童[わらべ]		
+p9lpdmC2Ed	469	瞳	pupila	pupil	○[ひとみ]	瞳[ひとみ]		
+BrrDykc]xq	470	鐘	campana	bell	○[かね]	鐘[かね]		
+"G#eEy0e5qT"	471	商	hacer un trato	make a deal	○[しょう]売[ばい]<br><br>○[あきな]う	商[しょう]		
+F|`9E,EmwT	472	嫡	esposa legítima	legitimate wife	○[ちゃく]出[しゅつ]	嫡		
+"P&r4jYh#`o"	473	適	apropiado	suitable	快[かい]○[てき]	適[てき]		
+n>/gGJm$kv	474	滴	gotear	drip	水[すい]○[てき]<br><br>○[しずく]	滴[しずく]		
+v6DIMU!J]Y	475	敵	enemigo	enemy	○[てき]<br>素[す]○[てき]	敵[てき]		
+pr8Q.GmzHj	476	匕	cuchara	spoon	○[さじ]	匕[かい]		
+jgPq;/6jhD	477	叱	sermonear	scold	○[しっ]責[せき]<br><br>○[しか]る	叱[しか]		
+d}hXhirSb*	478	匂	aroma	aroma	○[にお]い	匂[におい]		leech
+Ot|76ZPTo{	479	頃	lapso temporal	about that time	近[ちか]○[ごろ]	頃[ころ]		leech
+NC(ESjj/{g	480	北	norte	north	敗[はい]○[ぼく]<br><br>○[きた]	北[きた]		
+kHS6ct5VJH	481	背	estatura	stature	○[はい]後[ご]<br><br>○[せ]広[びろ]	背[せ]		
+hsClYXB[5X	482	比	comparar	compare	○[ひ]較[かく]<br><br>○[くら]べる	比[ひ]		
+p-%OLD<at(	483	昆	descendientes	descendants	○[こん]虫[ちゅう]	昆[こん]		
+GG@`SZ?t2	484	皆	todos	all	○[みな] ｜ ○[みんな]	皆[みな]		
+FkTZ*H,_dx	485	楷	tipo de letra rectilínea	block letters	○[かい]書[しょ]	楷		
+J)d7E~=n:I	486	諧	armonioso	orderliness	俳[はい]○[かい]	諧		
+ng*H,.&7t>	487	混	mezclar	mix	○[ま]ざる	混		leech
+QK|(s-!uG@	488	渇	sed	thirst	○[かわ]く	渇[かつ]		leech
+A74L&ss].J	489	謁	audiencia	audience	○[えっ]見[けん]	謁		leech
+pXV)1(1R]7	490	褐	marrón	brown	○[かっ]色[しょく]	褐		
+wBZ=1**y~j	491	喝	ronco	hoarse	恐[きょう]○[かつ]	喝[かつ]		
+D;)GrWUEhM	492	葛	enredadera	kudzu	○[かっ]藤[とう]<br><br>○[くず]	葛[かずら]		leech
+Q8WYEn=ROJ	493	旨	delicioso	delicious	要[よう]○[し]<br><br>○[うま]い	旨[むね]		
+eP*eWHa9lO	494	脂	grasa	fat	○[し]肪[ぼう]<br><br>○[あぶら]	脂[あぶら]		leech
+i|AF,<.Sw_	495	詣	visitar un santuario	visit a shrine	参[さん]○[けい]<br><br>初[はつ]○[もうで]	詣[まい]		
+r4-o)z7Gm.	496	壱	I (uno)	i (one)	○[いち]	壱[いち]		
+Nm:~9aA!sc	497	毎	todos los	every	○[まい]度[ど]	毎[まい]		
+bNR4)fM;].	498	敏	astucia	cleverness	鋭[えい]○[びん]	敏[さとし]		
+Jbhv)&i&O}	499	梅	ciruela	plum	○[つ]雨[ゆ]<br><br>○[うめ]	梅[うめ]		
+sX63tIlX*J	500	海	mar	sea	○[かい]外[がい]<br><br>○[うみ]	海[うみ]		
+bWfVSB8on{	501	乞	mendigar	beg	○[こ]食[じき]	乞		leech
+FTsJ%%/^?T	502	乾	sequía&nbsp;	drought	○[かわ]く	乾[いぬい]		leech
+kV6T3;s1^l	503	腹	abdomen	abdomen	空[くう]○[ふく]<br><br>○[はら]	腹[はら]		
+xqLxvYm^H]	504	複	duplicar	duplicate	○[ふく]雑[ざつ]	複[ふく]		
+e;GVhhwkpI	505	欠	carencia	lack	○[けっ]席[せき]<br>○[けっ]陥[かん]<br><br>○[か]ける	欠[けつ]		
+EYk{v)m0V7	506	吹	soplar	blow	○[ふ]く<br>○雪[ふぶき]	吹		
+C!3cS76qg<	507	炊	cocinar	cook	○[すい]事[じ]<br><br>○[た]く	炊		
+fE0UP|H*V2	508	歌	canción	song	短[たん]○[か]<br><br>○[うた]<br>○[うた]う	歌[うた]		
+JPo~LN=Md-	509	軟	blando	soft	柔[じゅう]○[なん]<br><br>○[やわ]らかい	軟[なん]		leech
+J7@=zs?!g;	510	次	siguiente	next	目[もく]○[じ]<br>○[し]第[だい]<br><br>○[つ]ぐ<br>○[つぎ]	次[つぎ]		
+rt!bP|PhX>	511	茨	zarza	briar	○[いばら]<br>○[いばら]城[き]	茨[いばら]		
+FKpwlWj-40	512	資	bienes	assets	○[し]本[ほん]	資[し]		leech
+Q88[z2j6/%	513	姿	figura	figure	○[し]勢[せい]<br><br>○[すがた]	姿[すがた]		
+e{mb;`Jl[L	514	諮	consultar	consult with	○[し]問[もん]<br><br>○[はか]る	諮[はか]		
+KZbjr`bf`g	515	賠	compensación	compensation	○[ばい]償[しょう]	賠		leech
+sVTU?J3zDF	516	培	cultivar	cultivate	栽[さい]○[ばい]<br><br>○[つちか]う	培		
+dFvQ{NuN5C	517	剖	dividir	divide	解[かい]○[ぼう]	剖		
+N]2-8_~n|{	518	音	sonido	sound	○[おん]楽[がく]<br>福[ふく]○[いん]<br><br>物[もの]○[おと]<br>本[ほん]○[ね]	音[おと]		
+DMymHJ>;rW	519	暗	oscuridad	darkness	○[あん]示[じ]<br><br>○[くら]い	暗[くら]		
+lsuxXoID^z	520	韻	rima	rhyme	○[いん]律[りつ]	韻[いん]		
+ON(m*7fa^+	521	識	perspicaz	discriminating	意[い]○[しき]<br>知[ち]○[しき]	識[しき]		leech
+K?uef-;HVU	522	鏡	espejo	mirror	望[ぼう]遠[えん]○[きょう]<br><br>○[かがみ]	鏡[かがみ]		
+oLdAR.Itv)	523	境	límite	boundary	○[さかい]<br><br>○[きょう]界[かい]	境[さかい]		leech
+D}o}^FjAdR	524	亡	difunto	deceased	死[し]○[ぼう]<br><br>○[な]くなる	亡		
+GatoIST,6k	525	盲	ciego	blind	○[もう]人[じん]	盲[めくら]		
+cxHn3T&Nmm	526	妄	ilusión	delusion	○[もう]想[そう]	妄		
+P4p0z=dUpd	527	荒	arrasado	laid waste	○[こう]廃[はい]<br><br>○[あら]い<br>○[あ]らす	荒[あら]		
+EkmZ(NMF8R	528	望	ambición	ambition	希[き]○[ぼう]<br><br>○[のぞ]む	望[もち]		leech
+tcF7HI4%|M	529	方	dirección	direction	地[ち]○[ほう]<br><br>○[かた]	方[ほう]		
+"fYbux#S{P%"	530	妨	obstaculizar	disturb	○[さまた]げる	妨		leech
+wiL6o6u,H6	531	坊	chiquillo	boy	赤[あか]ん ○[ぼう]<br><br>○[ぼ]っちゃん	坊[ぼう]		
+"L:U#Sm#haQ"	532	芳	perfumado	perfumed	○[ほう]香[こう]<br><br>○[かんば]しい	芳[かおる]		
+"J#,48znwr{"	533	肪	obeso	obese	脂[し]○[ぼう]	肪		
+A-(-|a_K3]	534	訪	visitar	call on	○[ほう]問[もん]<br><br>○[おとず]れる<br>○[たず]ねる	訪		
+i6R&&b&a!-	535	放	liberar	set free	○[ほう]送[そう]<br><br>○[はな]す	放[ほう]		
+fR>Z4T20v8	536	激	violento	violent	急[きゅう]○[げき]<br><br>○[はげ]しい	激[げき]		
+OcXK&[vAOb	537	脱	desnudarse	undress	○[だっ]線[せん]<br><br>○[ぬ]ぐ	脱[だっ]		
+JkSg];mZ5P	538	説	explicación	explanation	○[せつ]明[めい]<br><br>○[と]く	説[せつ]		
+w5jy~P0,Zu	539	鋭	afilado	pointed	○[するど]い	鋭[するど]		
+biNmH9uy-I	540	曽	anteriormente	formerly	○[そう]	曽[そ]		
+LLG1^7Qk@f	541	増	aumento	increase	○[ぞう]加[か]	増[ぞう]		
+H=6c>}{Qus	542	贈	regalo	presents	○[おく]り 物[もの]	贈[おく]		
+sGZ*oUE7s=	543	東	este	east	○[とう]西[ざい]<br><br>○[ひがし]	東[ひがし]		
+oG`3$|C|j_	544	棟	caballete	ridgepole	〜 ○[とう]	棟[むね]		
+G_b&=:{!eH	545	凍	helado	frozen	冷[れい]○[とう]<br><br>○[こお]る	凍[こお]		
+D;fCMtMyUn	546	妊	embarazada	pregnancy	○[にん]娠[しん]	妊		
+PIY}=NV:m~	547	廷	tribunal	courts	法[ほう]○[てい]	廷		
+NLc0{3{ctK	548	染	teñir	dye	汚[お]○[せん]	染[そめ]		leech
+N,i-K{(u./	549	燃	quemar	burn	○[ねん]料[りょう]<br><br><br>○[も]える	燃		leech
+oY*@i[pC3t	550	賓	vip	V.I.P.	○[ひん]客[きゃく]	賓[まれびと]		
+kqyYBtV^5Z	551	歳	fin de año	year-end	万[ばん]○[ざい]<br>○[さい]入[にゅう]	歳[とし]		
+KyfLI%5=q5	552	県	prefectura	prefecture	○[けん]<br>○[けん]庁[ちょう]	県[けん]		
+"p#x;M}f8|5"	553	栃	castaña de Indias	horse chestnut	○[とち]木[ぎ]県[けん]	栃[とち]		
+zwLZaf<9%T	554	地	terreno	ground	○[ち]下[か]鉄[てつ]<br>○[じ]震[しん]	地[ち]		
+gDH/C}9;XT	555	池	estanque	pond	電[でん]○[ち]<br><br>○[いけ]	池[いけ]		
+mfGcJ;*WoX	556	虫	insecto	insect	昆[こん]○[ちゅう]<br><br>○[むし]	虫[むし]		
+zx&XI}ljg}	557	蛍	luciérnaga	lightning bug	○[けい]光[こう]灯[とう]<br><br>○[ほたる]	蛍[ほたる]		
+k8xamx99d+	558	蛇	serpiente	snake	○[へび]	蛇[へび]		leech
+budn9J+>AY	559	虹	arcoíris	rainbow	○[にじ]	虹[にじ]		leech
+mQf1deLWoM	560	蝶	mariposa	butterfly	○[ちょう]	蝶[ちょう]		
+"l%Tv^u]O[#"	561	独	solitario	single	○[どく]特[とく]<br><br>○[ひとり]り 言[ごと]	独[どく]		
+CFu!ySad`s	562	蚕	gusano de seda	silkworm	○[さん]糸[し]	蚕[かいこ]		leech
+"BEs,T#fqgj"	563	風	viento	wind	○[ふう]船[せん]<br>○[ふ]呂[ろ]<br><br>○[かぜ]	風[かぜ]		
+Q48gTtb)75	564	己	el yo	self	自[じ]○[こ]<br>克[こっ]○[き]<br><br>○[おのれ]	己[おのれ]		
+lfjtp5(ELF	565	起	ocurrir	rouse	○[き]床[しょう]<br><br>○[お]きる	起[おこし]		
+"F,>dq#N,ck"	566	妃	reina	queen	王[おう]○[ひ]	妃[きさき]		
+>e@@?[Pz&	567	改	reforma	reformation	○[かい]造[ぞう]<br><br>○[あらた]める	改[あらため]		
+E(F0&o!R6N	568	記	escriba	scribe	伝[でん]○[き]<br><br>○[しる]す	記[き]		
+"uqW#R_C!(R"	569	包	envolver	wrap	○[ほう]囲[い]<br><br>○[つつ]む	包[つつみ]		
+ARr2@@xLB%	570	胞	placenta	placenta	細[さい]○[ぼう]	胞		
+ll><_T^=S%	571	砲	cañón	cannon	鉄[てっ]○[ぽう]	砲[ほう]		
+n.[830hlV/	572	泡	burbuja	bubble	水[すい]○[ほう]<br><br>○[あわ]	泡[あわ]		
+tCb${{3^dU	573	亀	tortuga de tierra	tortoise	○[かめ]	亀[かめ]		
+d|.B+7Xk=0	574	電	electricidad	electricity	○[でん]話[わ]	電[でん]		
+Dl=H>3Io|.	575	竜	dragón	dragon	○[りゅう]<br><br>○[たつ]巻[まき]	竜[りゅう]		
+QAa=:a6LF[	576	滝	catarata	waterfall	○[たき]	滝[たき]		
+"zl_eu#qDF2"	577	豚	puerco	pork	○[とん]カツ<br><br>○[ぶた]	豚[ぶた]		
+h65Ka!pk>$	578	逐	cumplir	pursue	○[ちく]一[いち]	逐		
+g?zK2}CcAM	579	遂	consumar	consummate	○[すい]行[こう]<br><br>○[と]げる<br>○[つい]に	遂[つい]		
+rw00RNOluC	580	家	casa	house	○[か]族[ぞく]<br><br>○[いえ]<br>○[や]主[ぬし]	家[いえ]		
+k6vk^&Y6_i	581	嫁	novia	marry into	再[さい]○[か]<br><br>花[はな]○[よめ]<br>○[とつ]ぐ	嫁[よめ]		leech
+blEuPJyd6X	582	豪	abrumador	overpowering	○[ごう]華[か]<br>○[ふ]豪[ごう]	豪[ごう]		
+A+6J652!aO	583	腸	intestinos	intestines	大[だい]○[ちょう]	腸[ちょう]		
+H,&7Dsm_NM	584	場	lugar	location	会[かい]○[じょう]<br><br>○[ば]所[しょ]<br>○[ば]合[あい]	場[ば]		
+LJ.*GQ&6Eo	585	湯	agua caliente	hot water	熱[ねっ]○[とう]<br><br>○[ゆ]気[げ]	湯[ゆ]		
+J{R*FBUK&Z	586	羊	oveja	sheep	○[よう]毛[もう]<br><br>○[ひつじ]	羊[ひつじ]		
+N2tix;4^]>	587	美	belleza	beauty	○[び]人[じん]<br><br>○[うつく]しい<br><br>○味[おい]しい	美[よし]		
+o{)zGdp5C%	588	洋	océano	ocean	海[かい]○[よう]	洋[よう]		
+"~{L?|)@3#"	589	詳	detallado	detailed	○[しょう]細[さい]<br><br>○[くわ]しい	詳		
+I?pleIyNW]	590	鮮	fresco	fresh	新[しん]○[せん]<br><br>○[あざ]やか	鮮		
+qEXT~pPW`x	591	達	hábil	accomplished	発[はっ]○[たつ]<br><br>○[たち]	達[いたる]		
+y<6V%rF`);	592	羨	envidia	envious	○[うらや]ましい	羨[とも]		leech
+g$tHgo8!bb	593	差	distinción	distinction	○[さ]別[べつ]<br><br>○[さ]す	差[さ]		
+A<v:WsGT-]	594	着	vestirse	don	○[き]る<br><br>○[つ]く	着[ちゃく]		
+E~Sfu|&ly0	595	唯	solo	solely	○[ゆい]一[いつ]	唯[ただ]		
+m$A`DNzX[d	596	堆	apilado	piled high	○[たい]肥[ひ]	堆[うずたか]		leech
+Azf1Q:5+uR	597	椎	encina japonesa	sweet oak	脊[せき]○[つい]<br><br>○[しい]茸[たけ]	椎[しい]		
+hhFB1E?9:j	598	誰	quién	who	○[だれ]	誰[だれ]		
+u(OF2vUpCU	599	焦	chamuscar	char	○[む]理[り]<br>○[ぶ]事[じ]<br><br>○[な]くす	焦[あせ]		
+"P;qHBR>GF#"	600	礁	arrecife	reef	座[ざ]○[しょう]	礁		
+P1~j]HK=W^	601	集	reunir	gather	○[しゅう]合[ごう]<br><br>○[あつ]まる	集[しゅう]		leech
+lFEk+F<u6r	602	准	cuasi-	quasi-	○[じゅん]将[しょう]	准[じゅん]		
+rt9q{Z~2U5	603	進	avanzar	advance	前[ぜん]○[しん]<br><br>○[すす]む	進[すすむ]		
+FEAGrG++=j	604	雑	varios	miscellaneous	○[ざつ]音[おん]	雑[ざつ]		leech
+izmG^-2P_e	605	雌	hembra	female	○[めす]	雌[めす]		
+fR/G+.OYe]	606	準	semi-	semi-	○[じゅん]備[び]	準[じゅん]		
+oM[cfA(g^6	607	奮	excitado	stirred up	興[こう]○[ふん]	奮		leech
+Qj?wCJrpnX	608	奪	arrebatar	rob	略[りゃく]○[だつ]<br><br>○[うば]う	奪[だつ]		
+o}bPolFOKf	609	確	seguro	assurance	○[かく]認[にん]<br><br>○[たし]か<br>○[たし]かめる	確[かく]		
+nJqf{k}g[:	610	午	mediodía	noon	○[ご]後[ご]	午[うま]		
+nC?r{l1g%|	611	許	permitir	permit	○[きょ]可[か]<br><br>○[ゆる]す	許[もと]		leech
+"k@A.<+2#Q5"	612	歓	deleite	delight	○[かん]声[せい]	歓[かん]		
+I}!v.x7o|~	613	権	autoridad	authority	○[けん]利[り]	権[けん]		leech
+"puogoGEH#d"	614	観	panorama	outlook	○[かん]察[さつ]	観[かん]		leech
+"vR@PTDTL#0"	615	羽	plumas	feathers	○[う]毛[もう]<br><br>○[はね]	羽[はね]		
+m5Kupx,o=(	616	習	aprender	learn	練[れん]○[しゅう]<br><br>○[なら]う	習		
+G$/caw:74^	617	翌	subsecuente	the following	○[よく]日[じつ]	翌[よく]		
+"qJUlBsyo#$"	618	曜	día de la semana	weekday	○[よう]日[び]	曜		
+yP>a0Kq!6A	619	濯	colada	laundry	洗[せん]○[たく]<br><br>○[すす]ぐ	濯		
+zM?=fqJPq3	620	曰	dixit	sayeth	○[いわ]く	曰		
+x!b3[0S[G+	621	困	apuro	quandary	○[こん]難[なん]<br><br>○[こま]る	困[こま]		
+Gyj-I/Ql+Y	622	固	duro	harden	頑[がん]○[こ]<br><br>○[かた]まる<br>○[かた]める	固[かた]		
+E=rp!yGc6K	623	錮	encarcelar	weld	禁[きん]○[こ]	錮		leech
+MjX6XYIas;	624	国	país	country	外[がい]○[こく]<br><br>○[くに]	国[くに]		
+H,AtbYQQ9n	625	団	grupo	group	集[しゅう]○[だん]<br>布[ふ]○[とん]	団[だん]		
+P:E|cn_Z7d	626	因	causa	cause	原[げん]○[いん]<br><br>○[よ]る<br>○[よ]って	因[いん]		
+jo/celQ%s5	627	姻	matrimonio	matrimony	婚[こん]○[いん]	姻		leech
+zi*@(BI|$y	628	咽	laringe	windpipe	○[いん]喉[こう]	咽[のんど]		
+EpL)Bq1WM*	629	園	parque	park	公[こう]○[えん]<br><br>○[その]	園[えん]		
+"PBRG#/&+1Y"	630	回	veces	-times	今[こん]○[かい]<br><br>○[まわ]る<br>○[まわ]す	回[かい]		
+vWsT.58S;i	631	壇	podio	podium	花[か]○[だん]<br>土[ど]○[たん]場[ば]	壇[だん]		
+biKtR.mbnw	632	店	tienda	store	○[てん]員[いん]<br><br>○[みせ]	店[みせ]		
+ow%m0vJ-5;	633	庫	garaje	warehouse	車[しゃ]○[こ]<br>冷[れい]蔵[ぞう]○[こ]	庫[くら]		
+fAQuGV4.a{	634	庭	patio	courtyard	校[こう]○[てい]<br><br>○[にわ]	庭[にわ]		
+h&54v.3&aw	635	庁	oficina gubernamental	government office	官[かん]○[ちょう]	庁[ちょう]		
+ti&AjfVHGT	636	床	cama	bed	起[き]○[しょう]<br><br>○[とこ]の間<br>○[ゆか]	床[ゆか]		
+ovKgu_W&K{	637	麻	cáñamo	hemp	○[ま]酔[すい]<br><br>○[あさ]	麻[あさ]		
+y%29.2;Hp@	638	磨	pulir	grind	○[みが]く	磨[みがく]		
+bZVo4-oZd*	639	心	corazón	heart	安[あん]○[しん]<br><br>○[こころ]	心[こころ]		
+gx6H1w9D7$	640	忘	olvidar	forget	○[ほう]年[ねん]会[かい]<br><br>○[わす]れる	忘		
+FK4{oXvHPm	641	恣	caprichoso	selfish	○[し]意[い]的[てき]	恣[ほしいまま]		
+upcrMKCCrM	642	忍	aguante	endure	○[にん]耐[たい]<br>○[にん]者[じゃ]<br><br>○[しの]び 足[あし]	忍[にん]		
+ii=9jrP{5W	643	認	reconocer	acknowledge	○[かく]認[にん]<br><br>○[みと]める	認		
+h|pdcQuMtf	644	忌	velatorio	mourning	○[き]中[ちゅう]	忌[いみ]		leech
+h67:zneJ0[	645	志	intención	intention	○[し]望[ぼう]<br><br>○[こころざし]	志[こころざし]		
+qV>.N(||dV	646	誌	documento	document	雑[ざっ]○[し]	誌[し]		
+yK<0d)p^`p	647	芯	mecha	wick	○[しん]	芯[しん]		
+FDTJB|G%Xb	648	忠	lealtad	loyalty	○[ちゅう]実[じつ]	忠[ただし]		
+Npb:&DOoW+	649	串	pinchito	shish kebab	○[くし]焼[や]き	串[くし]		
+oc6C>1RN}a	650	患	afligido	afflicted	○[かん]者[じゃ]<br><br>○[かずら]う	患		
+l9~_&4]ZP[	651	思	pensar	think	○[し]想[そう]<br><br>○[おも]う	思		
+CZs[e_)9[3	652	恩	gracia	grace	○[おん]恵[けい]	恩[おん]		
+s&5|6;duP@	653	応	adaptar	apply	○[おう]用[よう]	応[おう]		
+nUTkx:ItWt	654	意	idea	idea	○[い]味[み]<br>○[い]見[けん]<br>注[ちゅう]○[い]	意[い]		
+tsJVtW7pyt	655	臆	achantarse	cowardice	○[おく]病[びょう]	臆[おく]		leech
+LtgFC@]7y:	656	想	concepto	concept	思[し]○[そう]<br>愛[あい]○[そ]	想[そう]		
+gM+|-oEFcu	657	息	respiración	breath	消[しょう]○[そく]<br><br>○[いき]	息[いき]		
+ohXo79y/B.	658	憩	pausa	recess	休[きゅう]○[けい]	憩[いこい]		
+dAKR`?F}d7	659	恵	favor	favor	恩[おん]○[けい]<br>知[ち]○[え]<br><br>○[めぐ]む	恵[めぐみ]		
+chi?i1C=54	660	恐	terror	fear	○[きょう]怖[ふ]<br><br>○[おそ]れる	恐[こわ]		
+m=(V%4S4~_	661	惑	engatusar	beguile	疑[ぎ]○[わく]	惑		
+FzScyu]9@R	662	感	emoción	emotion	○[かん]じる<br>○[かん]覚[かく]	感[かん]		
+wk8H(WSWWv	663	憂	melancolía	melancholy	○[ゆう]慮[りょ]	憂[う]		
+jU,;>O]!ed	664	寡	viuda	widow	○[か]黙[もく]	寡[か]		leech
+OopCY@!ch@	665	忙	ocupado	busy	多[た]○[ぼう]<br><br>○[いそが]しい	忙		
+jpLC%eRj?Q	666	悦	éxtasis	ecstasy	満[まん]○[えつ]	悦[えつ]		
+P>}lH9{%cI	667	恒	constancia	constancy	○[こう]例[れい]	恒[つね]		
+J,AeboJhgN	668	悼	lamento	lament	哀[あい]○[とう]	悼		leech
+zleF[UrIe6	669	悟	iluminación	enlightenment	覚[かく]○[ご]<br><br>○[さと]る	悟[さとる]		
+FR*8BFog6l	670	怖	miedo	dreadful	恐[きょう]○[ふ]<br><br>○[こわ]い	怖[こわ]		
+xbY6~L|_>Y	671	慌	desconcierto	disconcerted	○[あわ]てる	慌		
+JE_)dxlgOP	672	悔	arrepentimiento	repent	後[こう]○[かい]<br><br>○[くや]しい<br>○[く]やむ	悔		
+"s#F,47@[Z_"	673	憎	odio	hate	○[ぞう]悪[お]<br><br>○[にく]む<br>○[にく]らしい	憎[にく]		
+y(8[T9`X]+	674	慣	costumbre	accostumed	習[しゅう]○[かん]<br><br>○[な]れる	慣		leech
+E=L03X+V5>	675	愉	placer	pleasure	○[ゆ]快[かい]	愉		
+xrQB{@61!]	676	惰	pereza	lazy	怠[たい]○[だ]	惰		
+j*71yt3tMF	677	慎	cauto	humility	○[しん]重[ちょう]<br><br>○[つつし]む	慎[まき]		
+I(.])z]|IF	678	憾	remordimiento	remorse	遺[い]○[かん]	憾		leech
+k[Kn{T{[U[	679	憶	recuerdo	recollection	記[き]○[おく]	憶		
+d%Y+HjKnft	680	惧	preocupante	disquieting	危[き]○[ぐ]	惧		leech
+.uS;Gsa-`	681	憧	desear fervientemente	yearn	○[あこが]れる	憧		
+Oti/DRL.Vw	682	憬	añorar	hanker	憧[どう]○[けい]	憬		leech
+s2?L}NoB(E	683	慕	ansia	pinning	○[した]う	慕		leech
+mbZj$$Os5L	684	添	anexo	annexed	○[てん]付[ぷ]<br><br>○[そ]える	添		
+"IK#61A3Q:*"	685	必	necesariamente	invariably	○[ひつ]要[よう]<br><br>○[かなら]ず	必[ひつ]		
+H4a%VVDxyF	686	泌	rezumar	ooze	分[ぶん]○[ぴつ]<br><br>○[ひ]尿[にょう]器[き]	泌		
+J85]drV^OQ	687	手	mano	hand	選[せん]○[しゅ]<br><br>○[て]<br>○[て]紙[がみ]<br><br>上○[じょうず]	手[て]		
+u>_U:!.@WS	688	看	vigilar	watch over	○[かん]病[びょう]	看[み]		
+r2XmPVh^py	689	摩	rozar	chafe	○[ま]擦[さつ]	摩[ま]		
+bmv+L.@;4%	690	我	ego	ego	○[が]慢[まん]<br><br>○[われ]々[われ]	我[わが]		
+Dc-&mvin^v	691	義	virtud	righteousness	講[こう]○[ぎ]<br>○[ぎ]務[む]	義[よし]		
+do1|^~*tRF	692	議	deliberación	deliberation	会[かい]○[ぎ]	議[ぎ]		
+lBp&!:j-S+	693	犠	sacrificio	sacrifice	○[ぎ]牲[せい]	犠		leech
+kYVNv<X.j1	694	抹	frotar	rub	○[まっ]消[しょう]	抹		
+xbMz|lTK8Y	695	拭	enjugar	wipe	払[ふっ]○[しょく]<br><br>○[ふ]く<br>○[ぬぐ]う	拭		leech
+nXUrv<=A5h	696	拉	halar	yank	○[ら]致[ち]	拉		
+d4ERC@XIN.	697	抱	abrazo	embrace	介[かい]○[ほう]<br><br>○[いだ]く<br>○[かか]える	抱		
+Dw<Pv`W!Gl	698	搭	embarcar	board	○[とう]乗[じょう]	搭		
+C-+;`p0=sV	699	抄	extracto	extract	○[しょう]本[ほん]	抄[しょう]		
+flf)U_5>dy	700	抗	confrontación	confront	○[こう]議[ぎ]	抗[こう]		
+pMSor1c1`3	701	批	crítica	criticism	○[ひ]判[はん]	批		
+rDg|Rr:?dA	702	招	invitar	beckon	○[しょう]待[たい]<br><br>○[まね]く	招		leech
+y-^m!W~)JW	703	拓	despejar (el terreno)	clear the land	開[かい]○[たく]	拓[たく]		
+Mp?^{5]+u;	704	拍	aplaudir	clap	○[はく]手[しゅ]<br><br>○[ひょう]子[し]	拍[はく]		
+kO/pxfB&~}	705	打	golpear	strike	○[だ]撃[げき]<br><br>○[う]つ	打[だ]		leech
+"pIAjg$n#fh"	706	拘	arrestar	arrest	○[こう]束[そく]<br><br>○[こだわ]る	拘[かかわ]		
+I%[`AB4MN`	707	捨	descartar	discard	四[し]○[しゃ]五[ご]入[にゅう]<br><br>○[す]てる	捨		
+QSBW*i):[e	708	拐	secuestrar	kidnap	誘[ゆう]○[かい]	拐		
+jnO$I:UyEr	709	摘	pellizcar	pinch	指[し]○[てき]<br><br>○[つま]む	摘		
+ftyt=>B{Zx	710	挑	desafío	challenge	○[ちょう]戦[せん]<br><br>○[いど]む	挑		leech
+tvPZu^Z+gX	711	指	dedo	finger	○[し]導[どう]<br><br>○[ゆび]<br>○[さ]す	指[ゆび]		
+N)%^66[.qt	712	持	sostener	hold	支[し]○[じ]<br><br>○[も]つ	持[じ]		
+"P#?ZmpD;SC"	713	拶	inminente	inminent	挨[あい]○[さつ]	拶		leech
+Gz;,XrS/mP	714	括	sujetar	fasten	○[かっ]弧[こ]	括[くく]		
+L5.XhqEk=}	715	揮	blandir	brandish	発[はっ]○[き]	揮		
+H-A(_}1I(e	716	推	conjetura	conjecture	○[すい]薦[せん]	推		
+n%?Gi_(`Cv	717	揚	enarbolar	hoist	○[あ]げる	揚[よう]		
+oI^+l.P]?Y	718	提	propuesta	propose	○[てい]案[あん]<br><br>○[さ]げる	提[ひさげ]		leech
+"rF*M52:>#N"	719	損	daño	damage	○[そん]<br><br>○[そこ]なう	損[そん]		
+FfU!JOB=Ci	720	拾	recoger	pick up	収[しゅう]○[しゅう]<br><br>○[ひろ]う	拾[じつ]		leech
+k/<&s%N<Va	721	担	llevar sobre los hombros	shouldering	○[かつ]ぐ	担		
+GG8NVl[>k`	722	拠	apoyo	foothold	根[こん]○[きょ]<br>証[しょう]○[こ]	拠[よりどころ]		
+yq=?{s7Pro	723	描	bosquejar	sketch	○[びょう]写[しゃ]<br><br>○[えが]く	描		
+xLCFKBx:]K	724	操	pilotar	maneuver	○[そう]作[さ]<br><br>○[あやつ]る	操[みさお]		
+F/p*2ur{wI	725	接	tocar	touch	直[ちょく]○[せつ]<br>○[せっ]触[しょく]	接[せっ]		
+yV};:)cxd7	726	掲	subir	put up a notice	○[けい]示[じ]	掲		leech
+"E8B4e(Se=#"	727	掛	colgar	hang	○[か]ける<br>○[か]かる	掛[かけ]		
+F*,LM=p9%+	728	捗	progresar	make headway	進[しん]○[ちょく]<br><br>○[はかど]る	捗[はかど]		
+fCShIG*%?J	729	研	bruñir	polish	○[けん]究[きゅう]<br><br>○[と]ぐ	研[けん]		leech
+vQ$U-$g4]}	730	戒	mandamiento	commandment	警[けい]○[かい]<br><br>○[いまし]める	戒[いんごと]		
+q*vQxCrVh^	731	弄	juguetear	tinker with	翻[ほん]○[ろう]<br><br>○[もてあそ]ぶ	弄[ろう]		
+HOlCPo!.ps	732	械	artilugio	contraption	機[き]○[かい]	械		
+vN^a6u;&br	733	鼻	nariz	nose	耳[じ]○[び]科[か]<br><br>○[はな]	鼻[はな]		
+PTdr$|{SR5	734	刑	castigar	punish	○[けい]罰[ばつ]	刑[けい]		leech
+K~LZ31^.T4	735	型	molde	mould	典[てん]○[けい]<br><br>血[けつ]液[えき]○[がた]	型[かた]		leech
+A`C4~hX@|%	736	才	genio	genius	○[さい]能[のう]<br>天[てん]○[さい]	才[さい]		
+ktC7Zk!gtE	737	財	propiedad	property	○[さい]布[ふ]<br>○[ざい]政[せい]	財[ざい]		
+lE%SGO4y},	738	材	material	lumber	○[ざい]料[りょう]<br>○[ざい]木[もく]	材[ざい]		
+k)q_o>hTQZ	739	存	suponer	suppose	○[そん]在[ざい]<br>保[ほ]○[ぞん]<br><br>	存[そん]		
+ypjF2?=|FW	740	在	existir	exist	存[そん]○[ざい]<br><br>有[あ]る｜ ○[あ]る	在[ざい]		
+PHa>2OAx;-	741	乃	a partir de	from	○[ない]至[し]	乃[の]		leech
+de=Hk.R$ym	742	携	portátil	portable	○[けい]帯[たい]<br><br>○[たずさ]わる	携		
+E,+)Ci1b>.	743	及	alcanzar	reach out	普[ふ]○[きゅう]<br><br>○[およ]ぼす<br>○[およ]び	及		leech
+fdhAgc55P+	744	吸	chupar	suck	○[きゅう]収[しゅう]<br><br>○[す]う	吸		
+"e{z?bYq,t#"	745	扱	manejar	handle	○[あつか]う	扱		
+uV{$/Up*>%	746	丈	metraje	length	○[だけ] (part.)<br><br>○[じょう]夫[ぶ]	丈[たけ]		
+KVNaePm%7C	747	史	historia	history	歴[れき]○[し]	史[ふみ]		
+eCFl0C;$!:	748	吏	funcionario	officer	官[かん]○[り]	吏[り]		leech
+Ezx]TB6fL5	749	更	renovar	grow late	○[こう]新[しん]	更[さら]		
+KGs/I4Mp3h	750	硬	rígido	stiff	○[こう]貨[か]<br><br>○[かた]い	硬[かた]		
+oK9XU*A!:	751	梗	espinoso	spiny	脳[のう]○[こう]塞[そく]	梗		leech
+u@Pt_2FG}w	752	又	o bien	or again	○[また]｜○は...	又[また]		
+"cQY)xmFP:#"	753	双	par	pair	○[そう]方[ほう]<br><br>○[ふた]子[ご]	双[そう]		
+Q2_ynkK*hu	754	桑 b	morera	mulberry	○[そう]園[えん]<br><br>○[くわ]	桑[くわ] b		
+G5&Db`S=o~	755	隻	bajeles	vessels	〜 ○[せき]	隻[せき]		
+LQF/9&v$Zw	756	護	custodiar	safeguard	○[ご]衛[えい]	護[まもる]		
+yMXihoy$v!	757	獲	obtener	seize	○[かく]得[とく]<br><br>○[え]る	獲[え]		leech
+biW|::=3RA	758	奴	tipejo	guy	○[ど]隷[れい]	奴[やつ]		
+wzq7^491YJ	759	怒	ira	angry	○[おこ]る	怒[いか]		leech
+DF6Nsr/<l	760	友	amigo	friend	○[ゆう]情[じょう]<br>○[ゆう]人[じん]<br><br>○[まる]	友[とも]		
+"HT_(iR!#V^"	761	抜	zafarse	slip out	選[せん]○[ばつ]<br><br>○[ぬ]ける	抜		leech
+bGvyY}M2]Y	762	投	lanzar	throw	○[とう]票[ひょう]<br><br>○[な]げる	投[とう]		
+km*11fNJfh	763	没	ahogarse	drown	沈[ちん]○[ぼつ]	没[ぼつ]		leech
+kqV_fJUPv	764	股	muslo	thigh	○[また]	股[また]		
+"HwcYpDlIB#"	765	設	establecimiento	establishment	建[けん]○[せつ]	設		leech
+rj19DfNO]o	766	撃	azotar	beat	攻[こう]○[げき]<br><br>○[う]つ	撃		
+KHv??_NpU,	767	殻	cáscara	husk	地[ち]○[かく]<br><br>貝[かい]○[がら]	殻[から]		
+OaV!Q(k`<&	768	支	rama	branch	○[し]持[じ]	支		leech
+O1L,uGH^`>	769	技	pericia	skill	○[ぎ]術[じゅつ]	技[わざ]		leech
+DPE%J@h&ba	770	枝	leño	bough	〜 ○[し]<br><br>○[えだ]	枝[えだ]		
+iw?>u=!,6	771	肢	extremidad	limb	○[し]体[たい]	肢[し]		
+GR9^`KLv,K	772	茎	tallo	stalk	○[くき]	茎[くき]		
+dL|_[|SyB<	773	怪	sospechoso	suspicious	○[かい]物[ぶつ]<br><br>○[あや]しい	怪[かい]		
+C@*&Xb.}6+	774	軽	liviano	lightly	○[かる]い	軽[かる]		
+r2B*,pufSX	775	叔	tío	uncle	○[お]母[ば]さん	叔		
+f@@m*F(Xky	776	督	entrenador	coach	監[かん]○[とく]	督[とく]		
+c)(1f^-f`d	777	寂	soledad	loneliness	静[せい]○[じゃく]<br><br>○[さび]しい	寂[さび]		
+hxq]B[gi&G	778	淑	grácil	graceful	○[しゅく]女[じょ]	淑[よし]		leech
+OF*RlsH;dE	779	反	anti-	anti-	○[はん]映[えい]	反[はん]		
+Jl.`sq]3px	780	坂	pendiente (cuesta)	slope	○[さか]	坂[さか]		
+j7`<hI1G!b	781	板	tabla	plank	黒[こく]○[ばん]	板[いた]		
+mJAbA[FmuO	782	返	devolver	return	○[へん]事[じ]<br><br>○[かえ]す	返[かえ]		
+BK4OUOk_z]	783	販	márketing	marketing	○[はん]売[ばい]	販		
+f$5yb;8qMu	784	爪	garras	claw	○[つめ]	爪[つめ]		
+h>1m8RnTLW	785	妥	amable	gentle	○[だ]当[とう]	妥		
+r}Dqog8!g~	786	乳	leche	milk	牛[ぎゅう]○[にゅう]	乳[ちち]		
+MZG]ztMd[v	787	浮	flotar	floating	○[ふ]力[りょく]<br><br>○[う]かぶ<br>○[うわ]気[き]	浮		
+r=HRUr5kkt	788	淫	lascivo	lewd	○[みだ]ら	淫[いん]		
+C[)Q8vnxY>	789	将	líder	leader	○[しょう]来[らい]<br><br>○[しょう]軍[ぐん]	将[はた]		
+w%r,ofB*xN	790	奨	exhortar	exhort	○[しょう]励[れい]	奨[すすむ]		leech
+IeKByEb!O$	791	采	aferrar	grab	喝[かっ]○[さい]	采[さい]		
+DcS[iNEv^<	792	採	recolectar	pick	○[と]る	採[と]		leech
+q*[66a9f-L	793	菜	verdura	vegetable	野[や]○[さい]<br><br>青[あお]○[な]	菜[さい]		
+v_BPy,,jla	794	受	aceptar	accept	○[じゅ]験[けん]<br><br>○[う]ける<br>○[う]け 取[と]り	受[じゅ]		
+K{3o5ImA]{	795	授	impartir	impart	○[じゅ]業[ぎょう]<br>教[きょう]○[じゅ]	授		
+lwF&Mn~.*+	796	愛	amor	love	○[あい]情[じょう]<br><br>可[かわ]○[い]い	愛[あい]		
+F$C0z25mzG	797	曖	ambiguo	unclear	○[あい]昧[まい]	曖		
+lhFcOCqxjF	798	払	pagar	pay	○[はら]う	払		
+b0+B-KAw9>	799	広	ancho	wide	○[こう]告[こく]<br><br>○[ひろ]い<br>○[ひろ]がる<br>○[ひろ]場[ば]<br>背[せ]○[びろ]	広[ひろ]		
+GP+{K}E5[r	800	勾	enganchado	hooked	○[こう]配[ばい]	勾		
+bPL$zv?xcg	801	拡	ampliar	broaden	○[かく]大[だい]	拡		
+g>7VvB+6iE	802	鉱	mineral	mineral	○[こう]山[ざん]	鉱[こう]		leech
+d|I@1(5mzm	803	弁	válvula	valve	○[べん]当[とう]	弁[べん]		
+c^U|n^alSN	804	雄	macho	male	英[えい]○[ゆう]	雄[ゆう]		leech
+OmWVJ},kmq	805	台	pedestal	pedestal	灯[とう]○[だい]<br><br>○[たい]風[ふう]	台[だい]		
+sa}J_`D&d.	806	怠	descuidar	neglect	○[たい]慢[まん]<br><br>○[おこた]る<br>○[なま]ける	怠[おこた]		
+"CX%;Y>ta}#"	807	治	reinar	reign	政[せい]○[じ]<br><br>○[あさ]める	治[ち]		leech
+dKf+&jd<lD	808	冶	metalurgia	metallurgy	○[や]金[きん]	冶[や]		
+L*{tpd!7qT	809	始	empezar	commence	開[かい]○[し]<br><br>○[はじ]める<br>○[はじ]まる	始[はじめ]		
+kAye!jGm>I	810	胎	matriz	womb	○[たい]児[じ]	胎[たい]		
+"lv+D#LsQPG"	811	窓	ventana	window	同[どう]○[そう]<br><br>○[まど]	窓[まど]		leech
+v0V!GjOFm+	812	去	pasado	gone	○[きょ]年[ねん]	去[さ]		
+J/|MyI;~]u	813	法	método	method	文[ぶん]○[ぽう]	法[ほう]		
+lv,ThOSlJS	814	会	reunión	meeting	○[かい]話[わ]<br><br>○[あ]う	会[かい]		leech
+P?U}[5AH5,	815	至	clímax	climax	夏[げ]○[し]<br><br>○[いた]って	至[いたり]		
+Gm+sQT<f85	816	室	sala	room	教[きょう]○[しつ]	室[しつ]		leech
+iV<9fysOU[	817	到	llegada	arrival	○[とう]着[ちゃく]	到[いた]		
+IbjD:P@|Vd	818	致	facer	doth	合[がっ]○[ち]<br><br>○[いた]す	致		
+DV}w(-R0;8	819	互	mutuamente	mutually	相[そう]○[ご]<br><br>○[たが]い	互		
+EHJt`O9$es	820	棄	abandonar	abandon	放[ほう]○[き]	棄		
+uwy-/RTWDb	821	育	educar	bring up	教[きょう]○[いく]<br><br>○[そだ]てる<br>○[そだ]つ	育[いく]		
+G>Oyk01>5=	822	撤	eliminar	remove	○[てっ]退[たい]	撤		
+o0R@)*f]A|	823	充	asignar	allot	拡[かく]○[じゅう]<br><br>○[あ]てる	充[たかし]		
+ARl2(2LmD!	824	銃	fusil	gun	○[じゅう]	銃[じゅう]		
+Gu`,Qp,-Gc	825	硫	azufre	sulfur	○[りゅう]酸[さん]	硫		
+dgn0)M@KKU	826	流	corriente	current	○[りゅう]行[こう]<br>○[る]布[ふ]<br><br>○[なが]れる<br>○[なが]す	流[りゅう]		
+s<<{{tyl_Z	827	允	licencia	license	○[いん]許[きょ]	允[まこと]		leech
+B@tawcSipl	828	唆	cautivar	tempt	教[きょう]○[さ]<br><br>○[そそのか]す	唆		leech
+k>|<j|:{4m	829	出 salir	salir	exit	○[しゅっ]生[しょう]<br><br>○[で]る<br>○[だ]す	出[いずる] salir		
+BTm4JGM[KI	830	山	montaña	mountain	沢[たく]○[さん]<br>火[か]○[ざん]<br><br>○[やま]	山[やま]		
+uDNR!ER5}<	831	拙	torpe	bungling	○[せつ]劣[れつ]<br><br>○[うたな]い	拙[つたな]		
+NTt<*c!u$.	832	岩	roca	boulder	溶[よう]○[がん]<br><br>○[いわ]	岩[いわ]		
+mt)m!R%,zP	833	炭	carbón	charcoal	石[せき]○[たん]<br><br>○[すみ]	炭[すみ]		leech
+d,5ao&;+`R	834	岐	bifurcación	branch off	○[ぎ]阜[ふ]	岐[ちまた]		leech
+C&o~-Z?TL(	835	峠	cima de la montaña	mountain pass	○[とうげ]	峠[とうげ]		
+"s<Ij#~a|u_"	836	崩	derrumbarse	crumble	○[ほう]壊[かい]<br><br>○[くず]れる<br>○[くず]す	崩[くずれ]		
+6+I}=6HYb	837	密	oculto	secrecy	秘[ひ]○[みつ]	密[みつ]		
+l4l+u(.gpy	838	蜜	miel	honey	○[みつ]月[げつ]	蜜[みつ]		
+cvKVmP)~q7	839	嵐	tormenta	storm	○[あらし]	嵐[あらし]		
+"qlJCCU#l}W"	840	崎	promontorio	promontory	川[かわ]○[さき]	崎[さき]		leech
+xxkVEQM|hW	841	崖	acantilado	bluffs	○[がけ]	崖[がけ]		
+qcKVPw!~H+	842	入	entrar	enter	収[しゅう]○[にゅう]<br><br>○[はい]る<br>○[い]れる<br>○[いり]口[ぐち]	入[いり]		
+s]cb-u7Yv1	843	込	aglomeración	crowded	○[こ]む<br>○[こ]める	込[こみ]		
+drN0LChR/;	844	分	parte	part	自[じ]○[ぶん]<br>○[ふん]<br><br>○[わ]ける<br>○[わ]かる	分[ぶん]		
+"yY;hf=^[#A"	845	貧	pobreza	poverty	○[ひん]困[こん]<br><br>○[まず]しい	貧[ひん]		
+IUZ^zlXd6q	846	頒	partición	partition	○[はん]布[ぷ]	頒		leech
+NG.P_}Xq+/	847	公	público	public	○[こう]園[えん]<br><br>○[おおやけ]	公[おおやけ]		
+Df{X`OX7d_	848	松	pino	pine tree	○[まつ]	松[まつ]		
+L]cg}EjQj7	849	翁	anciano venerable	venerable old man	老[ろう]○[おう]	翁[おう]		
+J%ugEj/!@x	850	訟	querellarse	sue	訴[そ]○[しょう]	訟		
+EZO=~x{zOb	851	谷	valle	valley	○[たに]	谷[たに]		
+P[a;`INM)R	852	浴	bañarse	bathe	海[かい]水[すい]○[よく]<br><br>○[あ]びる<br><br>○衣[ゆかた]	浴[よく]		
+QEoH|a]8J7	853	容	contener	contain	内[ない]○[よう]	容[よう]		
+AV+m[0ddtY	854	溶	derretir	melt	○[よう]液[えき]<br><br>○[と]ける	溶		leech
+tW?`zFD}+F	855	欲	anhelo	longing	食[しょく]○[よく]<br><br>○[ほ]しい	欲[よく]		leech
+z3QM4zj5Ym	856	裕	abundante	abundant	余[よ]○[ゆう]	裕[ひろし]		
+kv{{x/gP2B	857	鉛	plomo	lead (metal)	○[えん]筆[ぺつ]<br><br>○[なまり]	鉛[なまり]		
+s(m0>(@*YH	858	沿	circunvalar	run alongside	○[そ]う	沿		leech
+hGqwu0K78v	859	賞	premio	prize	○[しょう]<br>○[しょう]品[ひん]	賞[しょう]		leech
+xcS.?x>S.m	860	党	partido	party	政[せい]○[とう]<br>共[きょう]産[さん]○[とう]	党[とう]	"<img src=""paste-71d08ddc9644072024323b99ac4136276a3a2496.jpg"">"	
+MXdR(;33m(	861	堂	sala pública	hall	○[どう]々[どう]<br>食[しょく]○[ど]	堂[どう]		
+eKuh(b?c0<	862	常	normal	usual	非[ひ]○[じょう]<br><br>○[つね]に	常[つね]		leech
+lmlL1PzmSb	863	裳	falda	skirt	○[も]	裳[も]		
+dG_@D*v=}|	864	掌	manipular	manipulate	車[しゃ]○[しょう]	掌[てのひら]		leech
+M=E@@H_ka)	865	皮	pellejo	pelt	○[ひ]膚[ふ]<br>○[ひ]肉[にく]<br><br>○[かわ]<br>毛[け]○[がわ]	皮[かわ]		
+pZ9t2a=_rq	866	波	olas	waves	電[でん]○[ぱ]<br><br>○[なみ]	波[なみ]		
+i96}[AJ:y>	867	婆	abuelita	old woman	老[ろう]○[ば]	婆[ばば]		
+wDvPzk[?V>	868	披	exponer	expose	○[ひ]露[ろう]	披		
+I??iH=.JYc	869	破	desgarrar	rend	○[は]産[さん]<br><br>○[やぶ]る<br>○[やぶ]れる	破[やぶ]		
+d*P:2%Zl$k	870	被	incurrir	incur	○[ひ]害[がい]<br><br>○[かぶ]る	被[ひ]		
+v/JQj]l?Mj	871	残	el resto	remainder	○[ざん]酷[こく]<br><br>○[のこ]る<br>○[のこ]す	残[ざん]		
+HyoAiL&%!&	872	殉	martirio	martyrdom	○[じゅん]職[しょく]	殉		
+O_X|)|$|qO	873	殊	particularmente	particularly	特[とく]○[しゅ]<br><br>○[こと]に	殊[こと]		
+h@-VA.2p$U	874	殖	multiplicarse	augment	生[せい]○[しょく]<br><br>○[ふ]える	殖		
+Cfc}qAZA83	875	列	hilera	file	○[れつ]<br>○[れっ]車[しゃ]	列[れつ]		
+q%X187,[zg	876	裂	ruptura	split	分[ぶん]○[れつ]<br><br>○[さ]く	裂		
+vfOub^YjKS	877	烈	ardiente	ardent	猛[もう]○[れつ]	烈[れつ]		
+IW0f/]|4Jn	878	死	muerte	death	○[し]亡[ぼう]<br><br>○[し]ぬ	死[し]		
+hye[Wco=:E	879	葬	funeral	interment	埋[まい]○[そう]<br><br>○[ほうむ]る	葬[ほうむ]		leech
+rRAAHN$7hU	880	瞬	pestañeo	wink	一[いっ]○[しゅん]<br>○[しゅん]間[かん]<br><br>○[またた]く	瞬[まどか]		
+"p#|1tm.Eo("	881	耳	oreja	ear	○[みみ]	耳[みみ]		
+Nhwm>d}MH=	882	取	tomar	take	○[と]る	取[と]		
+NpjfFc$(1=	883	趣	lo esencial	gist	○[しゅ]味[み]	趣[おもむき]		leech
+K:ep+7iV3%	884	最	máximo	utmost	○[さい]近[きん]<br><br>○[もっと]も	最[さい]		
+x}FFQ3Fu5N	885	撮	tomar fotos	snapshot	○[さつ]影[えい]<br><br>○[と]る	撮[と]		
+DwTdyc*5=&	886	恥	vergüenza	shame	○[は]じる	恥[はじ]		
+i%h3:X&}D.	887	職	puesto, empleo	post, employment 	○[しょく]<br>退[たい]○[しょく]	職[しょく]		
+dyQAiHH.x	888	聖	sagrado	holy	○[せい]書[しょ]<br>神[しん]○[せい]	聖[きよし]		
+JRc^^D|xT@	889	敢	osadía	daring	勇[ゆう]○[かん]	敢		
+C[l+mcR$o}	890	聴	escuchar	listen	○[ちょう]覚[かく]<br><br>○[き]く	聴		
+z.!z|0){T>	891	懐	bolsillo	pocket	○[なつ]かしい<br>○[なつ]く	懐[ふところ]		
+D79-hRw34A	892	慢	ridículo	ridicule	自[じ]○[まん]	慢		
+De^*0k-7xy	893	漫	suelto	loose	○[まん]画[が]	漫		
+"j#H<q3b}fi"	894	買	comprar	buy	売[ばい]○[ばい]<br><br>○[か]う	買[がい]		
+peZ4nFB-8k	895	置	colocar	placement	処[しょ]○[ち]<br><br>○[お]く	置		leech
+"A#>@W{IK]+"	896	罰	castigo	penalty	刑[けい]○[ばつ]	罰[ばち]		leech
+ore}:BEUd=	897	寧	más bien	rather	丁[てい]○[ねい]<br><br>○[むし]ろ	寧[やすし]		leech
+Cq[LG<;!D:	898	濁	turbio	voiced	清[せい]○[だく]<br><br>○[にご]る	濁[にご]		
+hTdeQ8g~p4	899	環	anillo	ring	○[かん]境[きょう]	環[たまき]		leech
+ABzlh;ni1g	900	還	mandar de vuelta	send back	返[へん]○[かん]	還[かえ]		
+ja4@On$wc.	901	夫	marido	husband	○[ふ]妻[さい]<br><br>○[おっと]	夫[おっと]		
+O}>2F~Jb&a	902	扶	asistencia	aid	○[ふ]養[よう]	扶		leech
+"tJju8q[cc#"	903	渓	arroyo de montaña	mountain stream	○[けい]谷[こく]	渓[けい]		
+dWZr/Z%^A,	904	規	estándar	standard	○[き]則[そく]	規[ただし]		
+m?I1fGb>K	905	替	canje	exchange	両[りょう]○[がえ]<br>○[かわ]る<br><br>為○[かわせ]	替[かわ]		leech
+mBQ_U:<<z%	906	賛	estar de acuerdo	approve	○[さん]成[せい]	賛[さん]		leech
+eJcs:sC<D5	907	潜	sumergir	submerge	○[もぐ]る	潜[せん]		leech
+M53,ib7)>H	908	失	perder	lose	○[しつ]望[ぼう]<br><br>○[うしな]う	失[しつ]		
+wi(_r^0W,q	909	鉄	hierro	iron	地[ち]下[か]○[てつ]<br>○[てつ]道[どう]<br>○[てつ]	鉄[てつ]		leech
+lJcqyYh&vB	910	迭	alternar	alternate	更[こう]○[てつ]	迭		
+xCS^T,z`@p	911	臣	criado	retainer	大[だい]○[じん]	臣[しん]		
+dYiH`c^iP1	912	姫	princesa	princess	○[ひめ]	姫[ひめ]		
+dr_tQ{W:7	913	蔵	almacén	storehouse	地[ち]○[ぞう]<br>冷[れい]○[ぞう]庫[こ]<br><br>○[くら]	蔵[くら]		
+nU!Na^2Ska	914	臓	entrañas	entrails	心[しん]○[ぞう]	臓[ぞう]		leech
+G6&o!:>2z+	915	賢	inteligente	intelligent	○[けん]明[めい]<br><br>○[かしこ]い	賢[けん]		leech
+lgz~P7&_dn	916	腎	riñón	kidney	○[じん]臓[ぞう]	腎[じん]		leech
+A}w{}f8Kkt	917	堅	estricto	strict	○[けん]固[ご]<br><br>○[かた]い	堅[けん]		
+jJ$i}5Eqni	918	臨	expectación	look to	○[りん]時[じ]<br><br>○[のぞ]む	臨		leech
+M_)pnzZ6l_	919	覧	ojear	perusal	展[てん]○[らん]会[かい]	覧[らん]		
+B5M]O~eEgT	920	巨	gigantesco	gigantic	○[きょ]大[だい]	巨		
+uj<*L`zeT,	921	拒	repeler	repel	○[きょ]否[ひ]<br><br>○[こば]む	拒		
+"DUH?*~x#HC"	922	力	fuerza	power	努[ど]○[りょく]<br><br>○[ちから]	力[ちから]		
+h>UI0!;VGf	923	男	varón	hombre	○[だん]性[せい]<br>長[ちょう]○[なん]<br><br>○[おとこ]	男[おとこ]		
+P7u}fNmtxm	924	労	fatiga	labor	○[ろう]働[どう]	労[ろう]		
+haeK.k/+,~	925	募	reclutar	recruit	○[ぼ]金[きん]<br><br>○[つの]る	募[つの]		
+t|%DMBtloD	926	劣	inferioridad	inferiority	○[おと]る	劣[れつ]		leech
+Lz*SiHN*b6	927	功	éxito	achievment	成[せい]○[こう]	功[いさお]		
+PKPRO$?_PA	928	勧	persuadir	persuade	○[かん]告[こく]<br><br>○[すす]める	勧[すすむ]		leech
+E+PiQi;rL,	929	努	esfuerzo	toil	○[ど]力[りょく]<br><br>○[つと]める	努[つとむ]		
+zZu3ObB2`D	930	勃	levantamiento	uprising	○[ぼっ]発[ぱつ]	勃		leech
+P_W|G5^RSM	931	励	animar	encourage	奨[しょう]○[れい]	励		leech
+vs`8|{.Hy1	932	加	añadir	add	追[つい]○[か]<br><br>○[くわ]える	加[か]		
+fn1Je$$?Px	933	賀	felicitaciones	congratulations	祝[しゅく]○[が]	賀[が]		leech
+LwF(5tC/bZ	934	架	erigir	erect	○[か]空[くう]<br><br>○[か]ける	架[か]		leech
+jS/5=:&X{%	935	脇	axila	armpit	○[わき]<br>○[わき]役[やく]	脇[わき]		
+F;vPd;Vh}4	936	脅	amenaza	threaten	○[きょう]迫[はく]<br><br>○[おど]かす	脅		
+"z.(Lf6b1$#"	937	協	co-	co-	○[きょう]力[りょく]	協[きょう]		leech
+r({0OVv-`-	938	行	ir	going	旅[りょ]○[こう]<br>○[ぎょう]列[れつ]<br><br>○[い]く<br>○[おこな]う	行[くだり]		
+fgZaRUGRL,	939	律	rítmico	rhythm	法[ほう]○[りつ]	律[りつ]		leech
+doh%8adcmA	940	復	restaurar	restore	○[ふっ]活[かつ]	復[ふく]		
+C>CVJiZW5h	941	得	ganancia	gain	○[とく]意[い]<br><br><br>○[う]る<br>○[え]る<br>心[こころ]○[え]る	得[とく]		
+P?{lG]jUhX	942	従	seguir	accompany	○[じゅう]業[ぎょう]員[いん]<br><br>○[したが]う	従[じゅ]		leech
+DL==23L)a5	943	徒	alumno	junior	生[せい]○[と]<br>教[きょう]○[と]	徒[と]		leech
+bHAoHK&Cz%	944	待	esperar	wait	期[き]○[たい]<br><br>○[ま]つ	待[まち]		
+KZV~7T~x9-	945	往	trayecto	journey	○[おう]復[ふく]	往		leech
+i*IclfH[LY	946	征	subyugar	subjugate	○[せい]服[ふく]	征[せい]		
+Od5MgbJ;q5	947	径	diámetro	diameter	半[はん]○[けい]	径[けい]		leech
+(=+|QqE<-	948	彼	él	he	○[かれ]	彼[かれ]		
+yJ$XLhg%J*	949	役	función	duty	○[やく]<br><br>兵[へい]○[えき]	役[やく]		
+"qj#VQDzfRD"	950	徳	benevolencia	benevolence	道[どう]○[とく]	徳[とく]		
+F}7;-4^|gM	951	徹	penetrar	penetrate	○[てつ]夜[や]	徹[とおる]		
+jHNiM]75]6	952	徴	indicios	indications	特[とく]○[ちょう]	徴[しるし]		
+G%`N1+/LDM	953	懲	penal	penal	○[ちょう]役[えき]<br><br>○[こ]りる	懲		leech
+Dgj?PW.|BI	954	微	delicado	delicate	○[び]笑[しょう]	微[び]		leech
+yJ=(T/3y6?	955	街	bulevar	boulevard	〜 ○[がい]<br>○[かい]道[どう]<br><br>○[まち]	街[まち]		
+"wH=/$kd3r#"	956	桁	travesaño	girder	○[けた]	桁[けた]		
+G@uC_Q7|rc	957	衡	equilibrio	equilibrium	均[きん]○[こう]	衡[くびき]		leech
+LH0dJ-G.0U	958	稿	borrador	draft	原[げん]○[こう]	稿[こう]		
+cM+*mr<4,J	959	稼	ingresos	earnings	○[かせ]ぐ	稼		leech
+Gx()A`3.aA	960	程	alcance	extent	○[てい]度[ど]<br><br>○[ほど]	程[ほど]		
+NKhFWy:&3^	961	税	impuesto	tax	○[ぜい]金[きん]	税[ぜい]		
+jo1XH=kV>]	962	稚	inmaduro	inmature	幼[よう]○[ち]園[えん]	稚[いとけな]		
+Ozt29qn347	963	和	armonía	harmony	○[わ]服[ふく]<br>平[へい]○[わ]<br><br><br>○[なご]らげる<br>○[なご]やか	和[わ]		leech
+PGY{$oTF8$	964	移	trasladar	shift	○[い]民[みん]<br><br>○[うつ]る	移[うつり]		leech
+e]2`BGIN8r	965	秒	segundo	second	○[びょう]	秒[びょう]		
+w2uQ)0mB19	966	秋	otoño	autumn	晩[ばん]○[しゅう]<br><br>○[あき]	秋[あき]		
+LJx@u&ew,o	967	愁	tristeza	distress	郷[きょう]○[しゅう]	愁		
+ybVDp78z]?	968	私	privado	private	○[し]立[りつ]<br>○[し]有[ゆう]<br><br>○[わたし]	私[わたし]		
+yx.hO8Su?N	969	秩	regularidad	regularity	○[ちつ]序[じょ]	秩		
+"xR[#zmkdX)"	970	秘	secreto	secret	○[ひ]密[みつ]	秘[ひ]		
+hsJxZ,wO:D	971	称	apelación	appellation	名[めい]○[しょう]	称[しょう]		
+hPaHYp%bWV	972	利	beneficio	profit	便[べん]○[り]	利[り]		
+"Lod;g;s#l"	973	梨	peral	pear tree	○[なし]	梨[なし]		leech
+C$z_Yw)%GX	974	穫	cosecha	harvest	収[しゅう]○[かく]	穫[か]		leech
+x)O>.*z[yU	975	穂	espiga	ear of a plant	○[すい]状[じょう]	穂[ほ]		leech
+K2VX)K$iX/	976	稲	planta del arroz	rice plant	○[いね]<br>○[いな]作[さく]	稲[いね]		
+"Q#>PC-jlml"	977	香	incienso	incense	○[こう]水[すい]<br><br>○[かお]り	香[こう]		
+wpJoGEA68K	978	季	estaciones del año	seasons	○[き]節[せつ]	季[き]		
+t$4/t3kcsm	979	委	comité	committee	○[い]員[いん]<br>○[い]託[たく]<br><br>○[ゆだ]ねる	委[い]		leech
+DgM9K]G8N-	980	秀	sobresaliente	excel	優[ゆう]○[しゅう]<br><br>○[ひい]でる	秀[しゅう]		
+rT?o(~j1UC	981	透	transparente	transparent	○[とう]明[めい]	透[とおる]		
+FvA6NgU,ye	982	誘	tentar	entice	○[ゆう]惑[わく]<br><br>○[さそ]う	誘		leech
+Q3FgeR|83{	983	稽	entrenar	training	○[けい]古[こ]	稽		leech
+y<1;CI{.u/	984	穀	cereales	cereals	○[こく]物[もつ]	穀[こく]		
+G_AEP4aBor	985	菌	germen	germ	細[さい]○[きん]	菌[きん]		
+K:2pH|X<OX	986	萎	atrofia	numb	○[い]縮[しゅく]<br><br>○[な]える<br>○[しぼ]む	萎		
+Jv<L$QCpf6	987	米	arroz	rice	観[かん]○[こう]<br><br>○[ひか]る<br>○[ひかり]	米[べい]		
+gPqioi)Dc2	988	粉	harina	flour	花[か]○[ふん]<br><br>小[こ]麦[むぎ]○[こ]<br>○[こな]	粉[こな]		
+iej$5!M6?@	989	粘	pegajoso	sticky	○[ねん]土[ど]<br><br>○[ねば]る	粘[ねば]		
+"qF;AEZ#%<J"	990	粒	granos	grains	○[りゅう]子[し]<br><br>○[つぶ]	粒[つぶ]		
+yOALU`XA-e	991	粧	cosmético	cosmetics	化[け]○[しょう]	粧		
+PR6&n/l$0w	992	迷	desviación	astray	○[めい]信[しん]	迷		leech
+f6TvQTEcHR	993	粋	chic	chic	純[じゅん]○[すい]	粋[いき]		leech
+n<2*ut2)7x	994	謎	enigma	riddle	○[なぞ]	謎[なぞ]		leech
+A1;:KU[if:	995	糧	provisiones	provisions	○[りょう]食[しょく]<br><br>○[かて]	糧[かて]		leech
+nsugjr-++B	996	菊	crisantemo	chrysanthemum	○[きく]	菊[きく]		
+mg3J;7|U=n	997	奥	hondura	core	○[おく]さん<br>○[おく]	奥[おく]		
+feV%s1E*c7	998	数	número	number	○[すう]学[がく]<br><br>○[かず]<br>○[かず]える	数[かず]		leech
+o1@.|0Qw]d	999	楼	atalaya	watchover	摩[ま]天[てん]○[ろう]	楼[ろう]		
+"iyV3#F;M2M"	1000	類	tipo de	sort	種[しゅ]○[るい]<br><br>○[たぐ]い	類[るい]		leech
+sBq_[U77uH	1001	漆	laca	lacquer	○[しっ]器[き]<br><br>○[うるし]	漆[うるし]		
+B{<N:3*/bk	1002	膝	rodilla	knee	○[ひざ]	膝[ひざ]		
+AdI8Xw/3IG	1003	様	don	Esq.	〜 ○[よう]<br><br>〜 ○[さま]	様[よう]		
+jsm>:5$!hR	1004	求	solicitud	request	要[よう]○[きゅう]<br><br>○[もと]める	求[もとむ]		
+i.B/i{kN;_	1005	球	balón	ball	地[ち]○[きゅう]	球[たま]		
+"fLQgK#>h.r"	1006	救	salvación	salvation	○[きゅう]助[じょ]<br><br>○[すく]う	救		leech
+GKT]L{akXy	1007	竹	bambú	bamboo	○[ちく]林[りん]<br><br>○[たけ]	竹[たけ]		
+u_&p~MUyHh	1008	笑	risa	laugh	微[び]○[しょう]<br><br>○[わら]う<br>○[え]顔[がお]	笑[えみ]		
+JjnK/O!|cV	1009	笠	sombrero de bambú	bamboo hat	○[かさ]	笠[かさ]		
+I&+SIREXbh	1010	笹	bambú enano	bamboo grass	○[ささ]	笹[ささ]		
+dr3)bsTJCE	1011	箋	artículos de papelería	stationery	便[びん]○[せん]	箋[せん]		
+quCN6DhQ*o	1012	筋	músculo	muscle	○[きん]肉[にく]<br><br>○[すじ]	筋[すじ]		leech
+b|-D6}`?5.	1013	箱	caja	box	○[はこ]	箱[はこ]		leech
+ttfud@WF-2	1014	筆	pincel de escritura	writing brush	万[まん]年[ねん]○[ひつ]<br><br>○[ふで]	筆[ふで]		
+tRYe{i$1K5	1015	筒	cilindro	cylinder	水[すい]○[とう]<br><br>○[つつ]	筒[つつ]		
+tcJzz/dH3[	1016	等	etc.	etc.	平[びょう]○[とう]<br><br>○[ひと]しい	等[ひとし]		
+wh.Wad~+S:	1017	算	calcular	calculate	予[よ]○[さん]	算[さん]		leech
+x-4+97F)~x	1018	答	solución	solution	応[おう]○[とう]<br><br>○[こた]える	答[こたえ]		
+EC[$[%5em`	1019	策	estratagema	scheme	政[せい]○[さく]	策[さく]		leech
+w~Q^-;Yf7$	1020	簿	registrar	register	名[めい]○[ぼ]	簿[ぼ]		leech
+s$uOH=Js0<	1021	築	fabricar	fabricate	建[けん]○[ちく]<br><br>○[きず]く	築[ちく]		leech
+x[Z0W&nOK1	1022	篭	jaula	basket	○[かご]	篭[かご]		
+J+Q9|%pg&]	1023	人	persona	person	○[にん]間[げん]<br>〜 ○[じん]<br><br>○[ひと]<br><br>大○[おとな]	人[ひと]		
+vmE&_(5{k)	1024	佐	asistente	assistant	補[ほ]○[さ]	佐[さ]		
+JTS{~S+xD.	1025	侶	socio	partner	伴[はん]○[りょ]	侶[とも]		
+"m%;4+le#wa"	1026	但	sin embargo	however	○[ただ]し	但[ただし]		
+Hp8U2$)|th	1027	住	habitar	dwell	○[じゅう]所[しょ]<br>○[じゅう]宅[たく]<br><br>○[す]む	住[じゅう]		
+Hk:Ix*cdo>	1028	位	rango	rank	地[ち]○[い]<br><br>○[くらい]	位[くらい]		
+yN~YM(KZ*M	1029	仲	intermediario	go-between	○[ちゅう]介[かい]<br><br>○[なか]間[ま]	仲[なか]		leech
+A/ki6^ZO(B	1030	体	cuerpo	body	大[だい]○[たい]<br>○[てい]裁[さい]<br><br>○[からだ]	体[からだ]		
+"N8IEo=QA#>"	1031	悠	remoto	remote	○[ゆう]々[ゆう]	悠[ゆう]		leech
+y]`@?l7da9	1032	件	caso	affair	事[じ]○[けん]	件[けん]		leech
+Qn{}j+ZdJ=	1033	仕	atender	attend	○[し]事[ごと]<br><br>○[つか]える	仕[つかまつ]		leech
+"vTYn@:(#|w"	1034	他	otro	other	○[ほか]<br><br>○[た]国[こく]	他[た]		
+-KG.W`6kU	1035	伏	postrado	postrated	起[き]○[ふく]<br><br>○[ふ]せる	伏[ふく]		leech
+"BW#}7?XL1W"	1036	伝	transmitir	transmit	○[つた]わる	伝[つて]		
+"zW}j#GZSiU"	1037	仏	Buda	Buddha	○[ぶつ]像[ぞう]<br><br>○[ほとけ]	仏[ふつ]		
+uZsd;x*P[M	1038	休	descanso	rest	定[てい]○[しゅう]日[び]<br><br>○[やす]む<br>夏[なつ]○[やす]み	休[きゅう]		
+xFxHGK6;qd	1039	仮	provisional	provisional	○[か]定[てい]<br><br>○[かり]	仮[かり]		
+oSInvjWZa<	1040	伎	actor	performing artist	歌[か]舞[ぶ]○[き]	伎[ぎ]		leech
+sHRe.t5ymu	1041	伯	conde	chief	○[はく]爵[しゃく]	伯[はく]		
+yw{s*lmqI=	1042	俗	vulgar	vulgar	風[ふう]○[ぞく]	俗[ぞく]		leech
+mip!l~HYgz	1043	信	fe	faith	○[しん]用[よう]	信[しん]		
+"j@wo$E_0f#"	1044	佳	excelente	excellent	○[か]作[さく]	佳[けい]		leech
+JqH7;FqIa_	1045	依	confiar	reliant	○[い]頼[らい]	依[よ]		leech
+sn^>&@gdK3	1046	例	ejemplo	example	○[れい]<br>○[れい]外[がい]<br><br>○[たと]える<br>○[たと]えば	例[れい]		
+"AI^#bf`];L"	1047	個	individual	individual	○[こ]人[じん]<br>○[こ]別[べつ]	個[こ]		
+"Q}k1J6CPI#"	1048	健	saludable	healthy	○[けん]康[こう]<br><br>○[すこ]やか	健[けん]		
+F!a|yr9HhB	1049	側	lado	side	○[そば]｜ ○[そく]<br><br>○[がわ]<br>両[りょう]○[がわ]	側[がわ]		
+"H#V1E[D8+-"	1050	侍	camarero	waiter	○[じ]女[じょ]<br><br>○[さむらい]	侍[さむらい]		
+yBlc|aZm$/	1051	停	parada	halt	○[てい]止[し]<br><br>○[てい]車[しゃ]	停[とま]		
+JZN>F;dVo^	1052	値	precio	price	価[か]○[ち]<br><br>○[ね]段[だん]<br>○[あたい]	値[ね]		
+fzXGr0JX8e	1053	倣	emular	emulate	模[も]○[ほう]<br><br>○[なら]う	倣		
+bg?r_:4%RY	1054	傲	arrogancia	arrogance	○[ごう]然[ぜん]	傲		leech
+DNOc,14Q:$	1055	倒	derrocamiento	overthrow	○[とう]産[さん]	倒[さか]		leech
+fDNo2h>qCB	1056	偵	espiar	spy	探[たん]○[てい]	偵		
+c^&w(B`<&2	1057	僧	monje budista	"<font color=""#1a1a1b"">Buddhist priest</font>"	○[そう]<br>小[こ]○[ぞう]	僧[そう]		
+q%i1]6_()b	1058	億	cien millones	hundred million	○[おく]	億[おく]		
+ND@rrTkfG_	1059	儀	ceremonia	ceremony	○[ぎ]式[しき]	儀[ぎ]		leech
+m^i@YqR{iD	1060	償	indemnización	reparation	賠[ばい]○[しょう]<br><br>○[つぐな]う	償		leech
+QBkbIj!0e3	1061	仙	ermitaño	hermit	○[せん]台[だい]	仙[せん]		
+!7o589R:~	1062	催	anfitrión	sponsor	○[さい]促[そく]<br><br>○[もよお]す	催		leech
+Hxh4{YAl1|	1063	仁	humanitario	humanity	○[じん]義[ぎ]	仁[ひとし]		
+uNb0shM]]{	1064	侮	mofarse	scorn	○[ぶ]辱[じょく]<br><br>○[あなど]る	侮[あなど]		
+pH2e<>><n^	1065	使	usar	use	○[し]者[しゃ]<br><br>○[つか]う	使[し]		leech
+yak3s-u:3c	1066	便	conveniencia	convenience	○[べん]利[り]<br>郵[ゆう]○[びん]<br><br>○[たより]	便[びん]		leech
+h{nXm6=Fi9	1067	倍	doble	double	～ ○[ばい]<br>二[に]○[ばい]	倍[ばい]		
+mgG)60CR70	1068	優	ternura	tenderness	俳[はい]○[ゆう]<br><br>○[やさ]しい<br>○[すぐ]れる	優[ゆう]		
+Qo3P<m_dRY	1069	伐	talar	fell	○[ばっ]採[さい]	伐[き]		leech
+l/NS_op$vo	1070	宿	hostal	inn	○[しゅく]題[だい]<br><br>○[やど]屋[や]<br>○[やど]す	宿[やど]		
+Qo[zmw@%A2	1071	傷	herida	wound	負[ふ]○[しょう]<br><br>○[きず]つく<br><br>火○[やけど]	傷[きず]		leech
+KSTyzYnioS	1072	保	conservar	protect	○[ほ]存[ぞん]<br><br>○[たも]つ	保[ほ]		
+Mopf^s360f	1073	褒	alabar	praise	○[ほう]美[び]<br><br>○[ほ]める	褒		leech
+B{M_@iJ4TL	1074	傑	grandeza	greatness	○[けっ]作[さく]	傑[すぐる]		leech
+oe|_wqy6r8	1075	付	adherir	adhere	○[ふ]近[きん]<br><br>○[つ]ける	付[つけ]		
+y*6E_EjRg@	1076	符	símbolo	token	切[きっ]○[ぷ]	符[ふ]		
+K^l}a[ZlzR	1077	府	municipio	municipality	政[せい]○[ふ]	府[ふ]		
+fy:e&JD1G&	1078	任	responsabilidad	responsibility	責[せき]○[にん]<br><br>○[まか]せる<br>○[まか]す	任[にん]		
+tU29pD[GE>	1079	賃	paga	fare	家[や]○[ちん]	賃[ちん]		leech
+"Qz&5@iI}#D"	1080	代	sustituto	substitute	時[じ]○[だい]<br>交[こう]○[たい]<br><br>○[かわり]	代[だい]		
+QhmGbcf/PR	1081	袋	saco	sack	手[て]○[ぶくろ]	袋[ふくろ]		leech
+ul-/E{Z1u:	1082	貸	prestar	lend	○[たい]与[よ]<br><br>○[か]す	貸[かし]		
+v1--f%xrSH	1083	化	cambio	change	文[ぶん]○[か]<br>○[け]粧[しょう]	化[か]		
+kN`)pEkkS=	1084	花	flor	flower	○[か]壇[だん]<br><br>○[はな]	花[はな]		
+E41+0$7Ax2	1085	貨	carga	freight	硬[こう]○[か]	貨[たから]		leech
+dQ+3w2A)%D	1086	傾	inclinar	lean	○[けい]向[こう]	傾[ななめ]		leech
+J>&OuNNO-=	1087	何	qué	what	○[なに] |  ○[なん]	何[なに]		
+y-SQ/!/aJn	1088	荷	equipaje	baggage	出[しゅぅ]○[か]<br><br>○[に]物[もの]	荷[に]		
+"ee}WuCl#|a"	1089	俊	sagaz	sagacious	○[しゅん]才[さい]	俊[しゅん]		
+"F5s-?(#n;D"	1090	傍	mirón	bystander	○[ぼう]観[かん]<br><br>○[かたわ]ら	傍[はた]		
+EV}(dNb]%3	1091	俺	menda	myself	○[おれ]	俺[おれ]		leech
+dio?ymxiWh	1092	久	duradero	long time	永[えい]○[きゅう]<br><br>○[ひさ]しい	久[ひさ]		
+"JbMa^Z#fu$"	1093	畝	surco	furrow	○[うね]	畝[うね]		leech
+"li&tq#doL)"	1094	囚	capturado	captured	○[しゅう]人[じん]	囚[しゅう]		
+JT;yh9[M!*	1095	内	dentro	inside	家[か]○[ない]<br><br>○[うち]	内[うち]		
+b1htgmF!J|	1096	丙	tercera clase	third class	○[へい]種[しゅ]	丙[ひのえ]		
+P+:fO2E5!	1097	柄	diseño	design	横[おう]○[へい]<br><br>人[ひと]○[がら]<br>○[え]	柄[え]		leech
+yoZU8)gZ$x	1098	肉	carne	meat	牛[ぎゅう]○[にく]	肉[にく]		
+z%sNpyFIu)	1099	腐	pudrirse	rot	○[ふ]敗[はい]<br><br>○[くさ]る	腐[くさ]		
+e5mYm/r8*1	1100	座	sentarse	sit	○[ざ]席[せき]<br><br>○[すわ]る	座[ざ]		
+n72?KN2zXT	1101	挫	esguince	sprain	○[ざ]折[せつ]	挫		leech
+LEdL-HA;qT	1102	卒	graduarse	graduate	○[そつ]業[ぎょう]	卒[そつ]		
+B[8rn<+@37	1103	傘	paraguas	umbrella	○[さん]下[か]<br><br>○[かさ]	傘[かさ]		
+I(GJivYQB$	1104	匁	monme&nbsp;	monme	○[もんめ]	匁[もんめ]		
+E%El.n(CX_	1105	以	por medio de	by means of	○[い]上[じょう]<br>○[い]下[か]	以		
+I@Y_osZE<=	1106	似	semejante	similar	類[るい]○[じ]	似[に]		leech
+jLamtE,ujC	1107	併	juntar	join	合[がっ]○[ぺい]<br><br>○[あわ]せる	併		
+PLF>w],ZCu	1108	瓦	teja	tile	○[かわら]屋[や]根[ね]	瓦[かわら]		
+"qj<<#8bMF$"	1109	瓶	florero	flower pot	花[か]○[びん]	瓶[びん]		leech
+IJXUx?*7nw	1110	宮	templo sintoísta	Shinto shrine	○[きゅう]殿[でん]	宮[みや]		
+p&q/c3$3vH	1111	営	ocupación	occupation	○[えい]業[ぎょう]<br><br>○[いとな]む	営		leech
+N:X<T7*:T9	1112	善	bondad	virtuous	○[ぜん]<br><br>○[よ]い	善[ぜん]		
+F8y[)1frEn	1113	膳	mesita individual	dining tray	○[ぜん]	膳[ぜん]		
+oMYDX~/_v(	1114	年	año	year	少[しょう]○[ねん]<br><br>○[とし]<br><br>今○[ことし]	年[とし]		
+kH0Xw.)R(b	1115	夜	vespertino	night	深[しん]○[や]<br><br>○[よる]  |  ○[よ]	夜[よる]		
+J0M>ocX2)1	1116	液	líquido	fluid	血[けつ]○[えき]	液[えき]		
+BmwK31)<3A	1117	塚	montículo	hillock	○[つか]	塚[つか]		
+x.gAg(C:+b	1118	幣	en metálico	cash	紙[し]○[へい]	幣[ぬさ]		
+dLJ``Q^Q2z	1119	蔽	recubrir	cover over	隠[いん]○[ぺい]	蔽		
+"K%|-#4t})i"	1120	弊	abuso	abuse	○[へい]害[がい]	弊[へい]		leech
+jP2,^rkt/,	1121	喚	alarido	yell	○[かん]問[もん]	喚		
+B+2!Y)X,y7	1122	換	intercambio	interchange	交[こう]○[かん]<br><br>○[か]える	換		leech
+x8rxosA!j8	1123	融	disolver	dissolve	金[きん]○[ゆう]	融[とおる]		
+BY:.c2UL&U	1124	施	limosna	alms	実[じっ]○[し]<br><br>○[ほどこ]す	施		
+lP3%Xg.&@E	1125	旋	rotación	rotation	○[せん]回[かい]	旋		
+"F#.PhRzkU_"	1126	遊	jugar	play	○[あそ]ぶ	遊		
+f,~c`p9t>S	1127	旅	viaje	trip	○[りょ]行[こう]<br><br>○[たび]	旅[たび]		
+yjG}nuPK}}	1128	勿	no	not	○[もち]論[ろん]<br><br>○[なか]れ	勿[まな]		leech
+EsFv3$~R02	1129	物	cosa	thing	動[どう]○[ぶつ]<br>禁[きん]○[もつ]<br><br>品[しな]○[もの]	物[もの]		
+L^n4PktE-D	1130	易	fácil	easy	安[あん]○[い]<br><br>○[やさ]しい	易[えき]		leech
+Hrrk2Cmv!U	1131	賜	otorgar	grant	○[たまわ]る	賜[たまもの]		leech
+eWuM:@?cGO	1132	尿	orina	urine	○[にょう]	尿[にょう]		
+oP13z?tDev	1133	尼	monja	nun	○[に]僧[そう]	尼[あま]		
+Q1I`H&Kl>U	1134	尻	trasero	buttocks	○[しっ]尾[ぽ]	尻[しり]		
+DF5a:O6<aK	1135	泥	barro	mud	○[どろ]棒[ぼう]	泥[どろ]		
+"x3kAZ#DFDc"	1136	塀	cercado	fence	○[へい]	塀[へい]		leech
+h%olv9O=l6	1137	履	calzado	footgear	○[り]歴[れき]<br><br>○[は]く	履[くつ]		leech
+s5)dC:WkIw	1138	屋	tejado	roof	○[おく]上[じょう]<br><br>○[や]根[ね]	屋[や]		
+"ed$8mvzhU#"	1139	握	asir	grip	○[あく]手[しゅ]<br><br>○[にぎ]る	握[にぎ]		leech
+Dl5ubl?A=5	1140	屈	ceder	yield	退[たい]○[くつ]	屈		
+zw&Ohj|+tD	1141	掘	excavar	dig	採[さい]○[くつ]<br><br>○[ほ]る	掘[ほ]		
+LeE6t3QR$W	1142	堀	zanja	ditch	○[ほり]	堀[ほり]		leech
+J$_{n[jdv>	1143	居	residir	reside	○[きょ]住[じゅう]<br><br>○[いる]	居[きょ]		
+xo2<LQTJ,K	1144	据	establecer	set	○[す]える	据		
+rOv!Bq,E{0	1145	裾	dobladillo	hem	○[すそ]	裾[すそ]		leech
+fo2B2x@`t&	1146	層	estrato	stratum	階[かい]○[そう]	層[そう]		
+m)n.!W/]6j	1147	局	oficina	bureau	○[きょく]<br>結[けっ]○[きょく]	局[つぼね]		
+nG&3,6}I|c	1148	遅	lento	slow	○[ち]刻[こく]<br><br>○[おく]れる<br>○[おそ]い	遅[おそ]		
+LE0k^Q:)2R	1149	漏	filtración	leak	○[も]らす<br>○[も]れる	漏[も]		
+yeu,CdGFp	1150	刷	imprimir	printing	印[いん]○[さつ]<br><br>○[す]る	刷[すり]		leech
+i7h,%OCf%a	1151	尺	shaku	shaku	○[しゃく]<br>○[しゃく]度[ど]	尺[しゃく]		leech
+bS]=7T[H>J	1152	尽	agotar	exhaust	○[じん]力[りょく]<br><br>○[つ]くす<br>○[つ]きる	尽[じん]		
+sRcd]Y0&?[	1153	沢	ciénaga	swamp	○[たく]山[さん]	沢[さわ]		
+p[FQSzU~CT	1154	訳	traducir	translate	翻[ほん]○[やく]<br><br>○[わけ]	訳[わけ]		
+vfB^;!!RB;	1155	択	escoger	choose	選[せん]○[たく]	択[たく]		
+crr13OUOXH	1156	昼	de día	daytime	○[ちゅう]食[しょく]<br><br>○[ひろ]	昼[ひる]		
+"zUH{5]0Tr#"	1157	戸	puerta	door	○[こ]籍[せき]<br><br>○[と]	戸[と]		
+OnNu[)41Zx	1158	肩	hombro	shoulder	○[かた]	肩[かた]		
+Qp215e6.M|	1159	房	borla	tassel	冷[れい]○[ぼう]	房[ぼう]		
+"f}U{Np#?uf"	1160	扇	ventilador	fan	○[せん]子[す]<br><br>○[おうぎ]	扇[おうぎ]		
+t<d]hYA7r8	1161	炉	lar	hearth	暖[だん]○[ろ]	炉[ろ]		
+vHXsYhKgN9	1162	戻	volver	tassel	○[もど]る	戻[もど]		leech
+l|x5N*`y*|	1163	涙	lágrima	tears	○[なみだ]	涙[なみだ]		
+KnGL&tdxqF	1164	雇	contratar	employ	○[こ]用[よう]<br><br>○[やと]う	雇[やとい]		
+A|})BJapOQ	1165	顧	mirar atrás	look back	○[かえり]みる<br><br>○[こ]客[きゃく]	顧		
+OBcZQi/<;C	1166	啓	manifestar	disclose	拝[はい]○[けい]	啓[けい]		leech
+vR*<*{wC+y	1167	示	mostrar	show	指[し]○[じ]<br>○[し]唆[さ]<br><br>○[しめ]す	示		
+j2NVKyn^Y`	1168	礼	saludo	salutation	お ○[れい]<br>○[れい]儀[ぎ]<br>無[ぶ]○[れい]	礼[れい]		
+c9,hWvi/N|	1169	祥	favorable	auspicious	不[ふ]○[しょう]事[じ]	祥[さち]		
+x?3$=?VXZ{	1170	祝	celebrar	celebrate	○[しゅく]日[じつ]<br><br>○[いわ]う	祝[しゅく]		leech
+b6LFP:>r,L	1171	福	bendición	blessing	幸[こう]○[ふく]	福[ふく]		leech
+EUFm`3}]6g	1172	祉	bienestar	welfare	福[ふく]○[し]	祉		
+LUh]Lpz}?i	1173	社	empresa	company	会[かい]○[しゃ]<br><br>○[やしろ]	社[しゃ]		leech
+"MV|ot#$L/S"	1174	視	inspección	inspection	無[む]○[し]<br>監[かん]○[し]	視[み]		
+f6b2bBxbYk	1175	奈	Nara	Nara	○[な]良[ら]	奈		
+c+U`I3,7H}	1176	尉	oficial militar	military officer	大[たい]○[い]	尉[じょう]		leech
+y4(yp1W|Fe	1177	慰	consuelo	consolation	○[い]安[あん]<br><br>○[なぐさ]める	慰		
+H>5GDD!/^_	1178	款	buena voluntad	goodwill	借[しゃっ]○[かん]	款[かん]		
+GpMHQ(6SI!	1179	禁	prohibición	prohibition	○[きん]止[し]	禁[きん]		
+u+Z4+}~(br	1180	襟	cuello de la camisa	collar	○[えり]	襟[えり]		
+E$Ax%EmLK<	1181	宗	religión	religion	○[しゅう]教[きょう]	宗[そう]		
+L(}!E>99Y*	1182	崇	adorar	adore	○[すう]拝[はい]	崇[たかし]		leech
+wK^=0Z3hl7	1183	祭	festividad	ritual	○[さい]日[じつ]<br><br>○[まつ]り |  ○[まつり]	祭[まつり]		
+yet0pQ0,*M	1184	察	estimación	guess	警[けい]○[さつ]	察[さっ]		leech
+dZaSrHu}Eb	1185	擦	rallar	grate	摩[ま]○[さつ]<br><br>○[こす]る	擦[こす]		
+jo,{i1wVb9	1186	由	por lo que	wherefore	自[じ]○[ゆう]<br>理[り]○[ゆう]	由[ゆかり]		leech
+O<NL]M{c_R	1187	抽	extraer	pluck	○[ちゅう]象[しょう]	抽		
+hkiE-q7TcT	1188	油	aceite	oil	石[せき]○[ゆ]<br><br>○[あぶら]	油[あぶら]		
+q^>Zk&0+PH	1189	袖	manga	sleeve	半[はん]○[そで]	袖[そで]		leech
+kYeM0x|^*$	1190	宙	espacio	mid-air	宇[う]○[ちゅう]	宙[ちゅう]		
+"o#pJM4?or]"	1191	届	repartir	deliver	○[とど]ける	届[とどけ]		leech
+Gu:vZ|U,D_	1192	笛	silbato	flute	○[ふえ]	笛[ふえ]		
+Ce;0g>noGS	1193	軸	eje	axis	車[しゃ]○[じく]	軸[じく]		
+zF]^f54ZlH	1194	甲	coraza	armor	装[そう]○[こう]<br>○[かん]板[ぱん]	甲[かぶと]		
+y=rul;E%I@	1195	押	empujar	push	○[お]す	押		leech
+P_oH8?`::N	1196	岬	lengua de tierra	headland	○[みさき]	岬[みさき]		leech
+h.2lkQZ8<$	1197	挿	insertar	insert	○[そう]入[にゅう]<br><br>○[さ]す	挿		
+Oo*wBPeqJ>	1198	申	tomar la palabra	speaketh	○[しん]請[せい]<br><br>○[もう]し上げる	申[さる]		
+F+5er~G_kg	1199	伸	expandir	expand	○[の]ばす	伸[しん]		leech
+m9S+>9(KO?	1200	神	dioses	gods	精[せい]○[しん]<br>○[じん]社[じゃ]<br><br>○[かみ]	神[かみ]		
+oK%5;>;-qv	1201	捜	buscar	search	○[そう]査[さ]<br><br>○[さが]す	捜		leech
+fBzAYCo+yB	1202	果	fruta	fruit	結[けっ]○[か]<br><br>○[はた]す<br><br>○物[くだもの]	果[はて]		
+sU2<r]$q:8	1203	菓	confite	confectionary	○[か]子[し]	菓[か]		
+PZm.j,2zI;	1204	課	capítulo	chapter	日[にっ]○[か]	課[か]		
+G;hF;)4;81	1205	裸	desnudo	naked	○[はだか]<br><br>○足[はだし]	裸[はだか]		
+umSaoW1Zbc	1206	斤	hacha	ax	○[きん]	斤[きん]		
+v0y*MY3AXm	1207	析	tronchar	chop	分[ぶん]○[せき]	析[き]		leech
+ubJ[qK>wSI	1208	所	sitio	place	住[じゅう]○[しょ]<br>場[ば]○[しょ]<br><br>○[ところ]<br><br>台[だい]○[どころ]	所[ところ]		
+P1*Pd,1WJ1	1209	祈	orar	pray	○[き]願[がん]<br><br>○[いの]る	祈[いの]		leech
+k|jR2[kxD.	1210	近	cerca	near	○[きん]所[じょ]<br>○[きん]代[だい]<br><br>○[ちか]い	近[ちか]		
+dYzc%jvdW}	1211	折	plegar	fold	骨[こっ]○[せつ]<br><br>○[お]る<br>○[お]れる<br><br>時[とき]○[おり]	折[おり]		
+"LF#nBTxy?s"	1212	哲	filosofía	philosophy	○[てつ]学[がく]	哲[あきら]		
+qW$c%7>D-~	1213	逝	expirar	departed	○[ゆ]く	逝		
+wB4`>d=7U}	1214	誓	juramento	vow	○[ちか]い | 宇多田<br><br>○[せい]約[やく]	誓[ちかい]		leech
+H`E,&,Z.06	1215	斬	pegar un tajo	chop off	○[ざん]首[しゅ]<br><br>○[き]る	斬[き]		
+"s#S__-JQpN"	1216	暫	temporalmente	temporarily	○[ざん]時[じ]<br><br>○[しばら]く	暫		leech
+D:}Y^&4Y.w	1217	漸	gradualmente	steadily	○[ぜん]減[げん]<br><br>○[ようや]く	漸[うたて]		leech
+f:x$*y^V`~	1218	断	recortar	severance	判[はん]○[だん]<br><br>○[た]つ<br>○[ことわ]る	断[だん]		leech
+Mo;@Plo`2Y	1219	質	sustancia	substance	○[しつ]問[もん]<br>人[ひと]○[じち]	質[しつ]		
+"iJV#(k!=Y2"	1220	斥	rechazar	reject	排[はい]○[せき]	斥		leech
+w7=woQeIo=	1221	訴	acusación	accusation	○[そ]訟[しょう]<br><br>○[うった]える	訴		leech
+GBN?s9$7:v	1222	昨	ayer	yesterday	○[さく]年[ねん]<br>○日[きのう]	昨[さく]		
+zyE_Jz]0T2	1223	詐	mentira	lie	○[さ]欺[ぎ]	詐		
+eKYWr_@5WP	1224	作	realizar	make	○[つく]る	作[さく]		leech
+C,?L<ho6mM	1225	雪	nieve	snow	降[こう]○[せつ]<br><br>○[ゆき]	雪[ゆき]		
+eX}P{1Y&<%	1226	録	grabar	record	記[き]○[ろく]	録[ろく]		
+r5zh7%37w{	1227	剥	pelar	peel off	○[は]がす	剥[はく]		leech
+d|b(Y39/mT	1228	尋	encuesta	inquire	○[じん]問[もん]<br><br>○[たず]ねる	尋[ひろ]		
+"FeV>teh#hw"	1229	急	apresurarse	hurry	○[きゅう]<br>○[きゅう]速[そく]<br><br>○[いそ]ぐ	急[きゅう]		leech
+JXHxSg-ri!	1230	穏	calma	calm	○[おん]和[わ]<br><br>○[おだ]やか	穏		
+bu`90A0oo3	1231	侵	invadir	encroach	○[しん]入[にゅう]	侵		
+"G3YGJiKv#8"	1232	浸	inmersión	inmersed	○[ひた]す	浸[ひた]		
+AefDZgn7RB	1233	寝	yacer	lie down	○[しん]室[しつ]<br><br>○[ね]る	寝[ね]		
+fTp-p<7f$C	1234	婦	señora	lady	主[しゅ]○[ふ]	婦[ふ]		
+c8v9$x*eOp	1235	掃	barrer	sweep	清[せお]○[そう]<br><br>○[は]く	掃		leech
+zYxGY5x]FO	1236	当	acertar	hit	本[ほん]○[とう]<br><br>日 ○[あ]たり	当[とう]		
+b;$V:_Ahjo	1237	彙	glosario	glossary	語[ご]○[い]	彙[い]		leech
+ELA45!nI_b	1238	争	contienda	contend	戦[せん]○[そう]<br><br>○[あらそ]う	争		
+xcx98*R9ur	1239	浄	limpio	clean	清[せい]○[じょう]	浄[きよし]		
+kSKNVOcn*l	1240	事	asunto	matter	無[ぶ]○[じ]<br>○[じ]故[こ]<br><br>仕[し]○[ごと]	事[こと]		
+K-_@6`0w15	1241	唐	Tang	T'ang	○[とう]突[とつ]	唐[とう]		
+F3bkT,MU9+	1242	糖	azúcar	sugar	砂[さ]○[とう]	糖[とう]		leech
+M$odYlo?uG	1243	康	sano	same	健[けん]○[こう]	康[かん]		leech
+E$95t{D/bp	1244	逮	aprehender	apprehend	○[たい]捕[ほ]	逮		
+g8ShQC]=O(	1245	伊	Italia	Italy	○[い]	伊[い]		
+Ckc/lc]j[k	1246	君	tú	old boy	○[くん]<br>主[しゅ]○[くん]<br><br>○[きみ]	君[きみ]		
+z(`]jP|Y$q	1247	群<br>	manada	flock	○[ぐん]集[しゅう]<br><br>○[む]れ<br>○[むら]がる	群[ぐん]<br>		
+vEB!<KU/!S	1248	耐	a prueba de	-proof	○[たい]火[か]<br><br>○[た]える	耐		leech
+kng,tM2sej	1249	需	demanda	demand	○[じゅ]要[よう]	需		
+Hcb4i8T4v9	1250	儒	confuciano	Confucian	○[じゅ]教[きょう]	儒[じゅ]		
+dNv@>Ezk7q	1251	端	margen	edge	極[きょく]○[たん]<br><br>半[はん]○[ぱ]	端[はじ]		
+P%b{?38.1!	1252	両	ambos	both	○[りょう]親[しん]	両[りょう]		leech
+MA4a2A],0f	1253	満	lleno	full	○[まん]足[ぞく]<br><br>○[み]ちる	満[みつる]		
+J+q.kSgcpj	1254	画	trazo de pincel	brush-stroke	映[えい]○[が]<br><br>計[けい]○[かく]	画[が]		
+lf/38VM.yg	1255	歯	diente	tooth	○[し]科[か]<br><br>○[は]	歯[は]		
+h~XiB3MG`J	1256	曲	doblegar	bend	○[きょく]線[せん]<br>作[さっ]○[きょく]<br><br>○[ま]がる	曲[きょく]		leech
+w-]J3zkcEg	1257	曹	cadete	cadet	軍[ぐん]○[そう]	曹		
+xD_jD->usm	1258	遭	encuentro	encounter	○[そう]難[なん]<br><br>○[あ]う	遭		
+iO~-)DTQ_W	1259	漕	remar	rowing	○[こ]ぐ	漕		leech
+h!WH%64wXv	1260	槽	tinaja	vat	浴[よく]○[そう]	槽[そう]		leech
+Ep0aN@B9g?	1261	斗	Osa Mayor	Big Dipper	北[ほく]○[と]七[しち]星[せい]	斗[と]		
+v_2v,}RCWm	1262	料	importe	fee	○[りょう]理[り]	料[りょう]		
+x8=bG{98|V	1263	科	departamento	department	○[か]学[がく]	科[か]		
+D7ns.GG`Ii	1264	図	mapa	map	地[ち]○[ず]<br>意[い]○[と]<br><br>○[はか]る	図[ず]		
+"f(w#=#F7!c"	1265	用	utilizar	utilize	○[もち]いる	用[よう]		
+iUK^;3[!JL	1266	庸	confortable	comfortable	凡[ぼん]○[よう]	庸[いさお]		leech
+zqrM_>Im4`	1267	備	equipamiento	equip	準[じゅん]○[び]<br><br>○[そな]える	備		
+mWRlQM[u5Y	1268	昔	érase una vez	once upon a time	○[せき]日[じつ]<br>今[こん]○[じゃく]<br><br>○[むかし]	昔[むかし]		
+PQEk|dL}~x	1269	錯	confuso	confused	○[さっ]覚[かく]<br>○[さく]誤[ご]	錯[こすり]		leech
+lCx7&g3c7r	1270	借	tomar prestado	borrow	○[しゃっ]金[きん]<br><br>○[か]りる	借[か]		leech
+Q:uYtPU=Rx	1271	惜	pena	pity	○[せき]敗[はい]<br><br>○[お]しむ	惜		leech
+fsAJcd6C@^	1272	措	apartar	set aside	○[そ]置[ち]	措		
+cWJB2iY8qA	1273	散	esparcir	scatter	○[さん]歩[ぽ]<br><br>○[ちら]す	散[ち]		leech
+"sJEnlf/#b5"	1274	廿	veinte	twenty	○[はたち]	廿[にじゅう]		
+121Q!9e[A	1275	庶	plebeyo	commoner	○[しょ]民[みん]	庶		
+I[VwpAGla:	1276	遮	interceptar	intercept	○[さえぎ]る	遮[さえぎ]		leech
+p>Aj]igp~p	1277	席	asiento	seat	座[ざ]○[せき]	席[せき]		leech
+D34*B9Z[dV	1278	度	grado	degrees	一[いち]○[ど]<br>支[し]○[たく]<br><br>○[たび]	度[ど]		
+B$e5<(lTOZ	1279	渡	cruzar	transit	○[わた]す	渡[わたり]		leech
+C&MT/rbJ3y	1280	奔	bullicio	bustle	○[ほん]放[ぽう]	奔		leech
+"sa3^G#qRfM"	1281	噴	erupción	erupt	○[ふん]火[か]<br><br>○[ふ]く	噴		leech
+"uxlF}#Lj:K"	1282	墳	sepulcro	tomb	古[こ]○[ふん]	墳[ふん]		
+ocamQX-+H]	1283	憤	indignación	aroused	○[ふん]慨[がい]	憤[いきどお]		leech
+jHR7}`Hc.-	1284	焼	freír	bake	燃[ねん]○[しょう]<br><br>○[や]く<br>○[や]ける	焼[やき]		
+gCXAXU(cKV	1285	暁	alba	daybreak	○[あかつき]	暁[あかつき]		leech
+"D5b,#ddSb6"	1286	半	mitad	half	○[はん]<br>○[はん]分[ぶん]<br><br>○[なか]ば	半[はん]		
+"z7eC!#EcQX"	1287	伴	consorte	consort	○[ともな]う	伴[とも]		leech
+to&_I&54y:	1288	畔	borde de un arrozal	paddy ridge	湖[こ]○[はん]	畔[ほとり]		leech
+A5tK/_n]tx	1289	判	sentencia	judgement	批[ひ]○[はん]<br>裁[さい]○[ばん]	判[はん]		
+h~-aLrlj}.	1290	拳	puño	fist	○[けん]銃[じゅう]<br><br>○[こぶし]	拳[こぶし]		
+i`/IK&;;Dl	1291	券	boleto	ticket	○[けん]	券[けん]		
+rmi@asO!o,	1292	巻	pergamino	scroll	○[ま]く<br>○[まき]	巻[まき]		
+lKoTn+zISX	1293	圏	esfera	sphere	首[しゅ]都[と]○[けん]<br>北[ほっ]極[きょく]○[けん]	圏[けん]		leech
+O.d1ebF9[$	1294	勝	victoria	victory	優[ゆう]○[しょう]<br>○[しょう]利[り]<br><br>○[か]つ	勝[かち]		
+F|h$}6,rKV	1295	藤	glicina	wisteria	葛[こっ]○[とう]	藤[ふじ]		leech
+Cv$&vI))^;	1296	謄	facsímil	facsimile	○[とう]本[ほん]	謄		
+bQ)25R^>-e	1297	片	un lado	one-sided	破[は]○[へん]<br><br>○[かた]手[て]	片[へん]		
+Q2O7Mlrk6<	1298	版	bloque de imprenta	printing block	出[しゅっ]○[ぱん]	版[ばん]		leech
+d5rfD=,c{z	1299	之	de	of	○[の]	之[これ]		
+n-D~9~n@Or	1300	乏	escasez	destitution	欠[けつ]○[ぼう]<br><br>○[とぼ]しい	乏[とも]		
+n;$sq$F/2>	1301	芝	césped	turf	○生[しばふ]	芝[しば]		
+rV7+3k6%h4	1302	不	negativo	negative	○[ふ]当[とう]<br>○[ふ]足[そく]<br><br>○[ま]味[ず]い	不[ふ]		
+hOcOh{LOWm	1303	否	negar	negate	○[ひ]定[てい]	否[いな]		leech
+bVEwu:fb}>	1304	杯	una taza de	cupfuls	一[いっ]○[ぱい]<br><br>○[さかずき]	杯[はい]		leech
+PN5*vYyI9!	1305	矢	dardo	dart	○[や]印[じるし]	矢[や]		
+tSKE[4_e^S	1306	矯	rectificar	rectify	○[きょう]正[せい]	矯		leech
+y{6JHS<q]/	1307	族	tribu	tribe	家[か]○[ぞく]	族[ぞく]		
+CJ;lU!QaBA	1308	知	saber	know	○[ち]識[しき]<br><br>○[し]る	知[ち]		
+D(`ApQiG:}	1309	智	sabiduría	wisdom	○[ち]	智[さとし]		
+t5._&hKg{m	1310	挨	empellón	shove	○[あい]拶[さつ]	挨		
+Nj`74ei4Sz	1311	矛	alabarda	halberd	○[む]盾[じゅん]<br><br>○[ほこ]	矛[ほこ]		
+H]QUg0be-~	1312	柔	tierno	tender	○[じゅう]道[どう]<br><br>○[やわ]らかい	柔[やわら]		
+B>$A,Gbl23	1313	務	tarea	task	事[じ]○[む]	務[つとむ]		leech
+"xXG-U]17#7"	1314	霧	niebla	fog	濃[のう]○[む]<br><br>○[きり]	霧[きり]		leech
+CP@/~xpB%e	1315	班	brigada	squad	○[はん]	班[はん]		
+p4QC-whbL6	1316	帰	volver a casa	homecoming	○[き]還[かん]<br><br>○[かえ]る	帰[き]		
+G|g2?j9=VC	1317	弓	arco	bow	○[きゅう]道[どう]<br><br>○[ゆみ]	弓[ゆみ]		
+nw<X7aM6Fs	1318	引	tirar (pull)	pull	○[いん]退[たい]<br><br>○[ひく]<br>○[ひっ]っ越[こ]す	引		leech
+ouTF9Jx{ox	1319	弔	pésame	condolences	○[ちょう]問[もん]<br><br>○[とむら]い	弔[ちょう]		
+C-vhK2b@<A	1320	弘	extenso	vast	○[ひろ]い	弘[ひろし]		leech
+nY!}HrSced	1321	強	fuerte	strong	勉[べん]○[きょう]<br>○[ごう]盗[とう]<br><br>○[つよ]い<br>○[つよ]める<br>○[し]いる	強[つよ]		leech
+"sR#@{Z3x:r"	1322	弥	más y más	more and more	○生[やよい]	弥[わたる]		
+Lo`&cS;Qah	1323	弱	débil	weak	○[じゃく]点[てん]<br><br>○[よわ]い<br>○[よわ]まる	弱[じゃく]		
+JJ*RgT~9~k	1324	溺	ahogamiento	drowning	○[でき]死[し]<br><br>○[おぼ]れる	溺		leech
+r|&oXX]M/N	1325	沸	hervir	seethe	○[ふっ]騰[とう]<br><br>○[わ]かす	沸[にえ]		
+BMYEU*$F-*	1326	費	gastos	expense	消[しょう]○[ひ]<br><br>○[つい]やす	費[ひ]		leech
+qxrff-ASJ>	1327	第	Núm.	Nº.	○[だい]〜<br>次[し]○[だい]	第[だい]		leech
+"zU(,A>Wds#"	1328	弟	hermano menor	younger brother	兄[きょう]○[だい]<br><br>○[おとうと]	弟[おとうと]		leech
+w~).<Mc*a6	1329	巧	habilidad	adroit	○[こう]妙[みょう]<br><br>○[たく]み	巧[たくみ]		leech
+xC<:Aj0QA&	1330	号	apodo	nickname	番[ばん]○[ごう]<br>信[しん]○[ごう]	号[ごう]		
+bDa5*Fd;Qb	1331	朽	decadencia	decay	○[く]ちる	朽		leech
+q@7_>E<bt{	1332	誇	jactarse	boast	○[こ]張[ちょう]<br><br>○[ほこ]る	誇[ほこ]		leech
+m|I~dL|Ot;	1333	顎	mentón	chin	○[がく]<br><br>○[あご]	顎[あご]		
+n,W35m+dS&	1334	汚	sucio	dirty	○[お]染[せん]<br><br>○[きたな]い<br>○[よご]れる	汚[きたな]		
+D1u(q_%f/w	1335	与	conceder	bestow	○[あた]える	与[あずか]		leech
+gYOBfpI:Um	1336	写	copiar	copy	○[しゃ]真[しん]<br><br>○[うつ]す	写[うつし]		
+eSgM(M3NL5	1337	身	alguien	somebody	出[しゅっ]○[しん]<br><br>○[み]近[じか]	身[み]		
+oWPpU9I@]-	1338	射	disparar	shoot	発[はっ]○[しゃ]<br><br>○[い]る	射[い]		
+z+JFiHHN?9	1339	謝	disculparse	apologize	感[かん]○[しゃ]<br><br>○[あやま]る	謝[しゃ]		
+i@8o0Z[q8Z	1340	老	anciano	old man	○[ろう]人[じん]<br><br>○[お]い<br>○[お]いる	老[ろう]		
+uqf&hT{~I<	1341	考	considerar	consider	○[こう]慮[りょ]<br><br>○[かんが]える	考[こう]		leech
+w0SiLVyfWx	1342	孝	devoción filial	filial piety	○[こう]行[こう]	孝[こう]		
+Ai+:kpNMGN	1343	教	enseñar	teach	○[きょう]育[いく]<br><br>○[おし]える<br>○[おそ]わる	教[きょう]		leech
+xR1&<YYWLU	1344	拷	tortura	torture	○[ごう]問[もん]	拷		leech
+p=@n/:2heL	1345	者	alguno	someone	医[い]○[しゃ]	者[もの]		
+p`[$6zKOc3	1346	煮	cocer	boil	○[に]る	煮[に]		leech
+g3*N!.@|Xu	1347	著	célebre	renowned	○[ちょ]名[めい]<br>○[ちょ]者[しゃ]<br><br>○[いちじる]しい	著[しる]		
+w9u)gAY%)L	1348	箸	palillos orientales	chopsticks	○[はし]	箸[はし]		
+"dI4S:byEC#"	1349	署	firma	signature	○[しょ]名[めい]	署[しょ]		
+kP/B>>i9}k	1350	暑	bochorno	sultry	○[あつ]い	暑[あつ]		
+KQS[NAR9>(	1351	諸	diversos	various	～ ○[しょ]<br>○[しょ]君[くん]	諸[しょ]		leech
+wSU2/1g*VK	1352	猪	jabalí	boar	○[いのしし]	猪[いのしし]		
+b5)`*Y$I/(	1353	渚	ribera	strand	○[なぎさ]	渚[なぎさ]		leech
+l<RoM~)+:q	1354	賭	apostar	gamble	○[と]博[ばく]<br><br>○[か]ける	賭[と]		leech
+"s>CV]r5##R"	1355	峡	desfiladero	gorge	海[かい]○[きょう]<br>○[きょう]谷[こく]	峡[かい]		leech
+i+(c%eLyKS	1356	狭	estrecho	cramped	○[きょう]量[りょう]<br><br>○[せま]い<br>○[せば]める	狭[せま]		
+byD?e1aKzG	1357	挟	intercalar	sandwiched	○[はさ]む	挟[きょう]		leech
+edZ$n:p6NP	1358	頬	mejilla	cheek	○[ほお]	頬[ほお]		
+l*G*nP^@Qs	1359	追	perseguir	chase	○[つい]跡[せき]<br><br>○[お]い 付[つ]く	追[つい]		leech
+Clxh+G{$yG	1360	阜	risco	large hill	岐[ぎ]○[ふ]	阜[つかさ]		
+Pr:.JdI^LK	1361	師	experto	expert	医[い]○[し]	師[し]		leech
+"G,Fo#5Z(25"	1362	帥	comandante	commander	総[そう]○[すい]	帥[そち]		
+Dw_UYS?x>C	1363	官	burócrata	bureaucraut	○[かん]庁[ちょう]	官[かん]		
+"jFsh#}1KCJ"	1364	棺	ataúd	coffin	○[かん]	棺[かん]		
+AL&V7(lTey	1365	管	cañería	pipe	血[けっ]○[かん]	管[かん]		leech
+"vi$.s0JY#D"	1366	父	padre	father	祖[そ]○[ふ]<br><br>○[ちち]親[おや]	父[ちち]		
+t`w{i|1AgA	1367	釜	caldera	cauldron	○[かま]	釜[かま]		
+Ix%@<);Nsw	1368	交	entremezclar	mingle	○[こう]通[つう]<br><br>○[ま]じる	交[こもごも]		
+gjnYBj|Y(3	1369	効	mérito	merit	○[こう]果[か]	効[こう]		leech
+B2sE>Ou$3q	1370	較	contraste	contrast	比[ひ]○[かく]	較		
+np2p._nUV}	1371	校	escuela	exam	学[がっ]○[こう]	校[こう]		
+OG[|S-HP3W	1372	足	pie	leg	満[まん]○[ぞく]<br><br>○[あし]<br>○[た]りる<br>○[た]す	足[あし]		
+F7sSJv;vzn	1373	促	estimular	stimulate	催[さい]○[そく]<br><br>○[うなが]す	促		
+5GcPXk56>	1374	捉	echar el guante	nab	○[とら]える	捉		
+Ga84:%Y+^H	1375	距	larga distancia	long-distance	○[きょ]離[り]	距[きょ]		
+"p7#`78G|BP"	1376	路	sendero	path	道[どう]○[ろ]<br>線[せん]○[ろ]<br><br>～ ○[じ]	路[みち]		
+onmc.?|E15	1377	露	rocío	dew	○[ろ]出[しゅつ]<br><br>○[つゆ]	露[ろ]		
+PN^AAR;%}M	1378	跳	brinco	hop	○[ちょう]躍[やく]	跳		
+"H!8rXp,`#Q"	1379	躍	salto (leap)	leap	活[かつ]○[やく]	躍[おど]		
+j)~AW20JCN	1380	践	pisar	tread	実[じっ]○[せん]	践		leech
+F>>*4GOXK[	1381	踏	paso	step	○[ふみ]切[きり]	踏		leech
+d8FyBgwHYF	1382	踪	vestigios	trail	失[しっ]○[そう]	踪		
+CyL{GLA<}F	1383	骨	esqueleto	skeleton	○[こつ]<br>○[こっ]折[せつ]<br><br>○[ほね]	骨[ほね]		
+wQmpoiHOz`	1384	滑	resbaladizo	slippery	円[えん]○[かつ]<br><br>○[すべ]る	滑[なめら]		
+J_lI|,[fgJ	1385	髄	médula	marrow	骨[こつ]○[ずい]	髄[ずい]		
+vs[7|1>hrF	1386	禍	calamidad	calamity	○[か]根[こん]	禍[わざわい]		
+En-(djw+@7	1387	渦	remolino	whirlpool	○[か]中[ちゅう]<br><br>○[うず]	渦[うず]		
+?2uAB3<[b	1388	鍋	olla	pot	○[なべ]	鍋[なべ]		
+G.`ftO/SbA	1389	過	demasiado	overdo	○[か]程[てい]<br><br>○[す]ぎる<br>○[す]ごす	過[か]		
+L&TRuiX?oH	1390	阪	Alto	Heights	大[おお]○[さか]	阪[ばん]		leech
+bL]6C=T):j	1391	阿	África	Africa	○[あ]呆[ほ]	阿[おもね]		
+K~q5jBhsnY	1392	際	ocasión	occasion	交[こう]○[さい]<br><br>○[きわ]	際[さい]		leech
+Bt$m<a*L!}	1393	障	obstruir	hinder	○[しょう]子[じ]	障[さわ]		leech
+c+RaA)rppG	1394	隙	rendija	chink	○[すき]間[ま]	隙[ひま]		
+ISGuTaSfi`	1395	随	ir detrás	follow	○[ずい]意[い]	随[ずい]		leech
+P>Y4d?A+T@	1396	陪	auxiliar	auxiliary	○[ばい]審[しん]	陪		leech
+ogb7_;johl	1397	陽	luz del sol	sunshine	太[たい]○[よう]	陽[ひ]		leech
+f3zJ`eBG);	1398	陳	poner en fila	line up	○[ちん]列[れつ]	陳[ちん]		
+g<%]9cCPEt	1399	防	defenderse	ward off	予[よ]○[ぼう]<br><br>○[ふせ]ぐ	防[ぼう]		leech
+"g#4^gf%ej?"	1400	附	acoplado	affixed	寄[き]○[ふ]	附[ふ]		
+l?4%XbpJ`<	1401	院	Institución	Inst.	病[びょう]○[いん]	院[いん]		
+zG2=~HFJKs	1402	陣	campamento	camp	○[じん]営[えい]	陣[じん]		leech
+jMMlU4|$aa	1403	隊	regimiento	regiment	軍[ぐん]○[たい]	隊[たい]		leech
+FE%j*.U,md	1404	墜	caída	crash	○[つい]落[らく]	墜		leech
+ESBD-E>Lai	1405	降	descender	descend	下[か]○[こう]	降[くだ]		leech
+hhL@Nc81(k	1406	階	piso	story	○[かい]段[だん]	階[かい]		
+cBv:uz7NL$	1407	陛	alteza	highness	○[へい]下[か]	陛		
+Hj}MM^;XOg	1408	隣	vecino	neighboring	○[りん]接[せつ]<br><br>○[となり]	隣[となり]		
+I/,*Jnf]yC	1409	隔	aislar	isolate	間[かん]○[かく]<br><br>○[へだ]てる	隔[かく]		
+NwngAItcrW	1410	隠	encubrir	conceal	○[いん]居[きょ]<br><br>○[かく]す<br>○[かく]れる	隠[こも]		
+Ea(3ZfL>zc	1411	堕	degenerar	degenerate	○[だら]落[く]	堕		leech
+WX4dE?Qd}	1412	陥	colapso	collapse	欠[けっ]○[かん]<br><br>○[おちい]る	陥[おちい]		leech
+AtrA^G{Jln	1413	穴	agujero	hole	○[けつ]<br><br>○[あな]	穴[あな]		
+yXTho8UxW.	1414	空	vacío	empty	○[くう]港[こう]<br><br>○[そら]<br>○[から]	空[そら]		
+vC+(M}|NfF	1415	控	retener	withdraw	○[こう]除[じょ]	控[ひかえ]		
+c`^Y5sD^]l	1416	突	punzar	stab	衝[しょう]○[とつ]<br><br>○[つ]く	突[とっ]		leech
+"K1~#1X7Y}j"	1417	究	indagación	research	研[けん]○[きゅう]	究[きわむ]		leech
+sItS4&OKWj	1418	窒	obturar	plug up	○[ちっ]息[そく]	窒		leech
+PLRRgb&e-L	1419	窃	sigiloso	stealth	○[せっ]盗[とう]	窃		
+q]{&dzIBDz	1420	窟	grutaz (cavern)	cavern	洞[どう]○[くつ]	窟[いわや]		leech
+"dd4u#7mTlN"	1421	窪	depresión (orografía)	depression	○[こぼ]む	窪[くぼ]		leech
+f]EmK]8ZN+	1422	搾	estrujar	squeeze	○[しぼ]る	搾[しぼ]		leech
+P;B,Q7Z)Q>	1423	窯	horno	kiln	○[よう]業[ぎょう]<br><br>○[かま]	窯[かま]		leech
+c75<LX-x8o	1424	窮	paupérrimo	hard up	○[きゅう]屈[くつ]	窮[きゅう]		
+NQ)yVIFM!5	1425	探	tantear	grope	○[さが]す	探[さぐ]		
+pE;?@$.1)s	1426	深	profundo	deep	○[しん]刻[こく]<br><br>○[ふか]い<br>○[ふか]まる	深[ふか]		leech
+h?EtkVOB7n	1427	丘	cerro	hill	○[きゅう]陵[りょう]<br><br>○[おか]	丘[おか]		
+fp|+%{(G_d	1428	岳	colina	Point	山[さん]○[がく]<br><br>○[たけ]	岳[たけ]		leech
+Kpp3ks~qEo	1429	兵	soldado	soldier	○[へい]隊[たい]	兵[へい]		
+JEH$x[vJYm	1430	浜	costa	seacoast	○[はま]	浜[はま]		
+q?V(Py[I2K	1431	糸	hilo	thread	○[いと]	糸[いと]		
+M{s[B]nOzZ	1432	織	tejer	weave	組[そ]○[しき]<br><br>○[お]る<br>○[おり]物[もの]	織[お]		leech
+meY)WaSwxv	1433	繕	remendar	darning	修[しゅう]○[ぜん]<br><br>○[つくろ]う	繕		leech
+F(,>}a21yx	1434	縮	encoger	shrink	○[しゅく]小[しょ]<br><br>○[ちぢ]む	縮[ちぢみ]		
+B.Js>kuQp~	1435	繁	lujo	luxuriant	○[はん]栄[えい]	繁[しげる]		leech
+tKQ.VCusHj	1436	縦	vertical	vertical	操[そう]○[じゅう]<br><br>○[たて]書[が]き	縦[たて]		leech
+OPu$o}!<h}	1437	緻	fino	fine	○[ち]密[みつ]	緻		leech
+s`U;eAJxAb	1438	線	línea	line	新[しん]幹[かん]○[せん]<br>地[ち]平[へい]○[せん]	線[せん]		leech
+O,o$d>N$$V	1439	綻	descuajaringarse	come apart at the seams	破[は]○[たん]<br><br>○[ほころ]びる	綻		leech
+PPAffWQ<:N	1440	締	estrechar	tighten	○[し]める	締[しめ]		leech
+"fP98Gd4O#~"	1441	維	fibra	fiber	○[い]持[じ]	維[これ]		leech
+uGA*UMeF)[	1442	羅	gasa	gauze	○[ら]針[しん]盤[ばん]	羅[ら]		
+H9G%*>^b`M	1443	練	practicar	practice	○[れん]習[しゅう]<br><br>○[ねる]	練[ねり]		
+"H{#1$S]i|&"	1444	緒	correa	thong	一[いっ]○[しょ]	緒[いとぐち]		
+n<SHPH87?i	1445	続	continuar	continue	○[つづ]く	続[ぞく]		
+ryM!9h{Eh=	1446	絵	dibujo	picture	○[かい]画[が]<br><br>浮[うき]世[よ]○[え]	絵[え]		
+F.](ge:yHz	1447	統	integración	overall	伝[でん]○[とう]<br><br>○[す]べる	統[みつる]		leech
+D7|~bsls/N	1448	絞	estrangular	strangle	○[こう]殺[さつ]<br><br>○[しぼ]る	絞[しぼ]		leech
+ihN2VC5ynx	1449	給	salario	salary	月[げっ]○[きゅう]	給[きゅう]		leech
+ir]BE&Gx-p	1450	絡	entrelazar	entwine	連[れん]○[らく]<br><br>○[から]む	絡		leech
+fTg3vK<9H{	1451	結	atar	tie	○[けっ]婚[こん]<br>○[けっ]果[か]<br><br>○[むす]ぶ	結[ゆい]		leech
+"wQ$?Sn)#/m"	1452	終	final	end	○[しゅう]了[りょう]<br><br>○[お]わる	終[おわり]		leech
+t7!]/1Snak	1453	級	clase	class	上[じょう]○[きゅう]	級[きゅう]		leech
+"DZcf@1#t5Y"	1454	紀	crónica	chronicle	世[せい]○[き]	紀[きの]		leech
+D?958@}K35	1455	紅	carmín	crimson	○[こう]茶[ちゃ]<br><br><br>口[くち]○[べに]<br>○[くれない]	紅[べに]		
+JE>%7LZIG&	1456	納	concluir	conclude	○[のう]入[にゅう]<br>○[なっ]得[とく]<br>○[な]屋[や]<br><br>○[おさ]める	納[おさめ]		leech
+JNqo7Wz4:`	1457	紡	hilatura	spinning	○[ぼう]績[せき]<br><br>○[つむ]ぐ	紡		
+j*z.~t7a;/	1458	紛	perturbar	distract	○[ふん]争[そう]<br><br>○[まぎ]れる	紛		
+qZ}~ADxm:r	1459	紹	presentar a alguien	introduce	○[しょう]介[かい]	紹		
+"z6q#$KSe&m"	1460	経	sutra	sutra	○[けい]済[ざい]<br><br>○[へ]る	経[けい]		leech
+mPIi!]*~zo	1461	紳	caballero	sire	○[しん]士[し]	紳[しん]		leech
+EWB1x{]o]R	1462	約	promesa	promise	○[やく]束[そく]<br>～ ○[やく]	約[やく]		leech
+C49:U)c+ma	1463	細	delgado	dainty	詳[しょう]○[さい]<br><br>○[ほそ]い<br>○[こまか]かい	細[ほそ]		
+i<A],>mXed	1464	累	acumular	accumulate	○[るい]積[せき]	累[るい]		leech
+o(<^u79{,M	1465	索	cable	cord	○[さく]引[いん]<br>捜[そう]○[さく]	索[さく]		
+KN5g=UF|_e	1466	総	general	general	○[そう]合[ごう]	総[そう]		
+dPgjjADL3i	1467	綿	algodón	cotton	○[めん]<br><br>○[わた]<br><br>木○[もめん]	綿[めん]		
+v>0$n0*0QZ	1468	絹	seda	silk	○[きぬ]	絹[きぬ]		
+KtZaL;[8YG	1469	繰	enrollado	winding	○[く]る	繰[く]		leech
+KkE!d=UZdr	1470	継	heredar	inherit	○[けい]続[ぞく]	継[つぎ]		leech
+kcRiIH1;68	1471	緑	verde	green	○[みどり]	緑[みどり]		
+bm)c3{vH^)	1472	縁	afinidad	affinity	血[けつ]○[えん]	縁[えん]		leech
+d&<awK_L_n	1473	網	red	netting	○[あみ]戸[ど]	網[あみ]		leech
+jwWTw&5pIB	1474	緊	tenso	tense	○[きん]張[ちょう]	緊		leech
+QD_^`Ev~<,	1475	紫	púrpura	purple	○[し]外[がい]線[せん]<br><br>○[むらさき]	紫[むらさき]		
+Fv@[tu.:RJ	1476	縛	amarrar	truss	束[そく]○[ばく]<br><br>○[しば]る	縛[ばく]		leech
+"Q/>%#yEovt"	1477	縄	cuerda de paja	straw rope	○[じょう]文[もん]<br><br>沖[おき]○[なわ]	縄[なわ]		leech
+Ag-,Q-z91;	1478	幼	infancia	infancy	○[よう]児[じ]<br><br>○[おさな]い	幼[よう]		
+kQV4gPWZHR	1479	後	detrás	behind	前[ぜん]○[ご]<br>○[こう]輩[はい]<br><br>○[のち]<br>○[うし]ろ<br>○[あと]	後[のち]		
+1XzTcs&{i	1480	幽	impreciso	faint	○[ゆう]霊[れい]	幽[かそけ]		
+x5l1Kn!D1w	1481	幾	cuántos	how many	○[き]何[か]学[がく]<br><br>○[いく]つ<br>○[いく]ら	幾[いく]		
+p_t32X:vu*	1482	機	mecanismo	mechanism	飛[ひ]行[こう]○[き]	機[き]		leech
+q(_uI6uzcO	1483	畿	barrios residenciales	capital suburbs	近[きん]○[き]	畿		
+ix;1Dt:PL	1484	玄	misterioso	mysterious	○[げん]関[かん]	玄[げん]		
+FSy4ol0PIS	1485	畜	ganado	livestock	牧[ぼく]○[ちく]<br>家[か]○[ちく]	畜		
+O*DB?%Y=Mo	1486	蓄	acaudalar	amass	貯[ちょ]○[ちく]<br><br>○[たくわ]える	蓄		leech
+"tuk:o@_2#,"	1487	弦	cuerda de arco	bowstring	○[つる]	弦[つる]		
+G2[&C`2lv[	1488	擁	abarcar	hug	抱[ほう]○[よう]	擁[よう]		leech
+h3-_.OpG)K	1489	滋	nutritivo	nourishing	○[じ]養[よう]	滋[しげる]		
+QkaSE=n<$9	1490	慈	piedad	mercy	○[じ]善[ぜん]	慈		
+s!2a<hNdE;	1491	磁	imán	magnet	○[じ]石[しゃく]	磁		
+IK6(49[Kl8	1492	系	linaje	lineage	体[たい]○[けい]	系[けい]		
+G*u<h$}bRx	1493	係	encargado	person in charge	関[かん]○[けい]<br><br>○[かかり]   ||   ○[かか]り	係[かかり]		leech
+PbY9IM6F<b	1494	孫	nieto	grandchild	子[し]○[そん]<br><br>○[まご]	孫[まご]		
+fQ8Oxh3>Wq	1495	懸	suspender	suspend	○[けん]命[めい]<br>○[け]念[ねん]<br><br>○[か]ける	懸[かか]		
+r**{bi1@EQ	1496	遜	humilde	modest	謙[けん]○[そん]	遜[へりくだ]		leech
+FBK6JZ^j+`	1497	却	al contrario	instead	売[ばい]○[きゃく]<br><br>○[かえ]って	却		leech
+f<}k1ndmj.	1498	脚	espinilla	shins	○[あし]<br><br>○[きゃく]本[ほん]	脚[あし]		leech
+GRX;^7]|52	1499	卸	al por mayor	wholesale	○[おろ]す<br>○[おろし]商[しょう]	卸[おろし]		
+"kNW#d6o&;d"	1500	御	honorable	honorable	○[ご]-	御[お]		leech
+tIGQcyn@(z	1501	服	prenda	clothing	洋[よう]○[ふく]	服[ふく]		
+r@K^PE9;6a	1502	命	destino	fate	生[せい]○[めい]<br>寿[じゅ]○[みょう]<br><br>○[いのち]	命[いのち]		
+q:XNS]jCto	1503	令	órdenes	orders	命[めい]○[れい]<br>指[し]○[れい]	令[りょう]		
+pg2><IC/|)	1504	零	cero	zero	○[れい]	零[れい]		
+tfHErWG[dc	1505	齢	edad	age	年[ねん]○[れい]	齢[よわい]		
+B.5Wy)&Oi1	1506	冷	frescura	cool	○[れい]静[せい]<br><br>○[つめ]たい<br>○[ひ]える	冷[ひや]		
+Quf1:_JA7W	1507	領	jurisdicción	jurisdiction	要[よう]○[りょう]	領[りょう]		
+jO2K/m%(YP	1508	鈴	campanilla	small bell	風[ふう]○[りん]<br><br>○[すず]虫[むし]	鈴[すず]		
+Q8XgFo=$?o	1509	勇	coraje	courage	○[ゆう]気[き]<br><br>○[いさ]ましい	勇[いさむ]		
+g-]}UW(fgM	1510	湧	bullir	bubbled up	○[わ]く	湧[ゆう]		leech
+jX5I=PE<*`	1511	通	tráfico	traffic	○[つう]行[こう]<br>○[つ]夜[や]<br><br>○[とお]る<br>○[かよ]う	通[つう]		
+"xevbPv#DT~"	1512	踊	bailar	jump	○[おど]る	踊[おどり]		
+g$v}GE;AN(	1513	疑	duda	doubt	○[ぎ]問[もん]<br><br>○[うたが]う	疑[うたぐ]		leech
+gI`r$NU]h2	1514	擬	imitar	mimic	模[も]○[ぎ]	擬[ぎ]		
+sta9nm*J%l	1515	凝	solidificar	congeal	○[ぎょう]固[こ]	凝[こご]		leech
+q;phNj0+|t	1516	範	patrón	pattern	模[も]○[はん]	範[はん]		leech
+dMcRA31Bqm	1517	犯	crimen	crime	○[はん]罪[ざい]<br><br>○[おか]す	犯[はん]		leech
+uqg~:oc{vq	1518	氾	difundido	widespread	○[はん]濫[らん]	氾		
+u60Tx6CvB&	1519	厄	mala suerte	unlucky	○[やっ]介[かい]<br>○[やく]年[どし]	厄[わざわい]		
+r?h]mO*?YA	1520	危	peligroso	dangerous	○[き]険[けん]<br><br>○[あぶ]ない<br>○[あや]うい	危[き]		
+tC$Y,`SWal	1521	宛	dirección postal	address	○[あて]名[な]<br>○[あ]てる	宛[あて]		
+J.;-pbW:.m	1522	腕	brazo	arm	○[うで]前[まえ]	腕[うで]		
+LqO*5*N*`C	1523	苑	jardín	garden	外[がい]○[えん]<br><br>○[その]	苑[えん]		
+wqE=ZY;E7x	1524	怨	rencor	grudge	○[おん]念[ねん]	怨		leech
+saJkWWXeeA	1525	柳	sauce	willow	○[やなぎ]	柳[やなぎ]		
+sULS1jV)g]	1526	卵	huevo	egg	産[さん]○[らん]<br><br>○[たまご]	卵[たまご]		
+Q;-4IzO7C^	1527	留	estacionar	detain	○[りゅう]学[がく]	留[とめ]		
+gW-I<4KgkB	1528	瑠	azul marino (lapislázuli)	marine blue	○[る]璃[り]	瑠		leech
+y43=d+y<)k	1529	貿	comerciar	trade	○[ぼう]易[えき]	貿		
+dvee}Mo7.k	1530	印	sello	stamp	○[いん]刷[さつ]<br><br>○[しるし]	印[しるし]		leech
+JuDOsPd+vV	1531	臼	mortero	mortar	○[きゅう]歯[し]<br><br>石[いし]○[うす]	臼[うす]		
+E!qwCa.[JM	1532	毀	romper	break	○[き]損[そん]	毀		leech
+tc]@uza.n&	1533	興	entretener	entertain	○[きょう]味[み]<br>○[こう]奮[ふん]	興[きょう]		
+pE;9)cQ_!r	1534	酉	signo del pájaro	sign of the bird	○[とり]	酉[とり]		
+B>5{68AF^]	1535	酒	sake	saké	飲[いん]○[しゅ]<br><br>○[さけ]<br>○[さか]場[ば]	酒[さけ]		
+u9Vp=rwU0f	1536	酌	servir sake	bartending	○[く]む	酌[しゃく]		
+c.-,-/;VRg	1537	酎	aguardiente	hooch	焼[しょう]○[ちゅう]	酎[ちゅう]		leech
+PQa5uw~uxj	1538	酵	fermentación	fermentation	発[はっ]○[こう]	酵		
+uqx<Q}vb<S	1539	酷	crueldad	cruel	残[ざん]○[こく]<br><br>○[ひど]い	酷[こく]		
+b2hu!OT}sf	1540	酬	recompensar	repay	報[ほう]○[しゅう]	酬		leech
+JN{2wn2xPQ	1541	酪	productos lácteos	dairy products	○[らく]農[のう]	酪		leech
+Be|vc^1gaM	1542	酢	vinagre	vinegar	○[す]	酢[す]		leech
+G;{aMr_UX:	1543	酔	borracho	drunk	麻[ま]○[すい]<br><br>○[よ]う	酔[よい]		
+IrMv0WE+iJ	1544	配	distribuir	distribute	心[しん]○[ぱい]<br><br>○[くば]る	配[はい]		leech
+AY3%<WuzqC	1545	酸	ácido	acid	○[さん]素[そ]<br><br>○[す]い<br>○[す]っぱい	酸[さん]		leech
+IA?d!Rwh4l	1546	猶	vacilar	waver	○[ゆう]予[よ]	猶[なお]		leech
+h:bMIPZfh.	1547	尊	reverencia	revered	○[そん]敬[けい]語[ご]	尊[みこと]		leech
+F(e,OW07E/	1548	豆	alubias	beans	○[とう]腐[ふ]<br><br>○[まめ]	豆[まめ]		
+l`/jloor08	1549	頭	cabeza	head	先[せん]○[とう]<br>○[ず]痛[つう]<br><br>○[あたま]	頭[あたま]		
+i)[|nDX$tc	1550	短	corto	short	○[たん]歌[か]<br><br>○[みじか]い	短[たん]		leech
+gbU>IDY^8n	1551	豊	provechoso	bountiful	○[ほう]富[ふ]<br><br>○[ゆた]か	豊[ゆたか]		
+up%_LAQ.px	1552	鼓	tambor	drum	太[たい]○[こ]<br><br>○[つづみ]	鼓[つづみ]		leech
+D(z69Nn[hn	1553	喜	alegría	rejoice	○[よろこ]ぶ	喜[き]		leech
+KchZ`{C!kX	1554	樹	árboles madereros	timber trees	○[じゅ]立[りつ]	樹[き]		leech
+n7ITG!6ewP	1555	皿	plato	dish	○[さら]<br>灰[はい]○[ざら]	皿[さら]		
+g!eD<xHvYJ	1556	血	sangre	blood	○[けつ]液[えき]<br><br>○[ち]	血[ち]		
+FwD[3emNS}	1557	盆	cuenca	basin	○[ぼん]<br>○[ぼん]地[ち]<br>○[ぼん]栽[さい]	盆[ぼん]		
+qcZ%g?^B?}	1558	盟	alianza	alliance	同[どう]○[めい]	盟[めい]		
+I_euHx6cA7	1559	盗	robar	steal	強[ごう]○[とう]<br><br>○[ぬす]む	盗[と]		
+M|KEgP^RO@	1560	温	caliente	warm	気[き]○[おん]<br>○[おん]度[ど]<br><br>○[あたた]かい	温[ぬる]		leech
+MA<,5Cg9iZ	1561	蓋	tapa	lid	○[ふた]	蓋[ふた]		
+Hwy_5O|{hc	1562	監	supervisar	oversee	○[かん]督[とく]<br>○[かん]視[し]	監[げん]		
+nCGF+3py@0	1563	濫	desbordarse	overflow	氾[はん]○[らん]	濫		leech
+O&d}PLAxZT	1564	鑑	espécimen	specimen	年[ねん]○[かん]	鑑[かん]		
+A0`sSBmnh9	1565	藍	índigo	indigo	○[あい]	藍[あい]		leech
+b6xp+|Hw-F	1566	猛	fiero	fierce	○[もう]烈[れつ]	猛[たけし]		
+dl/W[}loqB	1567	盛	auge	boom	○[せい]大[だい]<br>繁[はん]○[じょう]<br><br>○[も]る	盛[もり]		
+A(AYY.>g{i	1568	塩	sal	salt	食[しょく]○[えん]<br><br>○[しお]<br>○[しお]辛[から]い	塩[しお]		
+Jmwa@~9ycH	1569	銀	plata	silver	○[ぎん]行[こう]<br>○[ぎん]	銀[ぎん]		
+l@Wx~t2Hba	1570	恨	resentimiento	resentment	悔[かい]○[こん]<br><br>○[うら]む<br>○[うら]み	恨		
+s)Mir?vn|(	1571	根	raíz	root	○[こん]拠[きょ]<br><br>屋[や]○[ね]	根[ね]		
+PRpkb;r!N.	1572	即	instantáneo	instant	○[そっ]興[きょう]<br><br>○[すなわ]ち	即[そく]		
+z1)x~p*y<E	1573	爵	barón	baron	公[こう]○[しゃく]	爵[さく]		
+k!!bpF]IM%	1574	節	nódulo	node	季[き]○[せつ]<br><br>○[ふし]	節[ふし]		leech
+AYpsNmobb&	1575	退	retirada	retreat	○[たい]院[いん]<br><br>○[しりぞ]く	退[しさ]		
+eY!`yNjH@t	1576	限	confín	limit	制[せい]○[げん]<br><br>○[かぎ]る	限[きり]		leech
+i{gaCovjHl	1577	眼	globo ocular	eyeball	○[がん]球[きゅう]<br><br>○鏡[めがね]	眼[め]		
+l@r_>rcD~q	1578	良	bueno	good	○[りょう]心[しん]<br>不[ふ]○[りょう]<br><br>○[よ]い	良[りょう]		
+M/L5k)&CSs	1579	朗	melodioso	melodious	明[めい]○[ろう]<br><br>○[ほが]らか	朗[ろう]		leech
+yJkeK=|DIi	1580	浪	errante	wandering	○[ろう]人[にん]	浪[なみ]		
+Fc&(!9FSzX	1581	娘	hija	daughter	○[むすめ]	娘[むすめ]		
+f(l_z7W_r6	1582	食	comer	eat	○[しょく]事[じ]<br><br>○[く]う<br>○[た]べる	食[しょく]		
+o=i60lDS%]	1583	飯	comida (meal)	meal	ご ○[はん]<br><br>○[ぬし]	飯[めし]		leech
+PyzRl=Jk:!	1584	飲	beber	drink	○[いん]食[しょく]<br><br>○[の]む	飲[いん]		
+m8`HM7s2k.	1585	飢	hambriento	hungry	○[う]える	飢		leech
+EtBWll:O1O	1586	餓	inanición	starving	○[が]し	餓		
+dvdgFtV9(H	1587	飾	decorar	decorate	装[そう]○[しょく]<br><br>○[かざ]る	飾[かざり]		leech
+0U2[ZQvo@	1588	餌	cebo	feed	食[しょく]○[じ]<br><br>○[えさ]	餌[えさ]		
+Gd9)!=Ez^<	1589	館	Edificio (Bldg.)	Bldg.	旅[りょ]○[かん]<br>大[たい]使[し]○[かん]<br><br>○[やかた]	館[たて]		
+H1+SyYaCp?	1590	餅	mochi	mochi	煎[せん]○[べい]<br><br>○[もち]	餅[もち]		
+w6d-7@[).`	1591	養	fomentar	foster	栄[えい]○[よう]<br><br>○[やしな]う	養[よう]		leech
+"IO#+.AiS#c"	1592	飽	harto	sated	○[ほう]和[わ]<br><br>○[あ]きる	飽		
+ccl_$^-T}O	1593	既	previamente	previously	○[き]婚[こん]<br><br>○[すで]に	既[すんで]		leech
+kw}!HqV:(N	1594	概	aproximadamente	outline	○[がい]論[ろん]	概[がい]		leech
+EZyz*7tbQc	1595	慨	deplorar	rue	感[かん]○[がい]	慨		
+Q/xIyoVuEg	1596	平	llano	even	○[へい]和[わ]<br>○[びょう]等[どう]<br><br>○[たい]ら	平[たいら]		
+Chm[V`gJ^P	1597	呼	llamar	call	○[こ]吸[きゅう]<br><br>○[よ]ぶ	呼[こ]		
+G_AoqeoI@5	1598	坪	área de dos esteras	two-mat area	○[つぼ]	坪[つぼ]		leech
+go@G[8}T@Z	1599	評	evaluación	evaluate	○[ひょう]価[か]	評[ひょう]		leech
+v.[8+w$JL}	1600	刈	segar	reap	○[か]る	刈[かり]		
+JGq[LQcX;}	1601	刹	instante	moment	古[こ]○[さつ]<br><br>○[せつ]那[な]	刹[さつ]		
+okvx5zkQYl	1602	希	esperanza	hope	○[き]望[ぼう]	希[まれ]		leech
+L=`lm(%%ZT	1603	凶	villano	villain	○[きょう]作[さく]	凶[きょう]		leech
+O15dMEyX*9	1604	胸	pecho	bosom	○[たね]	胸[むね]		leech
+EPSS_iwGjE	1605	離	desprenderse	detach	○[はな]す	離[はなれ]		leech
+"Ia_$Z#FJZI"	1606	璃	cristal	crystal	瑠[る]○[り]	璃		
+KdRE:MtvyR	1607	殺	matar	kill	○[さつ]人[じん]<br><br>○[ころ]す	殺[や]		leech
+O(GP^u..B,	1608	爽	tonificante	bracing	○[そう]快[かい]<br><br>○[さわ]やか	爽		
+De2vjG5!h(	1609	純	genuino	genuine	単[たん]○[じゅん]<br>○[じゅん]粋[すい]	純[じゅん]		leech
+DFPUTTi4se	1610	頓	inmediato	inmediate	整[せい]○[とん]	頓[とみ]		leech
+vlHPvxQB[;	1611	鈍	embotado	dull	○[どん]感[かん]<br><br>○[にぶ]い<br>○[にぶ]る	鈍[どん]		
+eqg,Y(x6).	1612	辛	picante	spicy	○[しん]抱[ぼう]<br><br>○[から]い	辛[からし]		
+r)cG@dD.5S	1613	辞	dimitir	resign	○[じ]書[しょ]<br><br>○[や]める	辞[じ]		
+znqm>8y7t(	1614	梓	catalpa	catalpa	○[あずさ]	梓[あずさ]		leech
+JV!+1`:1~8	1615	宰	administrar	superintend	主[しゅ]○[さい]	宰[おさむ]		leech
+EL9rnL<S0i	1616	壁	pared	wall	○[かべ]	壁[かべ]		leech
+FF39mW%~NF	1617	璧	joya horadada	holed gem	完[かん]○[ぺき]	璧[へき]		
+DDD,o?C_[d	1618	避	refugiarse	evade	○[ひ]難[なん]<br><br>○[さ]ける	避		
+A909JY0G>!	1619	新	nuevo	new	○[しん]聞[ぶん]<br><br>○[あたら]しい<br>○[あら]た<br>○[にい]潟[がた]	新[しん]		
+r]N7iw?f5G	1620	薪	leña	firewood	○[たきぎ]<br>○[まき]割[わり]り	薪[たきぎ]		
+EJYM*3M&d<	1621	親	progenitor	parent	○[しん]友[ゆう]<br><br>○[した]しい	親[おや]		
+ils:_Q7Z~e	1622	幸	felicidad	happiness	不[ふ]○[こう]<br><br>○[しあわ]せ	幸[こう]		
+c^Up9aw_+Z	1623	執	tenaz	tenacious	○[しっ]筆[ぴつ]	執[と]		
+wAxqa!,jrK	1624	摯	formal	clasp	真[しん]○[し]	摯		
+"zpmsy(#I)}"	1625	報	informe	report	電[でん]○[ぽう]	報[ほう]		
+OIJ&9>h&7l	1626	叫	grito	shout	○[さけ]ぶ	叫		leech
+n.vth$LXt%	1627	糾	retorcer	twist	紛[ふん]○[きゅう]	糾		leech
+Cx-F]@3T0u	1628	収	rentas	income	○[しゅう]入[にゅう]<br><br>○[おさ]める	収[おさむ]		leech
+OgdyuQaaNJ	1629	卑	despreciable	despicable	○[ひ]怯[きょう]<br><br>○[いや]しい	卑		leech
+d8Cx9tpF1[	1630	碑	lápida	tombstone	記[き]念[ねん]○[ひ]	碑[いしぶみ]		
+s3WOn8Mazk	1631	陸	terrestre	land	大[たい]○[りく]	陸[りく]		
+q_0|pw4?c,	1632	睦	íntimo	intimate	親[しん]○[ぼく]	睦[あつし]		
+"E#r*@:?tg:"	1633	勢	fuerzas	forces	○[せい]力[りょく]	勢[ぜい]		leech
+l]]V&o_M.5	1634	熱	calor	heat	○[あつ]い	熱[ねつ]		leech
+mn~`gJ|G?J	1635	菱	diamante	diamond	○[ひし]形[がた]	菱[ひし]		
+M%xN2y7G3`	1636	陵	mausoleo	mausoleum	丘[きゅう]○[りょう]<br><br>○[みささぎ]	陵[りょう]		
+de3z6Og-^w	1637	亥	signo del jabalí	sign of the hog	○[い]年[どし]	亥[い]		
+g+oIK4Et@f	1638	核	núcleo	nucleus	結[けっ]○[かく]	核[かく]		
+Q3.gin*{13	1639	刻	cincelar	engrave	時[じ]○[こく]<br><br>○[きざ]む	刻[こく]		
+zdXrt*$f_p	1640	該	susodicho	above-stated	○[がい]当[とう]	該[がい]		
+Q(*,k+p5V{	1641	骸	despojos	remains	死[がい]○[がい]	骸[むくろ]		leech
+DA(r^K[xnf	1642	劾	denunciar	censure	弾[だん]○[がい]	劾		
+zbeqV^X+){	1643	述	mencionar	mention	記[き]○[じゅつ]<br><br>○[の]べる	述[じゅつ]		
+DSVNbj-b!I	1644	術	arte	art	技[ぎ]○[じゅつ]	術[じゅつ]		
+l[;}X|zBq@	1645	寒	frío	cold	○[さむ]い<br>○[さむ]き<br><br>○[かん]帯[たい]	寒[さむ]		
+b^2/.D66&O	1646	塞	ocluir	block up	閉[へい]○[そく]<br><br>○[ふさ]ぐ	塞		
+G7Gs|8P>b/	1647	醸	destilación	brew	○[じょう]造[ぞう]<br><br>○[かも]し 出[だ]す	醸		
+cgBTt}YZ}g	1648	譲	deferencia	defer	○[じょう]歩[ほ]<br><br>○[ゆず]る	譲[ゆずる]		
+inYOiI!gLv	1649	壌	parcela	lot	土[ど]○[じょう]	壌		
+glS:ls)s(x	1650	嬢	muchacha	lass	～ ○[じょう]	嬢[じょう]		leech
+s6F&(f>YG=	1651	毒	veneno	poison	○[どく]<br>消[しょう]○[どく]	毒[どく]		leech
+eYyL?q-ufC	1652	素	elemental	elementary	元[げん]○[そ]	素[もと]		leech
+h+xv=UNh7&	1653	麦	cebada	barley	○[ばく]芽[が]<br><br>小[こ]○[むぎ]	麦[むぎ]		
+bW!54ztP{h	1654	青	azul	blue	○[せい]年[ねん]<br><br>○[あお]<br>○[あお]い	青[あお]		
+kw:.C{y;bT	1655	精	refinado	refined	○[せい]神[しん]<br>○[せい]密[みつ]	精[せい]		
+LQJ&y24q$`	1656	請	solicitar	solicit	○[せい]求[きゅう]	請		leech
+sQcPKPuRle	1657	情	sentimientos	feelings	○[じょう]報[ほう]<br>表[ひょう]○[じょう]<br><br>○[なさ]け	情[じょう]		
+HKKLrHZDg4	1658	晴	despejado	clear up	快[かい]○[せい]<br><br>○[は]れる	晴[はれ]		
+ua_n-Qup,D	1659	清	puro	pure	○[せい]潔[けつ]<br><br>○[きよ]い<br>○[きよ]める	清[きよし]		
+Mg5NYd+zo=	1660	静	apacible	quiet	冷[れい]○[せい]<br>○[じょう]脈[みゃく]<br><br>○[しず]か	静[せい]		
+z^G,37_1H*	1661	責	inculpar	blame	○[せき]任[にん]<br><br>○[せ]める	責[せめ]		
+za8}wIi,C%	1662	績	hazaña	exploits	成[せい]○[せき]	績		leech
+vsJ1C47P(W	1663	積	volumen	volume	○[せき]雪[せつ]<br><br>○[つ]もる	積[せき]		leech
+LS*FuaYfU@	1664	債	fianza	bond	負[ふ]○[さい]	債[さい]		
+QQ/qoT*Gl4	1665	漬	escabeche	pickling	○[つ]ける	漬		leech
+"A_~#nN)9gy"	1666	表	superficie	surface	発[はっ]○[ぴょう]<br><br>○[おもて]<br>○[あらわ]す	表[ひょう]		
+Bv@J5lr4z,	1667	俵	bolsa	bag	米[こめ]○[だわら]	俵[たわら]		leech
+z)8.9foszk	1668	潔	inmaculado	undefiled	不[ふ]○[けつ]	潔[きよし]		
+Pq94k1*ZQA	1669	契	compromiso	pledge	○[けい]約[やく]<br><br>○[さぎ]る	契[ちぎり]		leech
+N@w]J|Rz{m	1670	喫	consumir	consume	○[きっ]茶[さ]店[てん]	喫		
+H+XjI^oi{e	1671	害	damnificar	harm	障[しょう]○[がい]	害[がい]		
+u[)32!}!gg	1672	轄	control	control	管[かん]○[かつ]	轄[くさび]		leech
+"O9CzS9-#JS"	1673	割	proporción	proportion	○[わ]る<br>○[わり]合[あい]<br>○[わ]れる	割[わり]		leech
+GK(yVVIXf%	1674	憲	constitución	constitution	○[けん]法[ぽう]	憲[けん]		leech
+wg+N@piNTQ	1675	生	vida	life	先[せん]○[せい]<br>一[いっ]○[しょう]<br><br>○[い]きる<br>○[うま]れる<br>○[はえ]る<br>～ ○[なま]	生[なま]		
+kfyh)[2J<6	1676	星	estrella	star	衛[えい]○[せい]<br><br>○[ほし]	星[ほし]		
+jmw@~;r]ud	1677	醒	despertar	awakening	覚[かく]○[せい]	醒		
+mR$xv`&2TL	1678	姓	apellido	surname	○[せい]名[めい]	姓[せい]		leech
+"m#0V/F=VLf"	1679	性	sexo	sex	男[だん]○[せい]<br>～ ○[せい]<br>○[せい]質[しつ]<br><br>○[こん]性[じょう]	性[せい]		
+Pzg1uDUY{*	1680	牲	sacrificio animal	animal sacrifice	犠[ぎ]○[せい]	牲[にえ]		leech
+"wv+#|?wS$"	1681	産	producción	products	○[さん]業[ぎょう]	産[さん]		leech
+CKV?VhQAi	1682	隆	giba	hump	○[りゅう]起[き]	隆[たかし]		leech
+fG{2VN{Oz1	1683	峰	cumbre	summit	霊[れい]○[ほう]<br><br>○[みね]	峰[みね]		leech
+jv~;M?%fAS	1684	蜂	abeja	bee	○[はち]蜜[みつ]	蜂[はち]		leech
+M}Gp[B/)X	1685	縫	coser	sew	裁[さい]○[ほう]<br><br>○[ぬ]う	縫[ぬい]		leech
+j0|y(aVtDU	1686	拝	venerar	worship	崇[すう]○[はい]<br><br>○[おが]む	拝[はい]		
+o<(4W3u:8Y	1687	寿	longevidad	longevity	○[じゅ]命[みょう]<br><br>○[ことぶき]	寿[ことぶき]		
+s4O^/PDjWo	1688	鋳	fundir&nbsp;	casting	○[ちゅう]造[ぞう]<br><br>○[い]型[がた]	鋳[い]		
+uEO$5nR;0^	1689	籍	inscribirse	enroll	国[かく]○[せき]	籍[せき]		leech
+c3Jx!{E&_0	1690	春	primavera	springtime	青[せい]○[しゅん]<br><br>○[はる]	春[はる]		
+gU,&[*hxEU	1691	椿	camelia	camellia	○[つばき]	椿[つばき]		
+d{p{8:XhZU	1692	泰	pacífico	peaceful	安[あん]○[たい]	泰[やすし]		leech
+"c/$#^N0DSK"	1693	奏	tocar música	play music	演[えん]○[そう]	奏[そう]		
+mql[}EOni.	1694	実	realidad	reality	○[じつ]に<br>事[じ]○[じつ]<br><br>○[み]<br>○[みの]る	実[み]		
+CI./_D^uFR	1695	奉	dedicar	dedicate	○[ほう]仕[し]	奉[たてまつ]		leech
+"l#pG90GAJj"	1696	俸	estipendio	stipend	年[ねん]○[ぽう]	俸[ほう]		
+n|0*!fV^Yr	1697	棒	cayado	rod	○[ぼう]<br>鉄[てつ]○[ぼう]	棒[ぼう]		
+wr5{$?T-F)	1698	謹	discreto	discreet	○[きん]慎[しん]<br><br>○[つつし]む	謹		
+m%Qcj/sd`*	1699	僅	mero	trifle	○[わず]か	僅		
+"JQI/s[#CND"	1700	勤	diligencia	diligence	通[つう]○[きん]<br><br>○[つと]める	勤[つとむ]		leech
+vgq4uq>{Kz	1701	漢	Sino-	Sino-	○[かん]字[じ]	漢[かん]		
+IDz;H^m6%|	1702	嘆	suspiro	sigh	感[かん]○[たん]<br><br>○[なげ]く	嘆[たん]		leech
+sW$S^~2kQ8	1703	難	difícil	difficult	困[こん]○[なん]<br><br>○[むずか]しい	難[なん]		
+mY+UiL5+Rj	1704	華	esplendor	splendor	○[か]美[び]<br><br>○[はな]やか	華[はな]		leech
+uQqU^4?peh	1705	垂	pender	droop	○[すい]直[ちょく]<br><br>○[た]れる	垂[しで]		
+fZ0N6kctb_	1706	唾	saliva	saliva	○[つば]	唾[つば]		
+"CITfs#(8~c"	1707	睡	somnoliento	drowsy	○[すい]眠[みん]	睡[ねむ]		leech
+eXxiCaud]u	1708	錘	huso (trompo)	spindle	○[つむ]	錘[つむ]		
+d%[w=3,l9a	1709	乗	montar	ride	○[じょう]車[しゃ]	乗[の]		leech
+"occ<^#hFT;"	1710	剰	exceso	surplus	過[か]○[じょう]	剰[あま]		leech
+w^zPaUKs9!	1711	今	ahora	now	○[こん]後[ご]<br><br>○[いま]<br><br>○年[ことし]<br>○日[きょう]	今[いま]		
+Kwv~dXRv{Y	1712	含	incluir	include	○[ふく]む<br>○[ふく]める	含		leech
+[S8F.TUzy	1713	貪	codiciar	covert	○[どん]欲[よく]<br><br>○[むさぼ]る	貪[むさぼ]		leech
+pjcn~hc;B|	1714	吟	versificar	versify	○[ぎん]味[み]	吟[ぎん]		leech
+KERsf8yWY0	1715	念	deseo	wish	○[ねん]<br>記[き]○[ねん]	念[ねん]		leech
+kRhV|r%-2{	1716	捻	torsión	wrench	○[ねん]挫[ざ]	捻[ひね]		leech
+"z-#Bm=x[Ou"	1717	琴	arpa	harp	○[きん]線[せん]<br><br>○[こと]	琴[きん]		
+ea~^_Jj/Ru	1718	陰	penumbra	shade	○[いん]気[き]<br><br>○[かげ]る	陰[かげ]		leech
+QZvQK5/0Px	1719	予	de antemano	beforehand	○[よ]定[てい]<br>○[よ]約[やく]	予[よ]		
+IW318c7C;S	1720	序	prefacio	preface	秩[ちつ]○[じょ]	序[じょ]		leech
+H=R`^},!hd	1721	預	depósito	deposit	○[よ]金[きん]	預[あずか]		
+z81Wa(b_tm	1722	野	llanura	plains	分[ぶん]○[や]<br><br>長[なが]○[の]	野[の]		leech
+CWDe!-wZct	1723	兼	al mismo tiempo	concurrently	○[けん]用[よう]	兼[けん]		
+sC_v.e7o-i	1724	嫌	desagradar	dislike	機[き]○[げん]<br><br>○[きら]い<br>○[いや]がる	嫌[いや]		
+iTR&F`dg^b	1725	鎌	hoz	sickle	○[かま]	鎌[かま]		
+wK?9_V%/K]	1726	謙	modesto	self-effacing	○[けん]虚[きょ]<br>○[けん]譲[じょう]語[ご]	謙[けん]		leech
+MLJRfDH.&V	1727	廉	ganga	bargain	精[せい]○[れん]	廉[れん]		
+pWz2fBeRP6	1728	西	oeste	west	○[せい]部[ぶ]<br>東[とう]○[ざい]<br><br>○[にし]<br>○[せい]洋[よう]	西[にし]		
+D1efSx/[fr	1729	価	valor (value)	value	○[か]格[かく]<br>○[か]値[ち]	価[あたい]		
+P0Mp.Xdv&`	1730	要	necesitar	need	重[じゅう]○[よう]<br>必[ひつ]○[よう]<br><br>○[い]る	要[よう]		
+y*,q0S^5Z:	1731	腰	caderas	loins	○[こし]掛[かけ]ける<br><br>○[よう]痛[つう]	腰[こし]		
+F;Z2VJHlVa	1732	票	voto	ballot	投[とう]○[ひょう]	票[ひょう]		
+lvC!,yxb&K	1733	漂	a la deriva	drift	○[ただよ]う	漂		
+c^}],=YonW	1734	標	señal	signpost	目[もく]○[ひょう]	標[しめぎ]		
+zkQ,@J8]/f	1735	栗	castaño	chestnut	○[くり]	栗[くり]		
+tipgT]tXs9	1736	慄	escalofrío	shudder	戦[せん]○[りつ]	慄		leech
+y).mHta@k@	1737	遷	transición	transition	変[へん]○[せん]	遷		leech
+dB6}2xU30m	1738	覆	volcar	capsize	○[くつがえ]す	覆[くつがえ]		leech
+g][TMuf.&J	1739	煙	humo	smoke	禁[きん]○[えん]<br><br>○[けむり]<br><br>○草[たばこ]	煙[けむり]		
+z`fp]i5S|]	1740	南	sur	south	○[なん]北[ぼく]<br><br>○[みなみ]	南[みなみ]		
+BMxcd4JGoW	1741	楠	alcanforero	camphor tree	○[くすのき]	楠[くすのき]		
+ut_Qk(YvP^	1742	献	donación	offering	貢[こう]○[けん]	献		
+ev6<1/PU9v	1743	門	verja	gates	正[せい]○[もん]<br><br>○[かど]口[ぐち]	門[もん]		
+yaJV~R[;AU	1744	問	pregunta	question	○[もん]題[だい]<br>質[しつ]○[もん]<br><br>○[と]う	問[とい]		
+B~uN;/5~[C	1745	閲	pasar revista	review	○[えつ]覧[らん]	閲[えつ]		
+ced^~il5!v	1746	閥	camarilla	clique	財[ざい]○[ばつ]	閥[ばつ]		leech
+h.6Z/8DqhQ	1747	間	intervalo	interval	時[じ]○[かん]<br>人[にん]○[げん]<br><br>○[あいだ]<br>○[ま]	間[ま]		
+dS:|HxeK?q	1748	闇	tinieblas	pitch dark	○[やみ]<br>暗[くら]○[やみ]	闇[やみ]		
+OpNMY,1[ZH	1749	簡	sencillo	simplicity	○[かん]単[たん]	簡[かん]		leech
+Q6%pT0}}7_	1750	開	abierto	open	○[かい]始[し]<br><br>○[ひら]く<br>○[あ]く<br>○[あ]ける	開[ひらく]		
+i7aWy:9Aq`	1751	閉	cerrado	closed	○[へい]鎖[さ]<br><br>○[し]める<br>○[し]まる<br>○[と]じる	閉		
+I-A$4$7T~S	1752	閣	torre	tower	内[ない]○[かく]	閣		
+mWI$0.A+4s	1753	閑	ocio	leisure	○[かん]静[せい]	閑[かん]		leech
+BxUy*qxB[y	1754	聞	oír	hear	新[しん]○[ぶん]<br><br><br>○[き]く<br>○[き]こえる	聞		
+N/71F-v.Oy	1755	潤	mojado	wet	○[うるお]う	潤[じゅん]		leech
+N~bm(Oza!@	1756	欄	columna tipográfica	column	〜 ○[らん]	欄[らん]		
+q)7,ru<Jo2	1757	闘	lucha	fight	戦[せん]○[とう]	闘		leech
+"PlMf#.aSV)"	1758	倉	granero	godown	○[そう]庫[こ]<br><br>○[くら]	倉[くら]		
+Au!IVmx%SS	1759	創	génesis	genesis	○[そう]作[さく]<br><br>作[つく]る・ ○[つく]る	創[そう]		leech
+yBXn!+3[Ce	1760	非	sin	un-	○[ひ]-<br><br>○[ひ]常[じょう]	非[ひ]		
+Bb%sA9ic;}	1761	俳	haiku	haiku	○[はい]句[く]	俳		
+D~&@,Cr[--	1762	排	repudiar	repudiate	○[はい]除[じょ]	排[はい]		leech
+rMk-`(F[H?	1763	悲	triste	sad	○[ひ]劇[げき]<br><br>○[かな]しい	悲[ひ]		leech
+x+Zl9B`PlI	1764	罪	culpabilidad	guilt	○[つみ]	罪[つみ]		leech
+d=6COy{a0!	1765	輩	camarada	comrade	先[せん]○[ぱい]	輩[ともがら]		
+n|8hF_?Is[	1766	扉	puerta principal	front door	○[とびら]	扉[とびら]		
+JRUCd4f4Ls	1767	侯	marqués	marquis	諸[しょ]○[こう]	侯[ほう]		leech
+ueP)q~T}5&	1768	喉	garganta	throat	○[のど]	喉[のど]		
+hg{ry7y[7m	1769	候	clima	climate	気[き]○[こう]	候[こう]		leech
+vK-GNu?W>e	1770	決	decidir	decide	解[かい]○[けつ]<br><br>○[さめる]	決[けつ]		
+C;EERuKPZ[	1771	快	alegre	cheerful	○[かい]晴[せい]<br><br>○[こころよ]い	快[こころよ]		
+bli$S`MM@b	1772	偉	admirable	admirable	○[い]大[だい]<br><br>○[えら]い	偉[えら]		leech
+t0%PC8A)]b	1773	違	diferencia	difference	○[い]反[はん]<br><br>○[ちが]う	違		
+O?<4<UGJ;k	1774	緯	horizontal	horizontal	○[い]度[ど]	緯[ぬき]		
+kPJT%=)>Uo	1775	衛	defensa	defense	○[えい]生[せい]<br>自[じ]○[えい]	衛[まもる]		
+AvO:5aFSXJ	1776	韓	Corea	Korea	○[かん]国[こく]	韓[かん]		
+e)Z`;(Y)61	1777	干	secar	dry	○[ほ]す	干[ひ]		leech
+JMpxSsP,wD	1778	肝	hígado	liver	○[かん]臓[ぞう]	肝[きも]		
+Au1699(z?y	1779	刊	publicación	publish	夕[ゆう]○[かん]	刊[かん]		
+QLI1W6&A=|	1780	汗	sudor	sweat	○[あせ]	汗[あせ]		
+sp0;cnBe?A	1781	軒	alero	flats	(+)〜 ○[けん]<br><br>○[のき]	軒[のき]		
+z0tgE**^S?	1782	岸	playa	beach	海[かい]○[がん]<br><br>○[さし]	岸[きし]		leech
+navY7a^9am	1783	幹	tronco del árbol	tree trunk	○[かん]線[せん]	幹[みき]		
+K<WFC,.@6B	1784	芋	patata	potato	○[いも]	芋[いも]		
+si/8V~(V0a	1785	宇	universo	eaves	○[う]宙[ちゅう]	宇[う]		
+NyBQR17?[!	1786	余	excesivo	too much	○[よ]裕[ゆう]<br>○[よ]分[ぶん]<br><br>○[あま]る	余[よ]		leech
+"d{Y,L0#XKP"	1787	除	excluir	exclude	解[かい]○[じょ]<br>掃[そう]○[じ]<br><br>○[のぞ]く	除[じょ]		leech
+r/W~ZwX)Fx	1788	徐	progresivamente	gradually	○[じょ]々[じょ]	徐[じょ]		leech
+b+d:$,.W<`	1789	叙	conferir	confer	自[じ]○[じょ]伝[てん]	叙[じょ]		
+m(Ly_V14q+	1790	叙	ruta	route	○[と]中[ちゅう]	叙[じょ]		leech
+KFRK;%R-G)	1791	斜	diagonal	diagonal	傾[けい]○[しゃ]<br><br>○[なな]め	斜[はす]		leech
+v,(_py=Itr	1792	塗	pintura	paint	○[ぬ]る	塗[ぬり]		leech
+NFuqiZ1+:q	1793	束	manojo	bundle	約[やく]○[そく]<br><br>○[たば]	束[たば]		
+hLN,oP_;P:	1794	頼	confianza	trust	○[たよ]る	頼[よりゆき]		
+d(|F|5jibI	1795	瀬	rápidos	rapids	浅[あさ]○[せ]	瀬[せら]		
+bFYTT?zs~q	1796	勅	orden imperial	imperial order	詔[しょう]○[ちょく]	勅[みことのり]		leech
+d7O4z~r=}Z	1797	疎	enajenar	alienate	○[そ]外[がい]	疎[うと]		
+E.~Z$j1R3L	1798	辣	amargo	bitter	辛[しん]○[らつ]	辣		
+sH^n3B`a~,	1799	速	rápido	quick	○[そく]度[ど]<br><br>○[はや]い	速[はや]		leech
+pw:/6D8faH	1800	整	organizar	organize	調[ちょう]○[せい]<br><br>○[ととの]える	整[せい]		leech
+yyGS^eD2dv	1801	剣	sable	saber	○[けん]道[どう]	剣[けん]		
+m%|(S5+sds	1802	険	escarpado	pecipitous	危[き]○[けん]<br><br>○[けわ]しい	険[けん]		leech
+MI?TP^<N]v	1803	検	test	examination	○[けん]査[さ]	検[けん]		
+j{GUkp%+,E	1804	倹	frugal	frugal	○[けん]約[やく]	倹[けん]		
+hG^p)/4>P3	1805	重	pesado	heavy	○[じゅう]大[だい]<br>○[き]重[ちょう]<br><br>○[おも]い<br>○[かさ]なる	重[おも]		
+E{LkKj7=7F	1806	動	mover	move	○[どう]物[ぶつ]<br><br>○[うご]く<br>○[うご]かす	動[どう]		
+oIaefbL62u	1807	腫	tumor	tumor	○[は]れる	腫[しゅ]		
+AvH:$bvXss	1808	勲	proeza meritoria	meritorious deed	○[くん]章[しょう]	勲[くん]		
+NAz,j8}]xn	1809	働	trabajar	work	労[ろう]○[どう]者[しゃ]<br><br>○[はたら]く	働		
+b:@yVz;SY&	1810	種	especie	species	○[しゅ]類[るい]	種[たね]		
+"kF-#f&$+-="	1811	衝	chocar	collide	○[しょう]突[とつ]	衝[しょう]		leech
+m@_^clW;2]	1812	薫	fragante	fragrant	○[かお]り	薫[かおる]		leech
+w?l]G6.YDD	1813	病	enfermo	ill	○[びゃう]気[き]<br><br>○[や]む<br>○[やまい]	病[やまい]		leech
+e5)-}8o1GJ	1814	痴	estúpido	stupid	愚[ぐ]○[ち]	痴[おこ]		
+"qD].a`i#/P"	1815	痘	viruela	pox	水[すい]○[とう]	痘[いも]		
+qm5OqN</pt	1816	症	síntomas	symptoms	○[しょう]状[じょう]	症[しょう]		
+6YWiu$@h6	1817	瘍	quiste	carbuncle	腫[しゅ]○[よう]	瘍		
+Av2HLLozsg	1818	痩	adelgazar	lose weight	○[そう]身[しん]<br><br>○[や]せる	痩		
+z}z72-)0_9	1819	疾	raudamente	rapidly	悪[あく]○[しつ]	疾		leech
+j&M!;6UN;p	1820	嫉	dentera	envy	○[しっ]妬[と]	嫉		leech
+tmi:hdg9/O	1821	痢	diarrea	diarrhea	下[げ]○[り]	痢		
+C{(y21OJ$2	1822	痕	cicatriz	scar	血[けっ]○[こん]	痕[あと]		
+zZD)_|vwnN	1823	疲	cansado	tired	○[ひ]労[ろう]<br><br>○[つか]れる	疲		
+cg68>LOb9i	1824	疫	epidemia	epidemic	免[めん]○[えき]	疫		
+qi;rD$s+|p	1825	痛	dolor	pain	頭[ず]○[つう]<br><br>○[いた]い<br>○[いた]み	痛[いた]		
+dP>vr7PU-&	1826	癖	tic	mannerism	口[くち]○[ぐせ]	癖[くせ]		
+ILP069>[?v	1827	匿	esconderse	hide	○[とく]名[めい]	匿[とく]		leech
+"ip#.M{jM8<"	1828	匠	artesano	artisan	巨[きょ]○[しょう]	匠[たくみ]		leech
+kViv`&>]4:	1829	医	médico	doctor	○[い]者[しゃ]<br>○[い]学[がく]	医[い]		
+dxm%yj%XOW	1830	匹	igual<br>animal peq.¹²³--	equal	○[ひっ]敵[てき]<br><br>〜 ○[ひき]<br>数[すう]○[ひき]	匹[ひき]		leech
+"M#w3V<Ew6a"	1831	区	distrito	ward	地[ち]○[く]	区[く]		
+JC;cy5p%K:	1832	枢	bisagra	hinge	中[ちゅう]○[すう]	枢[くるる]		
+F*?ZzJv*Gr	1833	殴	asalto	assault	○[なぐ]る	殴[なぐ]		leech
+PFHtvvPs8H	1834	欧	Europa	Europe	○[おう]米[べい]	欧[おう]		
+"r6z#54c9?p"	1835	抑	reprimir	repress	○[よく]制[せい]	抑[そもそも]		leech
+dcN[Q>BJt9	1836	仰	boca arriba	faceup	信[しん]○[こう]	仰[おっしゃ]		leech
+ERM/wQ/yK7	1837	迎	bienvenido	welcome	歓[かん]○[げい]<br><br>○[むか]える	迎[むかい]		
+"F{#`*;{}U9"	1838	登	ascender	ascend	○[と]山[ざん]	登[とう]		leech
+L|Pq81Z@QB	1839	澄	resplandeciente	lucidity	○[す]む	澄[きよし]		leech
+FEt+%k?[V0	1840	発	partida	discharge	○[はつ]明[めい]	発[はつ]		leech
+b^C(Y{<t/p	1841	廃	abolición	abolish	○[はい]止[し]<br><br>○[すた]れる	廃[はい]		leech
+Gp}(]FsI/t	1842	僚	colega	colleague	同[どう]○[りょう]	僚		
+MR!xu=e[k)	1843	瞭	obvio	obvious	明[めい]○[りょう]	瞭[あきら]		
+q?yx,*-h,1	1844	寮	residencia (dorm)	dormitory	○[りょう]	寮[りょう]		
+ygl52[jdAJ	1845	療	terapia	heal	医[い]○[りょう]	療		
+Qp,Rz=Zs-t	1846	彫	esculpir	carve	○[ちょう]刻[こく]<br><br>○[ほ]る	彫[え]		leech
+t81xk{+%h4	1847	形	forma	shape	○[けい]式[しき]<br>人[にん]○[ぎょう]<br><br>○[かたち]	形[かたち]		
+A/u-00{2v-	1848	影	sombra	shadow	○[えい]響[きょう]<br><br>人[ひと]○[かげ]	影[かげ]		
+"zQi=86t#`|"	1849	杉	cedro	cedar	○[すぎ]	杉[すぎ]		
+"c#2khj,eaG"	1850	彩	colorear	coloring	色[しき]○[さい]<br><br>○[いろど]る	彩[いろどり]		
+"Jrk[9V#5+X"	1851	彰	patente	patent	表[ひょう]○[しょう]	彰[あきら]		leech
+3R[wD.p@@	1852	彦	chico	lad	○[ひこ]	彦[ひこ]		leech
+mm%qrZLr!&	1853	顔	cara	face	○[がん]面[めん]<br><br>横[よこ]○[かお]	顔[かお]		
+thif$^f+rt	1854	須	deber	ought	必[ひっ]○[す]	須		leech
+vx-Cl5/;`|	1855	膨	hincharse	swell	○[ぼう]大[だい]	膨		leech
+L9Ze).Nzx-	1856	参	presenciar	visit	○[さん]加[か]<br><br>○[まい]る	参[さん]		
+w(Ku!nT-|u	1857	惨	desventurado	wretched	悲[ひ]○[さん]<br><br>○[めじ]め	惨[むご]		
+u}Ayb$anM[	1858	修	disciplina	discipline	○[しゅう]正[せい]	修[おさむ]		leech
+H?p@at!x^E	1859	珍	raro	rare	○[めずら]しい	珍[ちん]		leech
+N;Cf;@r)6u	1860	診	chequeo	checkup	○[しん]察[さつ]<br><br>○[み]る	診[み]		
+pF-co7(;hp	1861	文	oración	sentence	作[さく]○[ぶん]<br>文[もん]字[じ]<br><br>恋[こい]○[ぶみ]	文[ぶん]		
+r0O<&}@v=~	1862	対	frente a frente	vis-à-vis	反[はん]○[たい]	対[たい]		leech
+L;fjJI.QUw	1863	紋	blasón familiar	family crest	指[し]○[もん]	紋[もん]		
+x&q=_OgtrG	1864	蚊	mosquito	mosquito	○[か]	蚊[か]		leech
+F5S&.~YzrV	1865	斑	jaspeado	speckled	○[はん]点[てん]	斑[むら]		
+"pzxf#3>;[-"	1866	斉	simétrico	adjusted	一[いっ]○[せい]	斉[ひとし]		
+GyW`=FLGlI	1867	剤	dosis	dose	洗[せん]○[ざい]	剤[ざい]		
+N^kl44J0I9	1868	済	terminar	finish	救[きゅう]○[さい]<br><br>○[す]む	済[すみ]		leech
+"HHZ!/#65(."	1869	斎	purificación	purification	書[しょ]○[さい]<br><br>○[さい]場[じょう]	斎[とき]		leech
+uX@s6a]^^%	1870	粛	solemne	solemn	厳[げん]○[しゅく]	粛		leech
+pg6-_XVOSA	1871	塁	bases	bases	敵[てき]○[るい]	塁[るい]		
+v0u]B<<?}f	1872	楽	música	music	音[おん]○[がく]<br>娯[ご]○[らく]<br><br>○[たの]しい<br>○[たの]しむ	楽[らく]		
+yu2J7[&ck+	1873	薬	medicina	medicine	○[やっ]局[きょく]<br>○[やく]品[ひん]<br><br>○[くすり]	薬[くすり]		
+Ewp8yu$M|F	1874	率	porcentaje	ratio	比[ひ]○[りつ]	率[りつ]		leech
+OipP-6p!=:	1875	渋	astringente	astringent	○[じゅう]滞[たい]<br><br>○[しぶ]い<br>○[しぶ]る	渋[しぶ]		
+H^hJjqujoc	1876	摂	delegado	vicarious	○[せっ]取[しゅ]	摂[と]		leech
+btynTHt4K@	1877	央	centro	center	中[ちゅう]○[おう]	央[ひさし]		
+h!aiRc_oNV	1878	英	Inglaterra	England	○[えい]雄[ゆう]	英[えい]		
+Qs-qNSqnK&	1879	映	reflejar	reflect	○[えい]画[が]<br><br>○[うつ]る	映[うつ]		
+fejQa^*?Kh	1880	赤	rojo	red	○[せき]道[どう]<br><br>○[あか]<br>○[あか]ん 坊[ぼう]	赤[あか]		
+KaM=<JxC/v	1881	赦	perdón	pardon	容[よう]○[しゃ]	赦		leech
+"rbT_Q`k!:#"	1882	変	insólito	unusual	大[たい]○[へん]	変[へん]		leech
+ht<_0JR4:g	1883	跡	rastro	tracks	遺[い]○[せき]<br><br>足[あし]○[あと]	跡[あと]		leech
+fb{7*+Ok}h	1884	蛮	bárbaro	barbarian	野[や]○[ばん]	蛮		
+n89||1ly&&	1885	恋	romance	romance	失[しつ]○[れん]<br><br>初[はつ]○[こい]<br>○[こい]しい	恋[こい]		
+q:NK4dO$zH	1886	湾	golfo	gulf	港[こう]○[わん]	湾[わん]		leech
+trQu])aq<;	1887	黄	amarillo	yellow	○[き]色[いろ]い<br>○[おう]金[ごん]	黄[き]		
+d*HhtIG|n0	1888	横	de soslayo	sideways	○[おう]断[だん]<br><br>○[よこ]	横[よこ]		
+w~rhM.V-_f	1889	把	agarrar	grasp	○[は]握[あく]	把[わ]		leech
+"m{>{D#kN.?"	1890	色	color	color	特[とく]○[しょく]<br>○[しき]彩[さい]<br><br>○[いろ]	色[いろ]		
+"JW#gUBX1.G"	1891	絶	discontinuo	discontinue	○[ぜつ]滅[めつ]<br><br>○[た]える	絶[ぜっ]		
+tR;dwn[}9X	1892	艶	satinado	glossy	妖[よう]○[えん]<br><br>○[つや]々[つや]	艶[つや]		
+Ald7nu~+cd	1893	肥	fertilizante	fertilizer	○[ひ]料[りょう]	肥[こえ]		leech
+Q{Z|Yb}P3j	1894	甘	dulce	sweet	○[あま]い<br>○[あま]やかす	甘[あま]		
+rh4uoM^SK<	1895	紺	azul oscuro	navy blue	○[こう]屋[や]	紺[こん]		leech
+y11u_a{5)(	1896	某	fulanito de tal	so-and-so	○[ぼう]	某[ぼう]		
+k@B[twW=*B	1897	謀	conspirar	conspire	○[はか]る	謀[はかりごと]		
+ma!H;moqOf	1898	媒	mediador	mediator	○[ばい]介[かい]	媒[なかだち]		
+"k~jm4_F#Sc"	1899	欺	timo	deceit	詐[さ]○[ぎ]<br><br>○[あざむ]く	欺		leech
+"O@+6APSV#R"	1900	棋	trebejo	chess piece	将[しょう]○[ぎ]	棋[ご]		
++i2lWaI<)	1901	旗	bandera nacional	national flag	国[こっ]○[き]<br><br>○[はた]	旗[はた]		
+Hxg_j`^w.A	1902	期	período	period	○[き]待[たい]<br>最[さい]○[ご]	期[き]		
+K}tB[iqyF9	1903	碁	<i>go</i> (juego)	<i>Go</i>	○[ご]盤[ばん]	碁[ご]		
+ODQUT&3$qK	1904	基	cimientos	fundamentals	○[き]礎[そ]<br>○[き]本[ほん]<br><br>○[おとい]<br>○[もと]づく	基[もと]		
+F006O5-j>Z	1905	甚	enormemente	tremendously	○[はなは]だしい	甚		leech
+E,Ex{cmMfO	1906	勘	intuición	intuition	○[かん]定[じょう]	勘[かん]		leech
+zB]h=?WO7Q	1907	堪	resistir	withstand	○[かん]忍[にん]	堪[たま]		leech
+Dt6mS:/{TH	1908	貴	precioso	precious	○[き]重[ちょう]<br><br>○[とうと]い<br><br>○方[あなた]	貴[とうと]		
+"bQk#ql]nrA"	1909	遺	legar	bequeath	○[い]跡[せき]	遺[のこ]		leech
+kW0Uh/&S*;	1910	遣	despachar	dispatch	派[は]○[けん]<br><br>○[つか]う｜ 使[つか]う	遣[や]		leech
+Qpy&Bhs^ZE	1911	潰	arruinar	defile	○[つぶ]れる	潰		leech
+eBiT:;,.8X	1912	舞	revolotear	dance	○[ぶ]台[たい]<br><br>○[ま]う	舞[まい]		
+Q~Fmn8KCVd	1913	無	nada	nothingness	○[む]限[げん]<br><br>○[ぶ]事[じ]<br>○[な]くす	無[む]		
+"C0#0aWx,f?"	1914	組	asociación	association	○[そ]織[しき]<br><br>○[く]む<br>番[ばん]○[ぐみ]	組[くみ]		
+F2jl5p/a>+	1915	粗	burdo	coarse	○[そ]野[や]<br><br>○[あら]い	粗[ほぼ]		
+DARzNv)[1V	1916	租	tarifa	tariff	○[そ]税[ぜい]	租		leech
+jGGI=p$i(T	1917	狙	apuntar a	aim at	○[ねら]う	狙		
+urej20$VR;	1918	祖	antepasado	ancestor	○[そ]父[ふ]	祖[そ]		leech
+"D##78TaHqu"	1919	阻	estorbo	thwart	○[そ]止[し]<br><br>○[はば]む	阻		
+K)t1){4Hvn	1920	査	investigar	investigate	巡[じゅん]○[さ]	査		leech
+v~dHo{Fm$|	1921	助	ayuda	help	救[きゅう]○[じょ]<br><br>○[たす]ける	助[すけ]		leech
+oGmevDV/@B	1922	宜	saludos cordiales	best regards	便[べん]○[ぎ]<br><br>○[よろ]しい	宜[むべ]		leech
+B$W=0=CUeu	1923	畳	estera tatami	tatami mat	○[たた]む	畳[たたみ]		
+CFaT3gJr!V	1924	並	fila	row	○[へい]行[こう]<br><br>○[なみ]｜ ○[な]み<br>○[なら]ぶ	並[なみ]		
+HIyj$1GjY*	1925	普	universal	universal	○[ふ]通[つう]	普[ひろし]		leech
+pE101Dr4.6	1926	譜	partitura	musical score	楽[がく]○[ふ]	譜[ふ]		
+rh3^)u}0h9	1927	湿	húmedo	damp	○[しつ]度[ど]<br><br>○[しめ]る	湿[しめ]		
+s}x|o}+6X5	1928	顕	manifiesto	appear	○[けん]微[び]鏡[きょう]	顕[あらわ]		
+r,z.ex%+<%	1929	繊	esbelto	slender	○[せん]維[い]	繊[せん]		
+P/fXHE:`X|	1930	霊	espíritu(s)	spirits	幽[ゆう]○[れい]	霊[れい]		
+"JP6QSS_-#d"	1931	業	profesión	profession	産[さん]○[ぎょう]	業[ごう]		
+l}gXAI>LY5	1932	撲	abofetear	slap	打[だ]○[ぼく]<br><br>相○[すもう]	撲[なぐ]		
+Aua&09C)BD	1933	僕	servidor	me	○[ぼく]	僕[ぼく]		
+eQ4vFp/;8Q	1934	共	juntos	together	○[きょう]通[つう]<br><br>○[とも]に	共[とも]		leech
+xlfw<?it=[	1935	供	entregar	submit	○[きょう]給[きゅう]<br><br>子[こ]○[ども]	供[きょう]		
+y7Fq`i09<x	1936	異	singular	uncommon	○[い]論[ろん]<br><br>○[こと]なる	異[あや]		
+c`oxl6>c~X	1937	翼	ala	wing	左[さ]○[よく]<br><br>○[つばさ]	翼[つばさ]		leech
+o%:lZR%+*X	1938	戴	aceptar humildemente	accept humbly	頂[ちょう]○[だい]	戴		leech
+eP6.l+MJX>	1939	洪	anegar	deluge	○[こう]水[ずい]	洪[ひろし]		leech
+n`V|T<3tnP	1940	港	puerto	harbor	出[しゅっ]○[こう]<br><br>○[みなと]	港[みなと]		
+v6?=@)CDTr	1941	暴	explosión	outburst	乱[らん]○[ぼう]	暴		leech
+IsEAp<F<@f	1942	爆	bomba	bomb	○[ばく]発[はつ]<br>○[ばく]弾[だん]	爆		
+bVKnyvaY/J	1943	恭	cortesía	respect	○[うやうや]しい	恭[きょう]		leech
+La,@Z@.hcG	1944	選	elección	elect	○[せん]択[たく]<br><br>○[えら]ぶ	選[せん]		leech
+bH+Ft}sboA	1945	殿	Sr.	Mr.	宮[きゅう]○[でん]<br><br>○[との]様[さま]	殿[しんがり]		leech
+NOD)W^&.Nh	1946	井	pozo	well	油[ゆ]○[せい]<br>天[てん]○[じょう]<br><br>○[い]戸[ど]	井[い]		
+DA:pPEY/3J	1947	丼	<i>donburi</i>	<i>donburi</i>	○[どんぶり]	丼[どんぶり]		
+LGIeGD58U=	1948	囲	rodear	surround	範[はん]○[い]<br><br>○[かこ]む	囲		leech
+Kb7_{2PIM`	1949	耕	labrar	till	○[こう]地[ち]<br><br>○[たがや]す	耕[こう]		leech
+"O$ad$#fZ%="	1950	亜	Asia	Asia	○[あ]～	亜[あ]		
+C3<[D)]J{Z	1951	悪	malo	bad	○[あく]魔[ま]<br>憎[ぞう]○[お]<br><br>○[わる]い	悪[わる]		
+b&v1B!yCS`	1952	円	círculo	circle	～ ○[えん]<br>○[えん]周[しゅう]<br>○[えん]熟[じゅく]<br><br>○[まる]い	円[えん]		
+BvGNMH:Z?F	1953	角	ángulo	angle	○[かく]度[ど]<br><br>○[かど]<br>○[つの]	角[かく]		
+40?Bi)w*_	1954	触	contacto	contact	○[さわ]る	触[さわ]		leech
+p&)mA+OmNx	1955	解	solucionar	unravel	○[かい]決[けつ]<br>理[り]○[かい]<br><br>○[と]く<br>○[と]ける	解[かい]		leech
+H+UEO]%?-D	1956	再	de nuevo	again	○[さい]度[ど]<br><br>○[ふたた]び	再[さい]		
+ND^ui?G;Sy	1957	講	conferencia	lecture	○[こう]演[えん]	講[こう]		
+"b]-#w=N[wf"	1958	購	suscripción	subscription	○[こう]入[にゅう]	購		
+jc5?oC?e}6	1959	構	postura	posture	○[こう]造[ぞう]<br><br>○[かま]う<br>○[かま]える	構[かじ]		
+rh_z*0^f>R	1960	溝	canal	gutter	側[そっ]○[こう]<br><br>○[みぞ]	溝[みぞ]		
+ke:Kh,6^SD	1961	論	argumento	argument	議[ぎ]○[ろん]<br>結[けつ]○[ろん]	論[ろん]		
+ifb3`s_&xp	1962	倫	ética	ethics	○[りん]理[り]	倫[りん]		
+CVUYW0X31I	1963	輪	rueda	wheel	車[しゃ]○[りん]<br><br>○[わ]<br>指[ゆび]○[わ]	輪[わ]		
+J$^;!>ZD3A	1964	偏	parcial	partial	○[へん]見[けん]	偏[へん]		
+dL<gsj5>-V	1965	遍	omnipresente	everywhere	普[ふ]○[へん]	遍[あまね]		leech
+GwP*W=L$vj	1966	編	recopilación	compilation	○[へん]<br><br>○[あ]む	編[へん]		
+g(&>s};xCM	1967	冊	tomo	tome	〜 ○[さつ]<br>小[そう]○[さっ]子[し]	冊[さつ]		leech
+KgZ*h3m@(D	1968	柵	empalizada	palisade	○[さく]	柵[しがらみ]		
+fiiCrO-LG~	1969	典	código	code	古[こ]○[てん]<br>○[てん]型[けい]	典[てん]		
+i3/@?uciLS	1970	氏	nombre de familia	family name	～ ○[し]<br>○[し]名[めい]<br><br>○[うじ]	氏[し]		
+sX`*&Jq;+{	1971	紙	papel	paper	○[し]幣[へい]<br><br>手[て]○[がみ]	紙[かみ]		
+McA]UaUt!C	1972	婚	casarse	marriage	結[けっ]○[こん]	婚[こん]		leech
+v7:Hp}BcX,	1973	低	rebajar	lower	○[ひく]い	低[ひく]		
+H|!&9WsYIk	1974	抵	rebatir	resist	○[てい]抗[こう]	抵		leech
+eG57_d/R2Y	1975	底	fondo	bottom	海[かい]○[てい]<br><br>○[そこ]	底[そこ]		leech
+Ie.!=@UW~`	1976	民	gente	people	国[こく]○[みん]<br>市[し]○[みん]<br>住[じゅう]○[みん]<br><br>○[たみ]	民[みん]		
+lxk7$NTJ}r	1977	眠	dormir	sleep	睡[すい]○[みん]<br><br>○[ねむ]る	眠[ねむり]		
+Hlv{@^W-+2	1978	捕	capturar	catch	○[ほ]虜[りょ]	捕[と]		leech
+zyN7r%4j.~	1979	哺	mamar	suckle	○[ほ]乳[にゅう]類[るい]	哺		
+wF?4bMw^-	1980	浦	bahía	bay	○[うら]	浦[うら]		
+BK5+9Zj.%p	1981	蒲	anea	bullrush	菖[しょう]○[ぶ]	蒲[かば]		leech
+HWFw:<Kyx[	1982	舗	comercio	shop	店[てん]○[ぽ]	舗[ほ]		leech
+z~[M;sXh2X	1983	補	suplemento	supplement	候[こう]○[ほ]<br><br>○[おきな]う	補[ほ]		
+q02_RoB/1L	1984	邸	mansión	residence	○[てい]宅[たく]	邸[やしき]		leech
+Esby4nof^L	1985	郭	contorno	enclosure	外[がい]○[かく]<br><br>城[じょう]○[かく]	郭[かく]		leech
+w7A$,2jZ;O	1986	郡	comarca	county	○[ぐん]	郡[ぐん]		leech
+E2o$i)4.>~	1987	郊	afueras	outskirts	○[こう]外[がい]	郊		leech
+K,/>vXEJ0_	1988	部	sección	section	全[ぜん]○[ぶ]<br>○[ぶ]分[ぶん]<br><br>○[へ]屋[や]	部[ぶ]		
+gro~L~%vIQ	1989	都	metrópolis	metropolis	首[しゅ]○[と]<br>○[つ]合[ごう]<br><br>○[みやこ]	都[と]		leech
+E^J6azT9=J	1990	郵	correo	mail	○[ゆう]便[びん]	郵		leech
+hV|JpKNwt]	1991	邦	patria	home country	連[れん]○[ぽう]	邦[くに]		leech
+frYutm+lHP	1992	那	interrogativo	interrogative	旦[だん]○[な]	那		leech
+Me@z?xSZps	1993	郷	tierra natal	hometown	○[きょう]里[り]｜ 古[ふる]里[さと]<br>○[きょう]愁[しゅう]	郷[さと]		leech
+y^VY[BBT^,	1994	響	eco	echo	影[えい]○[きょう]<br><br>○[ひび]く	響[ひびき]		
+irE;DMmCF)	1995	郎	hijo	son	新[しん]○[ろう]	郎[ろう]		leech
+loBQ?h<I*I	1996	廊	pasillo	corridor	○[ろう]下[か]	廊[ろう]		
+Bl&|iG7hmC	1997	盾	escudo	shield	矛[む]○[じゅん]<br><br>○[たて]	盾[たて]		
+vXN3tv7my>	1998	循	secuencial	sequential	○[じゅん]環[かん]	循		
+"Q@I#_Whq2v"	1999	派	facción	faction	立[りっ]○[ぱ]	派[は]		
+f.H,qAxJ(!	2000	脈	vena	vein	山[さん]○[みゃく]<br>○[みゃく]<br>動[どう]○[みゃく]	脈[みゃく]		
+D<&N{K?Fy]	2001	衆	muchedumbre	masses	公[こう]○[しゅう]	衆[しゅう]		
+el,kaR+DFQ	2002	逓	servicio postal	parcel post	○[てい]信[しん]	逓		
+"Rf/@#@r[`m"	2003	段	gradación	grade	階[かい]○[だん]<br>○[だん]々[だん]	段[だん]		
+p~c(.GTzRT	2004	鍛	forjar	forge	○[たん]錬[れん]<br><br>○[きた]える	鍛		leech
+r1G%61?yRr	2005	后	emperatriz	empress	皇[こう]○[ごう]	后[きさき]		
+qfbfCAl/oL	2006	幻	fantasma	phantasm	○[げん]覚[かく]<br>○[げん]想[そう]<br><br>○[まぼろし]	幻[まぼろし]		
+L:O4nWP^RP	2007	司	director	director	○[し]会[かい]	司[つかさ]		
+Fp|=FNiV>n	2008	伺	presentar sus respetos	pay respects	○[うかが]う	伺[うかがい]		leech
+t:FZLw/bS(	2009	詞	categoría gramatical	parts of speech	動[どう]○[し]	詞[ことば]		
+y}}Wf3B{g|	2010	飼	domesticar	domesticate	○[し]育[いく]<br><br>○[か]う	飼		
+P8kOmQ:/ok	2011	嗣	sucesor	heir	○[し]子[し]	嗣		leech
+CndEUQ+K?u	2012	舟	bote	boat	○[ふね]	舟[ふね]		
+du%USJPDh<	2013	舶	buque mercante	liner	船[せん]○[ぱく]	舶[つむ]		
+d,%8j$=Pxe	2014	航	navegar	navigate	○[こう]空[くう]	航[こう]		leech
+GJPNP]HP^!	2015	舷	babor y estribor	gunwale	右[う]○[げん]	舷[ふなばた]		
+yM?YfhX8e(	2016	般	carguero	carrier	一[いっ]○[ぱん]	般		
+F+j[_;-E8c	2017	盤	bandeja	tray	基[き]○[ばん]	盤[ばん]		leech
+NmA%)(ef@,	2018	搬	acarrear	conveyor	運[うん]○[ぱん]	搬		leech
+G~9;{VRC&(	2019	船	barco	ship	汽[き]○[せん]<br>○[せん]舶[ぱく]<br><br>○[ふね]<br>○[ふな]旅[たび]	船[ふね]		
+Q=zk%Pf-o:	2020	艦	acorazado	warship	軍[ぐん]○[かん]	艦[かん]		leech
+Bb}qe!vy/>	2021	艇	barca de remos	rowboat	艦[かん]○[てい]	艇[てい]		leech
+G1rTYm2g;k	2022	瓜	melón	melon	西[すい]○[か]<br><br>○[うり]<br>胡[きゅ]○[いり]	瓜[うり]		
+En5wq}~`m9	2023	弧	curvatura	arc	括[かっ]○[こ]	弧[こ]		
+tltt}&)ZcF	2024	孤	huérfano	orphan	○[こ]児[じ]	孤[こ]		
+rGbcHDs)nD	2025	繭	capullo	cocoon	○[けん]糸[し]｜ 絹[けん]糸[し]<br>○[きぬ]糸[いと]｜ 絹糸[いと]<br><br>○[まゆ]	繭[まゆ]		
+QE<86s|S!u	2026	益	rédito	benefit	利[り]○[えき]<br><br>○[ます]々[ます]	益[えき]		
+"iAYK_#i4+?"	2027	暇	tiempo libre	spare time	休[きゅう]○[か]<br><br>○[ひま]	暇[ひま]		leech
+sCa)_iZ[7W	2028	敷	extender	spread	○[ふ]設[せつ]<br><br>○[し]く	敷[しき]		leech
+"ey>W#q&|w_"	2029	来	venir	come	○[らい]年[ねん]<br><br>○[く]る	来[き]		
+ld]*v/!Vd7	2030	気	energía	spirit	元[げん]○[き]	気[き]		
+pgkYaXq5ov	2031	汽	vapor	vapor	○[き]車[しゃ]<br>○[き]船[せん]	汽		
+C<d,W-JLu9	2032	飛	volar	fly	○[ひ]行[こう]機[き]<br><br>○[と]ぶ	飛[ひ]		
+Il[EO}[e@+	2033	沈	hundirse	sink	○[ちん]黙[もく]<br><br>○[しず]む	沈		
+A*Duhw_v:h	2034	枕	almohada	pillow	○[まくら]	枕[まくら]		
+cE:Sfj+U!Z	2035	妻	esposa	wife	○[つま]	妻[つま]		leech
+dZh^$GsR:L	2036	凄	brutal	nifty	○[すご]い<br>物[もの]○[すご]い	凄[すご]		
+waD:$=gR?6	2037	衰	declive	decline	○[おとろ]える	衰		leech
+"i&0_XDR#I}"	2038	衷	interior	inmost	○[ちゅう]心[しん]	衷		leech
+xI1W;=:p<&	2039	面	máscara	mask	○[めん]｜～ ○[めん]<br>表[ひょう]○[めん]<br><br>○[おも]<br>○[おも]白[しろ]い<br><br>真○目[まじめ]	面[めん]		
+I{k|9LET;Q	2040	麺	fideos	noodles	○[めん]	麺[めん]		
+I@kZpC[_<Z	2041	革	cuero	leather	改[かい]○[かく]<br>○[かく]命[めい]<br><br>○[かわ]	革[かわ]		
+Lr76fSbFu8	2042	靴	zapatos	shoes	○[くつ]<br>○[くつ]下[した]	靴[くつ]		leech
+K$^$RgDyNT	2043	覇	hegemonía	hegemony	制[せい]○[は]	覇[は]		
+s,<{Wj<=fo	2044	声	voz	voice	名[めい]○[せい]<br><br>○[こえ]<br>歌[うた]○[ごえ]	声[こえ]		
+G?Cc)]!pQQ	2045	眉	ceja	eyebrow	○[まゆ]	眉[まゆ]		
+"D+w-#o,!#!"	2046	呉	dar	give	○[く]れる	呉[ご]		
+A9Bwr9$0&[	2047	娯	diversión	recreation	○[ご]楽[らく]	娯		
+NIefR_sD+s	2048	誤	error	mistake	○[あやま]り<br><br>正[せい]○[ご]	誤[あやま]		leech
+gqj!q`2Bil	2049	蒸	vaho	steam	○[じょう]発[はつ]	蒸		
+"JBw7[#_r[S"	2050	承	consentir	acquiesce	○[しょう]知[ち]	承[うけたまわ]		leech
+M~;*S!%(fo	2051	函	cajón	bin	投[とう]○[かん]<br><br>○[はこ]	函[はこ]		
+hFfjdSgo6X	2052	極	polos	poles	○[きょく]限[げん]	極[ごく]		
+fSB!(1u{gG	2053	牙	colmillo	tusk	象[ぞう]○[げ]<br><br>○[きば]	牙[きば]		
+Akh*F-cO&r	2054	芽	germinar	bud	発[はつ]○[が]	芽[め]		leech
+fxj)>&;F=o	2055	邪	infame	wicked	○[じゃ]魔[ま]<br><br>風○[かぜ]	邪[よこしま]		
+vqFs<9PUm:	2056	雅	elegante	gracious	○[が]致[ち]	雅[みやび]		leech
+qiRgL_Yx*X	2057	釈	interpretación	interpretation	解[かい]○[しゃく]	釈[しゃく]		leech
+u^>X!=v.O4	2058	番	turno	turn	○[ばん]組[ぐみ]	番[ばん]		
+ymIQd{{Mrd	2059	審	vista (juzgado)	hearing	○[しん]判[ぱん]	審[しん]		leech
+ES@(xxuIpB	2060	翻	voltear	flip	○[ほん]訳[やく]<br><br>○[ひろがえ]る<br>○[ひろがえ]す	翻[こぼし]		leech
+d~8/Z[!7hE	2061	藩	clan	clan	○[はん]主[しゅ]	藩[はん]		leech
+yhqtc~*h)y	2062	毛	pelaje	fur	○[もう]布[ふ]<br><br>○[け]皮[がわ]	毛[もう]		
+"J7jJav{a#9"	2063	耗	gastar	decrease	消[しょう]○[もう]	耗		leech
+"pGr#<l,R^S"	2064	尾	cola de animal	tail	首[しゅ]○[び]	尾[お]		leech
+P*j(x.!SGJ	2065	宅	domicilio	home	帰[き]○[たく]	宅[たく]		leech
+v7umK=DgA_	2066	託	consignar	consign	委[い]○[たく]	託[たく]		leech
+o6aJ[;oj7%	2067	為	hacer	do	行[こう]○[い]<br><br>○[な]さる	為[ため]		
+m&dzlbS[&Z	2068	偽	falsedad	falsehood	○[ぎ]造[ぞう]<br>虚[きょ]○[ぎ]<br><br>○[にせ]物[もの]	偽[にせ]		leech
+M=bl97DU_z	2069	畏	escrupuloso	apprehensive	○[い]敬[けい]<br><br>○[おそ]れる	畏[かしこ]		
+Y@Kn*Wdho	2070	長	largo	long	成[せい]○[ちょう]<br><br>○[なが]い	長[なが]		
+j._ThRE(%D	2071	張	alargar	lengthen	主[しゅう]○[ちょう]<br><br>○[は]る	張[ちょう]		leech
+jDGUgmcN78	2072	帳	cuaderno de apuntes	notebook	手[て]○[ちょう]	帳[とばり]		leech
+I:;&Ts428Z	2073	脹	dilatar	dilate	腫[しゅ]○[ちょう]<br><br>○[ふく]らむ<br>腫[は]れる ||<br>|| ○[は]れる (r.)	脹		
+"e7k-J}Q#/c"	2074	髪	pelo	hair of the head	金[きん]○[ぱつ]<br>白[はく]○[はつ]｜ 白○[しらが]<br><br>○[かみ]	髪[かみ]		
+L[2Qjxy?<Z	2075	展	desarrollar	unfold	発[はっ]○[てん]<br>○[てん]開[かい]	展[てん]		leech
+iH1pnRg/8f	2076	喪	luto	miss	○[そう]失[しつ]<br><br>○[も]服[ふく]	喪[も]		leech
+"N8k#WWrcB5"	2077	巣	nido	nest	卵[らん]○[そう]<br><br>○[す]	巣[す]		leech
+PD;wPNTZ%k	2078	単	simple	simple	簡[かん]○[たん]<br>○[たん]語[ご]	単[たん]		
+Fa$eA^wmc}	2079	戦	guerra	war	○[せん]争[そう]<br><br>○[たたか]う	戦[せん]		
+E%K5Sj@{s;	2080	禅	<i>zen</i>	<i>Zen</i>	○[ぜん]宗[しゅう]	禅[ぜん]		leech
+kBT9BW8EGc	2081	弾	bala	bullet	爆[ばく]○[だん]	弾[たま]		
+"fcq#Z1:@Ek"	2082	桜	cerezo	cherry tree	○[おう]花[か]<br><br>○[さくら]	桜[さくら]		
+"O4Czt#X8*|"	2083	獣	animal	animal	○[じゅう]医[い]<br><br>○[けもの]	獣[しし]		leech
+N?diF-1Q9q	2084	脳	cerebro	brain	頭[ず]○[のう]	脳[のう]		leech
+Nhl,dS:Pue	2085	悩	inquietud	trouble	○[なや]む	悩		leech
+"ow#_Zt|8cg"	2086	厳	severo	stern	○[げん]重[じゅう]<br><br>○[きび]しい	厳[いむ]		leech
+tz@mu!ap[]	2087	鎖	cadena	chain	閉[へい]○[さ]<br>連[れん]○[さ]<br><br>○[くさり]	鎖[くさり]		
+q`-0iw1r>t	2088	挙	alzar	raise	選[せん]○[きょ]<br><br>○[あ]げる	挙[きょ]		
+Od:EB:blWp	2089	誉	reputación	reputation	名[めい]○[よ]<br><br>○[ほまれ]	誉[ほまれ]		
+zGY)KF7sDL	2090	猟	cacería	game hunting	○[りょう]師[し]	猟[りょう]		
+wgs6em4oZo	2091	鳥	pájaro	bird	一[いっ]石[せき]二[に]○[ちょう]<br><br>小[こ]○[とり]<br>渡[わたり]り ○[どり]	鳥[とり]		
+EOz_rSU%bO	2092	鳴	piar	chirp	悲[ひ]○[めい]<br><br>○[な]く<br>○[な]る	鳴[な]		
+A,/`gcn%V9	2093	鶴	grulla	crane	○[つる]	鶴[つる]		leech
+Ba<s5r2L{Q	2094	烏	cuervo	crow	○[からす]	烏[からす]		
+kb[fRu%z*h	2095	蔦	parra	vine	○[つた]	蔦[つた]		
+N{|V`8iN<P	2096	鳩	paloma	pigeon	○[はと]	鳩[はと]		leech
+xY%4pP^X^a	2097	鶏	gallina	chicken	○[けい]卵[らん]<br><br>○[にわとり]<br><br>○[とり]肉[にく]	鶏[にわとり]		
+H[[skxO|9v	2098	島	isla	island	半[はん]○[とう]<br><br>○[しま]<br>広[ひろ]○[しま]	島[しま]		
+FS=rBW9EtK	2099	暖	calidez	warmth	温[おん]○[だん]	暖[だん]		
+q.Zr6p_|j:	2100	媛	bella mujer	beautiful woman	愛[え]○[ひめ]県[けん]	媛[ひめ]		
+N7M:V}6;1q	2101	援	socorro	abet	○[えん]助[じょ]<br>応[おう]○[えん]	援		
+pX[rSt/6;5	2102	緩	flojear	slacken	○[かん]和[わ]<br><br>○[ゆる]い<br>○[ゆる]やか	緩[ゆる]		leech
+h:kV)H?c[D	2103	属	pertenecer	belong	付[ふ]○[ぞく]	属[ぞく]		leech
+B8$f<=|$`>	2104	嘱	encomendar	entrust	委[い]○[しょく]	嘱[しょく]		leech
+vaVZdC<]-m	2105	偶	por casualidad	accidentally	○[ぐう]然[ぜん]	偶[たま]		leech
+itEVoIn;58	2106	遇	entrevista	interview	待[たい]○[ぐう]	遇[ぐう]		leech
+"#4NaE0z+V"	2107	愚	alocado	foolish	○[ぐ]痴[ち]	愚[ぐ]		leech
+g<=j.BnMT]	2108	隅	esquina	corner	○[すみ]々[ずみ]	隅[すみ]		leech
+"K{#22PX^2*"	2109	逆	invertido	inverted	○[ぎゃく]転[てん]<br><br>○[さか]らう<br>○[さか]さま	逆[ぎゃく]		leech
+Loz=q0:=w+	2110	塑	modelar	model	彫[ちょう]○[そ]	塑		leech
+uQwmLltBXU	2111	遡	remontar el curso	go upstream	○[さかのぼ]る	遡[さかのぼ]		
+M44cEv>zD0	2112	岡	Monte	Mount	○[おか]山[やま]県[けん]	岡[おか]		
+lA9jG8Ry{(	2113	鋼	acero	steel	鉄[てっ]○[こう]<br><br>○[はがね]	鋼[はがね]		
+IR%so![X_G	2114	綱	soga	hawser	○[こう]領[りょう]<br>〜 ○[こう]<br><br>○[つな]	綱[つな]		
+h_+>*!&6/f	2115	剛	vigoroso	sturdy	○[ごう]健[けん]	剛[つよし]		leech
+rE$6J`CO9`	2116	缶	lata	tin can	○[かん]	缶[かん]		
+"M.#,7v#X~~"	2117	陶	alfarería	pottery	○[とう]器[き]	陶[すえ]		leech
+ES}s@ViEhX	2118	揺	mecerse	swing	動[どう]○[よう]<br><br>○[ゆ]れる	揺[ゆら]		leech
+o`>Ky@!9*^	2119	謡	canción de nō	Noh chanting	民[みん]○[よう]<br><br>○[うた]う<br>○[うたい]｜ ○[うた]い	謡[うたい]		
+E[h^cDKK_U	2120	鬱	depresivo	gloom	憂[ゆう]○[うつ]	鬱[うつ]		
+oT!R@Ra=cJ	2121	就	concerniente a	concerning	○[しゅう]任[にん]<br><br>○[つ]く	就		leech
+g-2+z:Bqj|	2122	蹴	patada	kick	○[け]る	蹴[け]		
+p,9aIht^ae	2123	懇	sociable	sociable	○[ねんご]ろ	懇[こん]		leech
+M+)3Ay;|NZ	2124	墾	roturar	groundbreaking	開[かい]○[こん]	墾		
+g)2+fT_<H!	2125	貌	semblante	countenance	変[へん]○[ぼう]	貌[かお]		leech
+tYT67e67%W	2126	免	excusarse	excuse	○[めん]許[きょ]	免[めん]		
+h^>,Jf|[B~	2127	逸	eludir	elude	○[いつ]話[わ]<br><br>○[そ]れる	逸[いっ]		leech
+1j}-f5gaS	2128	晩	crepúsculo	nightfall	今[こん] ○[ばん]	晩[ばん]		
+mrC)&]{^,!	2129	勉	ejercer	exertion	○[べん]強[きょう]	勉[つとむ]		
+O<C%<:HpMK	2130	象	elefante	elephant	対[たい]○[しょう]<br><br>○[ぞう]	象[ぞう]		
+k-m:Qq^fM%	2131	像	estatua	statue	想[そう]○[ぞう]	像[ぞう]		
+Bo)N_&>8b(	2132	馬	caballo	horse	○[ば]鹿[か]<br><br>○[うま]	馬[うま]		
+v!z[X3AYKq	2133	駒	potro	pony	○[こま]	駒[こま]		
+d(3]Ts?2:	2134	験	verificación	verification	試[し]○[けん]	験[けん]		
+tw6W2&{Ugn	2135	騎	ecuestre	equestrian	○[き]手[しゅ]	騎[き]		leech
+Gf:U1HFblo	2136	駐	aparcar	parking	○[ちゅう]車[しゃ]	駐[ちゅう]		leech
+qI_!]/l[uz	2137	駆	conducir	drive	○[く]使[し]<br><br>○[か]ける	駆[か]		
+t{r9{j:!Bk	2138	駅	estación	station	○[えき]	駅[えき]		
+A2&F*~$/Lb	2139	騒	alboroto	boisterous	○[そう]音[おん]<br><br>○[さわ]ぐ	騒		leech
+hw;C@<CY)$	2140	駄	oneroso	burdensome	無[む]○[だ]<br><br>○[ダ]目[メ]	駄[だ]		
+qcJffR9MrB	2141	驚	asombro	wonder	○[きょう]異[い]<br><br>○[おどろ]く<br>○[おどろ]かす	驚[おどろき]		leech
+D(2X++aXe)	2142	篤	ferviente	fervent	危[き]○[とく]	篤[あつ]		
+g2Ybn23up[	2143	罵	insulto	insult	○[ののし]る	罵[ののし]		leech
+lXo?N5XdGZ	2144	騰	inflación	inflation	沸[ふっ]○[とう]	騰[あが]		
+AZD17(XZQU	2145	虎	tigre	tiger	○[とら]	虎[とら]		
+MP?K(Oo{Zi	2146	虜	cautivo	captive	捕[ほ]○[りょ]	虜[とりこ]		leech
+p`-godgOwE	2147	膚	dermis	skin	皮[ひ]○[ふ]	膚[はだ]		
+n>wm7CU6&X	2148	虚	vacuo	void	謙[けん]○[きょ]<br><br>○[むな]しい	虚[うろ]		
+ml3:p&ye|.	2149	戯	jolgorio	frolic	○[ぎ]曲[きょく]<br><br>悪[いた]○[ずら]	戯[あざれ]		leech
+e|`^,7~>b8	2150	虞	desasosiego	uneasiness	○[おそれ]	虞[おそれ]		
+A*,Vwt{;fW	2151	慮	prudencia	prudence	遠[えん]○[りょ]	慮[おもんばか]		leech
+Cm.P~+hQ|p	2152	劇	drama	drama	○[げき]場[じょう]	劇[げき]		leech
+jvyF-ktXXh	2153	虐	opresión	tyrannize	○[ぎゃく]待[たい]<br><br>○[しいた]げる	虐		
+pw7;SE}Nvb	2154	鹿	ciervo	deer	○[しか]<br><br>馬[ば]○[か]	鹿[しか]		
+q:]V(:!B0X	2155	麓	falda de la montaña	foot of a mountain	山[さん]○[ろく]<br><br>○[ふもと]	麓[ふもと]		leech
+Qmq[!/Q652	2156	薦	recomendar	recommend	推[すい]○[せん]	薦[こも]		leech
+r,1aSq%sm}	2157	慶	jubilación	jubilation	○[けい]祝[しゅく]	慶[けい]		leech
+j~OZf;Twj!	2158	麗	hermoso	lovely	綺[き]○[れい]<br><br>○[うるわ]しい	麗[うらら]		leech
+o1;ma,`^v:	2159	熊	oso	bear	○[くま]	熊[くま]		
+i(b9bOg(+D	2160	能	capaz	ability	○[のう]力[りょく]	能[のう]		leech
+n9.jWQ1@y8	2161	態	actitud	attitutde	○[たい]勢[せい]	態[たい]		leech
+HOAMv|9Xa{	2162	寅	signo del tigre	sign of the tiger	○[とら]年[どし]	寅[とら]		leech
+o1ZkA_<01	2163	演	actuación	performance	○[えん]技[ぎ]	演		leech
+B@/I,TUV%&	2164	辰	signo del dragón	sign of the dragon	戊[ぼ]○[しん]戦[せん]争[そう]<br><br>○[たつ]年[どし]	辰[たつ]		
+j3aW<:`wb!	2165	辱	avergonzar	embarrass	侮[ぶ]○[じょく]	辱[じょく]		leech
+dt;OQi;yP[	2166	震	seísmo	quake	地[じ]○[しん]<br><br>○[ふる]える	震[しん]		
+AdvOXQoa6H	2167	振	agitar	shake	○[ふ]る	振[ふ]		
+Om)Za/h*M<	2168	娠	encinta	with child	妊[にん]○[しん]	娠		leech
+ert1`XV;fE	2169	唇	labios	lips	○[くちびる]	唇[くちびる]		leech
+sE]BWzq*|]	2170	農	agricultura	agriculture	○[のう]業[ぎょう]	農[のう]		
+"mN(a?c#AwY"	2171	濃	concentrado	concentrated	○[こ]い	濃[こ]		leech
+oWtG{pJD%d	2172	送	enviar	send off	放[ほう]○[そう]<br><br>○[おく]る	送[おく]		
+p3s=Rtd7z!	2173	関	relación	connection	○[かん]係[けい]<br>機[き]○[かん]<br><br>○[かか]わり	関[せき]		
+Gy<O}WjrC`	2174	咲	floración	blossom	○[さ]く	咲[さき]		leech
+nB@(wJQ*vU	2175	鬼	ogro	ghost	○[き]神[しん]｜ ○[き]神[じん]<br><br>○[おに]<br>○[おに]ごっこ	鬼[おに]		
+v3t*:_fBsI	2176	醜	feo	ugly	○[しゅう]悪[あく]<br><br>○[みにく]い	醜[みにく]		
+"NM&&Qz:#9b"	2177	魂	alma	soul	○[たましい]	魂[たましい]		leech
+KX;_M8h$kg	2178	魔	bruja	witch	悪[あく]○[ま]	魔[ま]		
+M=~F]5ER)M	2179	魅	fascinación	fascination	○[み]力[りょく]	魅[み]		leech
+EbECD)%@p-	2180	塊	masa informe	clod	○[かたまり]	塊[かたまり]		
+x|P%=72;jA	2181	襲	atacar	attack	○[しゅう]撃[げき]	襲[かさね]		
+n[lirq>nRf	2182	嚇	regañar	upbraid	威[い]○[かく]	嚇		
+lhB!=nY|%r	2183	朕	plural mayestático	majestic plural	○[ちん]	朕[ちん]		
+bb:q1[-BN[	2184	雰	atmósfera	atmosphere	○[ふん]囲[い]気[き]	雰[きり]		
+"AAMm?.#j3"	2185	箇	una unidad	item	○[か]所[しょ]	箇[か]		
+JUAR//_/L3	2186	錬	templar	tempering	鍛[たん]○[れん]	錬[ね]		
+y0|4J^B=_A	2187	遵	acatar	abide by	○[じゅん]守[しゅ]	遵		leech
+up{hfYyenI	2188	罷	renunciar	quit	○[ひ]免[めん]	罷[まか]		
+"hC#r.qQk@p"	2189	屯	cuartel	barracks	駐[ちゅう]○[とん]	屯[たむろ]		
+MhQqTPXOk{	2190	且	además	moreover	○[か]つ	且		
+zoUV9s17?Z	2191	藻	alga	seaweed	海[かい]○[そう]<br><br>○[も]	藻[も]		
+MO}HeqoVaR	2192	隷	esclavo	slave	奴[ど]○[れい]	隷		leech
+Kc?i;2lK,v	2193	癒	curar	healing	○[い]やす |  ○[いや]す	癒		
+KaDj`-,<pt	2194	璽	sello imperial	imperial seal	御[ぎょ]○[じ]	璽[じ]		
+LoVE[F&_2G	2195	潟	laguna	lagoon	新[にい]○[がた]	潟[かた]		
+mppSP$(2U^	2196	丹	cinabrio	cinnabar	○[たん]念[ねん]	丹[に]		leech
+FB@Y]q`ci^	2197	丑	signo del buey	sign of the cow	○[うし]	丑[うし]		
+"Ij=._b#]>3"	2198	羞	humillar	humiliate	○[しゅう]恥[ち]	羞[はじ]		leech
+dUFq[V{e;~	2199	卯	signo del conejo	sign of the hare	○[う]月[づき]	卯[う]		
+"xs7amC#lr/"	2200	巳	signo de la serpiente	sign of the snake	○[み]年[どし]	巳[み]		

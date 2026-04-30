@@ -1,0 +1,20 @@
+<div class="back" lang="ja">
+    <div class="card-content">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+        <div class="glass-card">
+            <div class="expression japanese-kanji">{{furigana:Expression}}</div>
+        </div>
+        <div class="meanings">
+            <div class="meaning japanese">{{furigana:Meaning}}</div>
+            {{#Meaning (english)}}
+            <div class="meaning-en">{{furigana:Meaning (english)}}</div>
+            {{/Meaning (english)}}
+        </div>
+        {{#Hint}}
+        <div class="divider"></div>
+        <div class="hint-back japanese">{{furigana:Hint}}</div>
+        {{/Hint}}
+    </div>
+</div>

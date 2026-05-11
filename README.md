@@ -22,7 +22,7 @@ Card templates for a **kanji recognition** Anki deck — Japanese → Spanish/En
 | Field | Description |
 |-------|-------------|
 | `Expression` | Target kanji (character or compound) |
-| `Meaning` | Spanish translation |
+| `Meaning (spanish)` | Spanish translation |
 | `Meaning (english)` | English translation |
 | `Hint` | Sample vocabulary using the kanji |
 | `Picture` | Optional image |
